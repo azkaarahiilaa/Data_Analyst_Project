@@ -1,0 +1,2001 @@
+NIM,Nama Mahasiswa,Jenis Kelamin,Tanggal Lahir,Alamat,Program Studi,Tahun Masuk
+NIM00001,Mahasiswa_1,Laki-Laki,1/12/2002 0:00,Surabaya,Manajemen,2023
+NIM00002,Mahasiswa_2,Perempuan,4/29/1997 0:00,Medan,Manajemen,2020
+NIM00003,Mahasiswa_3,Laki-Laki,10/17/2002 0:00,Bandung,Teknik Informatika,2018
+NIM00004,Mahasiswa_4,Laki-Laki,12/4/1999 0:00,Yogyakarta,Hukum,2023
+NIM00005,Mahasiswa_5,Laki-Laki,9/5/1995 0:00,Medan,Teknik Informatika,2018
+NIM00006,Mahasiswa_6,Perempuan,12/20/2001 0:00,Yogyakarta,Manajemen,2017
+NIM00007,Mahasiswa_7,Laki-Laki,5/7/1999 0:00,Bandung,Manajemen,2023
+NIM00008,Mahasiswa_8,Laki-Laki,3/15/2000 0:00,Medan,Hukum,2021
+NIM00009,Mahasiswa_9,Laki-Laki,12/26/2000 0:00,Bandung,Kedokteran,2022
+NIM00010,Mahasiswa_10,Perempuan,7/23/2002 0:00,Jakarta,Kedokteran,2022
+NIM00011,Mahasiswa_11,Laki-Laki,2/18/2003 0:00,Bandung,Hukum,2017
+NIM00012,Mahasiswa_12,Laki-Laki,3/19/1996 0:00,Yogyakarta,Hukum,2020
+NIM00013,Mahasiswa_13,Laki-Laki,8/29/2003 0:00,Surabaya,Teknik Informatika,2019
+NIM00014,Mahasiswa_14,Laki-Laki,12/14/2004 0:00,Bandung,Hukum,2019
+NIM00015,Mahasiswa_15,Perempuan,6/3/2003 0:00,Surabaya,Kedokteran,2021
+NIM00016,Mahasiswa_16,Laki-Laki,9/30/2004 0:00,Jakarta,Hukum,2017
+NIM00017,Mahasiswa_17,Perempuan,4/5/2004 0:00,Medan,Teknik Informatika,2017
+NIM00018,Mahasiswa_18,Perempuan,8/2/2001 0:00,Medan,Teknik Informatika,2020
+NIM00019,Mahasiswa_19,Perempuan,10/21/1995 0:00,Surabaya,Teknik Informatika,2023
+NIM00020,Mahasiswa_20,Laki-Laki,7/28/2001 0:00,Medan,Teknik Informatika,2019
+NIM00021,Mahasiswa_21,Perempuan,12/8/2004 0:00,Bandung,Akuntansi,2023
+NIM00022,Mahasiswa_22,Laki-Laki,3/29/1999 0:00,Surabaya,Hukum,2017
+NIM00023,Mahasiswa_23,Perempuan,11/1/2000 0:00,Yogyakarta,Manajemen,2023
+NIM00024,Mahasiswa_24,Perempuan,9/20/2004 0:00,Bandung,Hukum,2022
+NIM00025,Mahasiswa_25,Perempuan,11/21/2001 0:00,Bandung,Akuntansi,2021
+NIM00026,Mahasiswa_26,Perempuan,11/16/1999 0:00,Bandung,Teknik Informatika,2019
+NIM00027,Mahasiswa_27,Perempuan,6/6/2001 0:00,Yogyakarta,Akuntansi,2020
+NIM00028,Mahasiswa_28,Perempuan,6/5/2003 0:00,Jakarta,Kedokteran,2021
+NIM00029,Mahasiswa_29,Perempuan,5/19/1997 0:00,Medan,Kedokteran,2018
+NIM00030,Mahasiswa_30,Perempuan,5/1/2002 0:00,Surabaya,Hukum,2022
+NIM00031,Mahasiswa_31,Laki-Laki,3/5/1996 0:00,Jakarta,Hukum,2020
+NIM00032,Mahasiswa_32,Laki-Laki,4/17/2001 0:00,Surabaya,Manajemen,2021
+NIM00033,Mahasiswa_33,Perempuan,5/26/1996 0:00,Medan,Manajemen,2017
+NIM00034,Mahasiswa_34,Perempuan,5/17/1998 0:00,Yogyakarta,Kedokteran,2018
+NIM00035,Mahasiswa_35,Perempuan,6/11/2001 0:00,Bandung,Teknik Informatika,2020
+NIM00036,Mahasiswa_36,Laki-Laki,4/10/1997 0:00,Bandung,Akuntansi,2017
+NIM00037,Mahasiswa_37,Perempuan,12/3/1996 0:00,Yogyakarta,Manajemen,2022
+NIM00038,Mahasiswa_38,Laki-Laki,11/2/2004 0:00,Jakarta,Manajemen,2018
+NIM00039,Mahasiswa_39,Laki-Laki,5/21/2001 0:00,Jakarta,Teknik Informatika,2019
+NIM00040,Mahasiswa_40,Laki-Laki,3/24/1995 0:00,Surabaya,Teknik Informatika,2017
+NIM00041,Mahasiswa_41,Laki-Laki,6/26/2002 0:00,Yogyakarta,Hukum,2021
+NIM00042,Mahasiswa_42,Laki-Laki,7/17/1997 0:00,Jakarta,Akuntansi,2023
+NIM00043,Mahasiswa_43,Perempuan,4/21/1996 0:00,Yogyakarta,Teknik Informatika,2020
+NIM00044,Mahasiswa_44,Perempuan,2/25/1997 0:00,Medan,Manajemen,2018
+NIM00045,Mahasiswa_45,Perempuan,6/28/1999 0:00,Bandung,Manajemen,2017
+NIM00046,Mahasiswa_46,Perempuan,7/5/2002 0:00,Bandung,Kedokteran,2019
+NIM00047,Mahasiswa_47,Perempuan,8/5/2004 0:00,Bandung,Teknik Informatika,2023
+NIM00048,Mahasiswa_48,Laki-Laki,11/12/2001 0:00,Yogyakarta,Hukum,2020
+NIM00049,Mahasiswa_49,Perempuan,8/5/2001 0:00,Yogyakarta,Akuntansi,2020
+NIM00050,Mahasiswa_50,Perempuan,4/30/2001 0:00,Surabaya,Hukum,2017
+NIM00051,Mahasiswa_51,Laki-Laki,6/24/2002 0:00,Bandung,Manajemen,2019
+NIM00052,Mahasiswa_52,Perempuan,1/23/1995 0:00,Surabaya,Hukum,2022
+NIM00053,Mahasiswa_53,Laki-Laki,8/1/1998 0:00,Bandung,Manajemen,2023
+NIM00054,Mahasiswa_54,Perempuan,8/22/2000 0:00,Surabaya,Manajemen,2022
+NIM00055,Mahasiswa_55,Laki-Laki,1/13/2003 0:00,Surabaya,Manajemen,2018
+NIM00056,Mahasiswa_56,Perempuan,4/10/1996 0:00,Medan,Manajemen,2017
+NIM00057,Mahasiswa_57,Perempuan,1/24/1995 0:00,Surabaya,Manajemen,2023
+NIM00058,Mahasiswa_58,Laki-Laki,12/29/2004 0:00,Yogyakarta,Kedokteran,2018
+NIM00059,Mahasiswa_59,Laki-Laki,1/11/1996 0:00,Surabaya,Hukum,2022
+NIM00060,Mahasiswa_60,Laki-Laki,9/30/2001 0:00,Bandung,Kedokteran,2023
+NIM00061,Mahasiswa_61,Laki-Laki,10/8/1997 0:00,Surabaya,Kedokteran,2020
+NIM00062,Mahasiswa_62,Laki-Laki,4/3/2004 0:00,Jakarta,Teknik Informatika,2018
+NIM00063,Mahasiswa_63,Laki-Laki,7/19/1996 0:00,Bandung,Teknik Informatika,2019
+NIM00064,Mahasiswa_64,Laki-Laki,1/21/2001 0:00,Jakarta,Teknik Informatika,2021
+NIM00065,Mahasiswa_65,Laki-Laki,12/5/1996 0:00,Bandung,Akuntansi,2022
+NIM00066,Mahasiswa_66,Perempuan,7/30/1997 0:00,Yogyakarta,Teknik Informatika,2022
+NIM00067,Mahasiswa_67,Perempuan,5/20/2001 0:00,Yogyakarta,Hukum,2019
+NIM00068,Mahasiswa_68,Laki-Laki,10/20/1998 0:00,Yogyakarta,Kedokteran,2023
+NIM00069,Mahasiswa_69,Perempuan,10/25/1995 0:00,Jakarta,Hukum,2023
+NIM00070,Mahasiswa_70,Perempuan,4/11/1999 0:00,Medan,Teknik Informatika,2023
+NIM00071,Mahasiswa_71,Perempuan,10/31/2003 0:00,Bandung,Akuntansi,2018
+NIM00072,Mahasiswa_72,Perempuan,12/25/2002 0:00,Yogyakarta,Akuntansi,2017
+NIM00073,Mahasiswa_73,Laki-Laki,1/28/2003 0:00,Bandung,Kedokteran,2020
+NIM00074,Mahasiswa_74,Perempuan,2/10/2004 0:00,Jakarta,Hukum,2021
+NIM00075,Mahasiswa_75,Laki-Laki,12/21/2003 0:00,Medan,Manajemen,2017
+NIM00076,Mahasiswa_76,Perempuan,10/30/2001 0:00,Jakarta,Hukum,2017
+NIM00077,Mahasiswa_77,Perempuan,5/26/1998 0:00,Bandung,Teknik Informatika,2019
+NIM00078,Mahasiswa_78,Perempuan,9/13/1999 0:00,Medan,Manajemen,2018
+NIM00079,Mahasiswa_79,Laki-Laki,8/15/1995 0:00,Medan,Akuntansi,2022
+NIM00080,Mahasiswa_80,Perempuan,8/24/1995 0:00,Jakarta,Kedokteran,2022
+NIM00081,Mahasiswa_81,Laki-Laki,12/27/1997 0:00,Yogyakarta,Kedokteran,2019
+NIM00082,Mahasiswa_82,Perempuan,1/13/2002 0:00,Bandung,Akuntansi,2018
+NIM00083,Mahasiswa_83,Laki-Laki,7/28/1996 0:00,Surabaya,Teknik Informatika,2019
+NIM00084,Mahasiswa_84,Perempuan,8/17/1998 0:00,Surabaya,Akuntansi,2022
+NIM00085,Mahasiswa_85,Laki-Laki,4/9/1996 0:00,Jakarta,Teknik Informatika,2017
+NIM00086,Mahasiswa_86,Laki-Laki,1/31/1999 0:00,Bandung,Manajemen,2020
+NIM00087,Mahasiswa_87,Perempuan,1/16/2003 0:00,Bandung,Akuntansi,2023
+NIM00088,Mahasiswa_88,Laki-Laki,5/17/1995 0:00,Jakarta,Teknik Informatika,2018
+NIM00089,Mahasiswa_89,Perempuan,11/25/1999 0:00,Bandung,Manajemen,2021
+NIM00090,Mahasiswa_90,Perempuan,6/15/2003 0:00,Yogyakarta,Akuntansi,2021
+NIM00091,Mahasiswa_91,Perempuan,11/6/1995 0:00,Jakarta,Kedokteran,2017
+NIM00092,Mahasiswa_92,Perempuan,4/10/2003 0:00,Yogyakarta,Akuntansi,2019
+NIM00093,Mahasiswa_93,Perempuan,4/19/2002 0:00,Bandung,Hukum,2019
+NIM00094,Mahasiswa_94,Perempuan,12/9/1998 0:00,Jakarta,Akuntansi,2022
+NIM00095,Mahasiswa_95,Perempuan,6/21/2004 0:00,Bandung,Hukum,2017
+NIM00096,Mahasiswa_96,Perempuan,8/25/1999 0:00,Jakarta,Manajemen,2022
+NIM00097,Mahasiswa_97,Perempuan,6/11/1999 0:00,Bandung,Akuntansi,2022
+NIM00098,Mahasiswa_98,Perempuan,8/3/2000 0:00,Yogyakarta,Manajemen,2021
+NIM00099,Mahasiswa_99,Perempuan,9/21/2001 0:00,Yogyakarta,Manajemen,2022
+NIM00100,Mahasiswa_100,Laki-Laki,9/20/2002 0:00,Bandung,Teknik Informatika,2023
+NIM00101,Mahasiswa_101,Laki-Laki,10/19/2002 0:00,Jakarta,Manajemen,2022
+NIM00102,Mahasiswa_102,Perempuan,9/30/1996 0:00,Surabaya,Manajemen,2021
+NIM00103,Mahasiswa_103,Perempuan,1/3/2003 0:00,Yogyakarta,Akuntansi,2023
+NIM00104,Mahasiswa_104,Perempuan,1/28/2001 0:00,Yogyakarta,Akuntansi,2019
+NIM00105,Mahasiswa_105,Perempuan,11/22/1998 0:00,Surabaya,Kedokteran,2018
+NIM00106,Mahasiswa_106,Perempuan,5/29/1998 0:00,Bandung,Teknik Informatika,2020
+NIM00107,Mahasiswa_107,Perempuan,1/28/2002 0:00,Jakarta,Manajemen,2022
+NIM00108,Mahasiswa_108,Perempuan,11/6/1998 0:00,Bandung,Teknik Informatika,2023
+NIM00109,Mahasiswa_109,Perempuan,3/5/2000 0:00,Medan,Hukum,2018
+NIM00110,Mahasiswa_110,Laki-Laki,12/22/1999 0:00,Yogyakarta,Manajemen,2021
+NIM00111,Mahasiswa_111,Perempuan,1/21/1997 0:00,Medan,Teknik Informatika,2018
+NIM00112,Mahasiswa_112,Laki-Laki,9/8/2004 0:00,Yogyakarta,Kedokteran,2020
+NIM00113,Mahasiswa_113,Perempuan,8/22/1996 0:00,Yogyakarta,Kedokteran,2018
+NIM00114,Mahasiswa_114,Perempuan,8/15/2003 0:00,Medan,Manajemen,2023
+NIM00115,Mahasiswa_115,Laki-Laki,1/13/2004 0:00,Medan,Hukum,2018
+NIM00116,Mahasiswa_116,Perempuan,11/9/2003 0:00,Bandung,Kedokteran,2018
+NIM00117,Mahasiswa_117,Laki-Laki,2/18/1995 0:00,Medan,Kedokteran,2018
+NIM00118,Mahasiswa_118,Perempuan,4/27/2004 0:00,Bandung,Hukum,2017
+NIM00119,Mahasiswa_119,Perempuan,2/23/1997 0:00,Bandung,Teknik Informatika,2022
+NIM00120,Mahasiswa_120,Laki-Laki,5/18/2002 0:00,Bandung,Kedokteran,2021
+NIM00121,Mahasiswa_121,Perempuan,2/22/2000 0:00,Yogyakarta,Akuntansi,2020
+NIM00122,Mahasiswa_122,Laki-Laki,2/13/1999 0:00,Yogyakarta,Kedokteran,2021
+NIM00123,Mahasiswa_123,Perempuan,10/30/1999 0:00,Medan,Teknik Informatika,2017
+NIM00124,Mahasiswa_124,Laki-Laki,2/22/2000 0:00,Yogyakarta,Teknik Informatika,2017
+NIM00125,Mahasiswa_125,Laki-Laki,3/15/2001 0:00,Medan,Manajemen,2023
+NIM00126,Mahasiswa_126,Perempuan,2/15/1995 0:00,Yogyakarta,Akuntansi,2017
+NIM00127,Mahasiswa_127,Perempuan,1/13/2003 0:00,Jakarta,Teknik Informatika,2022
+NIM00128,Mahasiswa_128,Laki-Laki,6/14/1997 0:00,Jakarta,Hukum,2017
+NIM00129,Mahasiswa_129,Perempuan,4/12/1998 0:00,Medan,Akuntansi,2018
+NIM00130,Mahasiswa_130,Perempuan,10/6/2004 0:00,Yogyakarta,Akuntansi,2021
+NIM00131,Mahasiswa_131,Perempuan,9/15/1995 0:00,Yogyakarta,Hukum,2019
+NIM00132,Mahasiswa_132,Laki-Laki,12/2/2004 0:00,Bandung,Kedokteran,2020
+NIM00133,Mahasiswa_133,Laki-Laki,12/22/1997 0:00,Surabaya,Hukum,2017
+NIM00134,Mahasiswa_134,Laki-Laki,5/17/1996 0:00,Medan,Hukum,2021
+NIM00135,Mahasiswa_135,Laki-Laki,6/11/1996 0:00,Surabaya,Kedokteran,2023
+NIM00136,Mahasiswa_136,Laki-Laki,4/21/1995 0:00,Surabaya,Kedokteran,2017
+NIM00137,Mahasiswa_137,Laki-Laki,4/12/2002 0:00,Medan,Kedokteran,2022
+NIM00138,Mahasiswa_138,Laki-Laki,1/17/1997 0:00,Yogyakarta,Kedokteran,2017
+NIM00139,Mahasiswa_139,Laki-Laki,9/25/1997 0:00,Medan,Kedokteran,2017
+NIM00140,Mahasiswa_140,Laki-Laki,6/30/2000 0:00,Surabaya,Hukum,2017
+NIM00141,Mahasiswa_141,Perempuan,1/24/2002 0:00,Yogyakarta,Manajemen,2023
+NIM00142,Mahasiswa_142,Laki-Laki,1/29/2003 0:00,Jakarta,Manajemen,2017
+NIM00143,Mahasiswa_143,Perempuan,6/20/2003 0:00,Medan,Teknik Informatika,2020
+NIM00144,Mahasiswa_144,Perempuan,8/16/1998 0:00,Medan,Manajemen,2021
+NIM00145,Mahasiswa_145,Perempuan,7/7/1999 0:00,Yogyakarta,Manajemen,2022
+NIM00146,Mahasiswa_146,Laki-Laki,12/11/1996 0:00,Jakarta,Hukum,2017
+NIM00147,Mahasiswa_147,Laki-Laki,8/18/2003 0:00,Jakarta,Kedokteran,2017
+NIM00148,Mahasiswa_148,Laki-Laki,11/17/2002 0:00,Yogyakarta,Kedokteran,2017
+NIM00149,Mahasiswa_149,Laki-Laki,12/6/1997 0:00,Bandung,Hukum,2017
+NIM00150,Mahasiswa_150,Perempuan,4/29/2003 0:00,Medan,Manajemen,2018
+NIM00151,Mahasiswa_151,Laki-Laki,6/5/1997 0:00,Medan,Hukum,2018
+NIM00152,Mahasiswa_152,Laki-Laki,9/29/2003 0:00,Surabaya,Teknik Informatika,2019
+NIM00153,Mahasiswa_153,Laki-Laki,6/23/1996 0:00,Yogyakarta,Kedokteran,2017
+NIM00154,Mahasiswa_154,Laki-Laki,4/13/2004 0:00,Surabaya,Akuntansi,2019
+NIM00155,Mahasiswa_155,Laki-Laki,4/2/2003 0:00,Surabaya,Teknik Informatika,2020
+NIM00156,Mahasiswa_156,Perempuan,7/5/2002 0:00,Jakarta,Teknik Informatika,2019
+NIM00157,Mahasiswa_157,Laki-Laki,10/10/2003 0:00,Medan,Hukum,2021
+NIM00158,Mahasiswa_158,Perempuan,6/30/1999 0:00,Surabaya,Manajemen,2018
+NIM00159,Mahasiswa_159,Laki-Laki,6/18/1996 0:00,Jakarta,Kedokteran,2018
+NIM00160,Mahasiswa_160,Perempuan,7/6/2002 0:00,Yogyakarta,Akuntansi,2017
+NIM00161,Mahasiswa_161,Laki-Laki,6/23/2000 0:00,Surabaya,Teknik Informatika,2017
+NIM00162,Mahasiswa_162,Laki-Laki,8/10/2002 0:00,Medan,Akuntansi,2020
+NIM00163,Mahasiswa_163,Perempuan,8/21/1999 0:00,Surabaya,Manajemen,2022
+NIM00164,Mahasiswa_164,Perempuan,6/10/2004 0:00,Yogyakarta,Manajemen,2020
+NIM00165,Mahasiswa_165,Perempuan,5/13/1996 0:00,Surabaya,Akuntansi,2021
+NIM00166,Mahasiswa_166,Laki-Laki,8/11/2000 0:00,Medan,Kedokteran,2017
+NIM00167,Mahasiswa_167,Perempuan,6/2/1999 0:00,Jakarta,Manajemen,2017
+NIM00168,Mahasiswa_168,Laki-Laki,2/2/1999 0:00,Medan,Akuntansi,2020
+NIM00169,Mahasiswa_169,Laki-Laki,2/24/1995 0:00,Jakarta,Teknik Informatika,2020
+NIM00170,Mahasiswa_170,Perempuan,1/7/1996 0:00,Bandung,Akuntansi,2020
+NIM00171,Mahasiswa_171,Perempuan,9/1/2002 0:00,Medan,Akuntansi,2018
+NIM00172,Mahasiswa_172,Laki-Laki,11/9/1997 0:00,Medan,Hukum,2019
+NIM00173,Mahasiswa_173,Laki-Laki,5/5/2004 0:00,Yogyakarta,Manajemen,2019
+NIM00174,Mahasiswa_174,Perempuan,1/12/1997 0:00,Surabaya,Kedokteran,2017
+NIM00175,Mahasiswa_175,Perempuan,1/16/2002 0:00,Jakarta,Kedokteran,2018
+NIM00176,Mahasiswa_176,Perempuan,7/27/2002 0:00,Jakarta,Hukum,2020
+NIM00177,Mahasiswa_177,Laki-Laki,2/12/1996 0:00,Yogyakarta,Kedokteran,2017
+NIM00178,Mahasiswa_178,Laki-Laki,5/15/2002 0:00,Yogyakarta,Akuntansi,2018
+NIM00179,Mahasiswa_179,Laki-Laki,8/16/1995 0:00,Surabaya,Hukum,2021
+NIM00180,Mahasiswa_180,Laki-Laki,4/20/2000 0:00,Surabaya,Teknik Informatika,2022
+NIM00181,Mahasiswa_181,Laki-Laki,11/3/2002 0:00,Medan,Manajemen,2018
+NIM00182,Mahasiswa_182,Laki-Laki,6/9/1997 0:00,Bandung,Manajemen,2023
+NIM00183,Mahasiswa_183,Perempuan,11/27/2002 0:00,Surabaya,Manajemen,2017
+NIM00184,Mahasiswa_184,Laki-Laki,9/21/1995 0:00,Yogyakarta,Akuntansi,2019
+NIM00185,Mahasiswa_185,Laki-Laki,8/13/2003 0:00,Surabaya,Teknik Informatika,2023
+NIM00186,Mahasiswa_186,Laki-Laki,8/5/2003 0:00,Jakarta,Hukum,2020
+NIM00187,Mahasiswa_187,Perempuan,2/14/1999 0:00,Bandung,Hukum,2022
+NIM00188,Mahasiswa_188,Laki-Laki,8/1/2004 0:00,Medan,Manajemen,2021
+NIM00189,Mahasiswa_189,Laki-Laki,2/28/1998 0:00,Jakarta,Teknik Informatika,2022
+NIM00190,Mahasiswa_190,Perempuan,5/11/2000 0:00,Jakarta,Teknik Informatika,2022
+NIM00191,Mahasiswa_191,Laki-Laki,4/14/2001 0:00,Bandung,Teknik Informatika,2018
+NIM00192,Mahasiswa_192,Laki-Laki,7/14/1999 0:00,Medan,Kedokteran,2017
+NIM00193,Mahasiswa_193,Laki-Laki,6/5/2004 0:00,Yogyakarta,Kedokteran,2017
+NIM00194,Mahasiswa_194,Laki-Laki,4/8/2003 0:00,Medan,Manajemen,2022
+NIM00195,Mahasiswa_195,Laki-Laki,8/14/1997 0:00,Surabaya,Teknik Informatika,2020
+NIM00196,Mahasiswa_196,Perempuan,7/24/2001 0:00,Jakarta,Teknik Informatika,2017
+NIM00197,Mahasiswa_197,Perempuan,3/19/2004 0:00,Surabaya,Hukum,2022
+NIM00198,Mahasiswa_198,Perempuan,5/3/2004 0:00,Yogyakarta,Hukum,2017
+NIM00199,Mahasiswa_199,Laki-Laki,8/6/1999 0:00,Surabaya,Manajemen,2020
+NIM00200,Mahasiswa_200,Laki-Laki,1/4/2001 0:00,Medan,Teknik Informatika,2021
+NIM00201,Mahasiswa_201,Laki-Laki,3/30/1996 0:00,Surabaya,Manajemen,2023
+NIM00202,Mahasiswa_202,Perempuan,4/14/1998 0:00,Yogyakarta,Hukum,2022
+NIM00203,Mahasiswa_203,Laki-Laki,4/28/1996 0:00,Yogyakarta,Hukum,2019
+NIM00204,Mahasiswa_204,Laki-Laki,5/13/2001 0:00,Yogyakarta,Kedokteran,2019
+NIM00205,Mahasiswa_205,Perempuan,11/7/1996 0:00,Medan,Manajemen,2022
+NIM00206,Mahasiswa_206,Laki-Laki,4/6/1995 0:00,Yogyakarta,Manajemen,2018
+NIM00207,Mahasiswa_207,Perempuan,11/27/2003 0:00,Jakarta,Teknik Informatika,2021
+NIM00208,Mahasiswa_208,Perempuan,5/23/1995 0:00,Yogyakarta,Teknik Informatika,2018
+NIM00209,Mahasiswa_209,Perempuan,10/15/2002 0:00,Surabaya,Kedokteran,2023
+NIM00210,Mahasiswa_210,Laki-Laki,1/28/1996 0:00,Surabaya,Akuntansi,2019
+NIM00211,Mahasiswa_211,Laki-Laki,10/5/2002 0:00,Surabaya,Akuntansi,2020
+NIM00212,Mahasiswa_212,Laki-Laki,8/21/1997 0:00,Medan,Akuntansi,2022
+NIM00213,Mahasiswa_213,Laki-Laki,1/17/2000 0:00,Surabaya,Manajemen,2023
+NIM00214,Mahasiswa_214,Laki-Laki,2/28/1997 0:00,Medan,Manajemen,2017
+NIM00215,Mahasiswa_215,Laki-Laki,3/31/2001 0:00,Medan,Hukum,2019
+NIM00216,Mahasiswa_216,Laki-Laki,7/17/2004 0:00,Yogyakarta,Manajemen,2021
+NIM00217,Mahasiswa_217,Perempuan,12/28/2003 0:00,Jakarta,Manajemen,2019
+NIM00218,Mahasiswa_218,Laki-Laki,1/26/1996 0:00,Yogyakarta,Manajemen,2021
+NIM00219,Mahasiswa_219,Perempuan,1/25/1999 0:00,Yogyakarta,Kedokteran,2021
+NIM00220,Mahasiswa_220,Laki-Laki,10/27/2000 0:00,Medan,Manajemen,2022
+NIM00221,Mahasiswa_221,Laki-Laki,12/5/1998 0:00,Medan,Teknik Informatika,2021
+NIM00222,Mahasiswa_222,Laki-Laki,9/24/1998 0:00,Surabaya,Teknik Informatika,2018
+NIM00223,Mahasiswa_223,Perempuan,6/30/1998 0:00,Surabaya,Hukum,2023
+NIM00224,Mahasiswa_224,Perempuan,12/25/1996 0:00,Yogyakarta,Kedokteran,2020
+NIM00225,Mahasiswa_225,Perempuan,3/9/1998 0:00,Bandung,Teknik Informatika,2019
+NIM00226,Mahasiswa_226,Perempuan,12/17/1995 0:00,Bandung,Kedokteran,2020
+NIM00227,Mahasiswa_227,Laki-Laki,11/16/2000 0:00,Surabaya,Kedokteran,2023
+NIM00228,Mahasiswa_228,Perempuan,2/18/1995 0:00,Bandung,Hukum,2017
+NIM00229,Mahasiswa_229,Laki-Laki,6/23/2004 0:00,Surabaya,Kedokteran,2023
+NIM00230,Mahasiswa_230,Laki-Laki,2/21/2000 0:00,Medan,Manajemen,2019
+NIM00231,Mahasiswa_231,Perempuan,4/12/1995 0:00,Yogyakarta,Kedokteran,2020
+NIM00232,Mahasiswa_232,Perempuan,8/3/2000 0:00,Jakarta,Hukum,2020
+NIM00233,Mahasiswa_233,Perempuan,7/6/2004 0:00,Yogyakarta,Hukum,2022
+NIM00234,Mahasiswa_234,Perempuan,2/26/2002 0:00,Surabaya,Hukum,2022
+NIM00235,Mahasiswa_235,Perempuan,2/16/1996 0:00,Surabaya,Teknik Informatika,2023
+NIM00236,Mahasiswa_236,Perempuan,6/7/1996 0:00,Yogyakarta,Manajemen,2023
+NIM00237,Mahasiswa_237,Perempuan,6/23/1998 0:00,Surabaya,Teknik Informatika,2017
+NIM00238,Mahasiswa_238,Perempuan,8/30/1997 0:00,Bandung,Akuntansi,2021
+NIM00239,Mahasiswa_239,Laki-Laki,10/9/1998 0:00,Bandung,Manajemen,2019
+NIM00240,Mahasiswa_240,Perempuan,8/29/2001 0:00,Surabaya,Kedokteran,2022
+NIM00241,Mahasiswa_241,Perempuan,1/5/1995 0:00,Surabaya,Hukum,2019
+NIM00242,Mahasiswa_242,Laki-Laki,3/24/2000 0:00,Bandung,Akuntansi,2017
+NIM00243,Mahasiswa_243,Perempuan,11/4/1997 0:00,Surabaya,Manajemen,2022
+NIM00244,Mahasiswa_244,Laki-Laki,12/26/2004 0:00,Surabaya,Teknik Informatika,2022
+NIM00245,Mahasiswa_245,Laki-Laki,9/5/2001 0:00,Yogyakarta,Hukum,2021
+NIM00246,Mahasiswa_246,Perempuan,2/23/2004 0:00,Jakarta,Teknik Informatika,2019
+NIM00247,Mahasiswa_247,Laki-Laki,6/9/1996 0:00,Bandung,Manajemen,2019
+NIM00248,Mahasiswa_248,Laki-Laki,8/13/1996 0:00,Yogyakarta,Manajemen,2019
+NIM00249,Mahasiswa_249,Laki-Laki,1/15/1998 0:00,Jakarta,Akuntansi,2021
+NIM00250,Mahasiswa_250,Laki-Laki,8/12/1995 0:00,Surabaya,Kedokteran,2022
+NIM00251,Mahasiswa_251,Perempuan,3/2/1997 0:00,Surabaya,Teknik Informatika,2017
+NIM00252,Mahasiswa_252,Laki-Laki,5/2/2003 0:00,Yogyakarta,Akuntansi,2019
+NIM00253,Mahasiswa_253,Perempuan,10/4/2001 0:00,Surabaya,Hukum,2020
+NIM00254,Mahasiswa_254,Laki-Laki,2/15/2001 0:00,Medan,Kedokteran,2021
+NIM00255,Mahasiswa_255,Laki-Laki,10/21/1998 0:00,Yogyakarta,Akuntansi,2018
+NIM00256,Mahasiswa_256,Laki-Laki,3/2/1996 0:00,Jakarta,Teknik Informatika,2017
+NIM00257,Mahasiswa_257,Laki-Laki,3/27/1998 0:00,Yogyakarta,Manajemen,2020
+NIM00258,Mahasiswa_258,Perempuan,7/28/2000 0:00,Bandung,Hukum,2019
+NIM00259,Mahasiswa_259,Perempuan,3/19/1997 0:00,Yogyakarta,Teknik Informatika,2018
+NIM00260,Mahasiswa_260,Laki-Laki,7/21/1995 0:00,Surabaya,Kedokteran,2017
+NIM00261,Mahasiswa_261,Laki-Laki,10/29/2002 0:00,Surabaya,Kedokteran,2021
+NIM00262,Mahasiswa_262,Perempuan,8/11/1999 0:00,Medan,Manajemen,2018
+NIM00263,Mahasiswa_263,Laki-Laki,8/10/1999 0:00,Medan,Manajemen,2022
+NIM00264,Mahasiswa_264,Laki-Laki,1/3/1998 0:00,Medan,Hukum,2023
+NIM00265,Mahasiswa_265,Laki-Laki,1/6/2000 0:00,Jakarta,Hukum,2018
+NIM00266,Mahasiswa_266,Perempuan,4/3/1997 0:00,Medan,Manajemen,2023
+NIM00267,Mahasiswa_267,Perempuan,1/8/2003 0:00,Jakarta,Manajemen,2020
+NIM00268,Mahasiswa_268,Perempuan,8/23/1999 0:00,Medan,Kedokteran,2017
+NIM00269,Mahasiswa_269,Laki-Laki,4/18/1997 0:00,Jakarta,Manajemen,2020
+NIM00270,Mahasiswa_270,Laki-Laki,6/10/1995 0:00,Yogyakarta,Akuntansi,2020
+NIM00271,Mahasiswa_271,Perempuan,7/27/2004 0:00,Yogyakarta,Teknik Informatika,2019
+NIM00272,Mahasiswa_272,Perempuan,8/27/2000 0:00,Surabaya,Manajemen,2021
+NIM00273,Mahasiswa_273,Perempuan,11/26/1996 0:00,Jakarta,Hukum,2018
+NIM00274,Mahasiswa_274,Perempuan,11/29/1997 0:00,Bandung,Akuntansi,2017
+NIM00275,Mahasiswa_275,Laki-Laki,2/19/1995 0:00,Surabaya,Hukum,2022
+NIM00276,Mahasiswa_276,Perempuan,1/11/2003 0:00,Yogyakarta,Akuntansi,2021
+NIM00277,Mahasiswa_277,Laki-Laki,12/17/2002 0:00,Jakarta,Manajemen,2021
+NIM00278,Mahasiswa_278,Perempuan,6/4/1996 0:00,Medan,Teknik Informatika,2017
+NIM00279,Mahasiswa_279,Laki-Laki,3/11/2002 0:00,Bandung,Hukum,2021
+NIM00280,Mahasiswa_280,Perempuan,6/18/2003 0:00,Yogyakarta,Akuntansi,2019
+NIM00281,Mahasiswa_281,Perempuan,9/29/1995 0:00,Surabaya,Kedokteran,2021
+NIM00282,Mahasiswa_282,Perempuan,3/9/1999 0:00,Jakarta,Manajemen,2019
+NIM00283,Mahasiswa_283,Perempuan,12/21/2002 0:00,Bandung,Teknik Informatika,2018
+NIM00284,Mahasiswa_284,Laki-Laki,9/8/1996 0:00,Jakarta,Manajemen,2018
+NIM00285,Mahasiswa_285,Perempuan,2/17/1998 0:00,Medan,Kedokteran,2020
+NIM00286,Mahasiswa_286,Laki-Laki,7/3/2001 0:00,Surabaya,Teknik Informatika,2019
+NIM00287,Mahasiswa_287,Laki-Laki,11/16/1997 0:00,Jakarta,Kedokteran,2022
+NIM00288,Mahasiswa_288,Laki-Laki,7/6/1999 0:00,Yogyakarta,Manajemen,2018
+NIM00289,Mahasiswa_289,Laki-Laki,3/31/2002 0:00,Surabaya,Akuntansi,2021
+NIM00290,Mahasiswa_290,Perempuan,11/27/2004 0:00,Yogyakarta,Manajemen,2017
+NIM00291,Mahasiswa_291,Laki-Laki,5/19/1997 0:00,Jakarta,Manajemen,2017
+NIM00292,Mahasiswa_292,Laki-Laki,12/23/1998 0:00,Surabaya,Manajemen,2023
+NIM00293,Mahasiswa_293,Laki-Laki,3/30/2003 0:00,Yogyakarta,Hukum,2019
+NIM00294,Mahasiswa_294,Perempuan,10/1/2001 0:00,Medan,Kedokteran,2022
+NIM00295,Mahasiswa_295,Perempuan,1/19/1995 0:00,Medan,Kedokteran,2020
+NIM00296,Mahasiswa_296,Perempuan,11/7/1998 0:00,Jakarta,Kedokteran,2021
+NIM00297,Mahasiswa_297,Perempuan,12/24/1998 0:00,Surabaya,Hukum,2019
+NIM00298,Mahasiswa_298,Laki-Laki,6/3/2003 0:00,Bandung,Akuntansi,2023
+NIM00299,Mahasiswa_299,Laki-Laki,9/16/2000 0:00,Surabaya,Manajemen,2017
+NIM00300,Mahasiswa_300,Perempuan,4/18/2003 0:00,Medan,Akuntansi,2019
+NIM00301,Mahasiswa_301,Laki-Laki,10/11/2000 0:00,Yogyakarta,Hukum,2021
+NIM00302,Mahasiswa_302,Laki-Laki,2/28/2000 0:00,Bandung,Kedokteran,2022
+NIM00303,Mahasiswa_303,Laki-Laki,5/5/1999 0:00,Jakarta,Manajemen,2022
+NIM00304,Mahasiswa_304,Perempuan,12/20/1999 0:00,Bandung,Teknik Informatika,2018
+NIM00305,Mahasiswa_305,Perempuan,9/29/1996 0:00,Jakarta,Teknik Informatika,2021
+NIM00306,Mahasiswa_306,Laki-Laki,4/17/2002 0:00,Bandung,Akuntansi,2023
+NIM00307,Mahasiswa_307,Perempuan,10/26/2002 0:00,Jakarta,Kedokteran,2018
+NIM00308,Mahasiswa_308,Perempuan,9/2/1995 0:00,Jakarta,Teknik Informatika,2018
+NIM00309,Mahasiswa_309,Perempuan,12/2/2002 0:00,Bandung,Akuntansi,2018
+NIM00310,Mahasiswa_310,Perempuan,9/4/1999 0:00,Bandung,Hukum,2019
+NIM00311,Mahasiswa_311,Perempuan,1/8/1996 0:00,Jakarta,Akuntansi,2023
+NIM00312,Mahasiswa_312,Laki-Laki,5/20/1996 0:00,Medan,Akuntansi,2017
+NIM00313,Mahasiswa_313,Perempuan,12/27/2000 0:00,Bandung,Akuntansi,2022
+NIM00314,Mahasiswa_314,Laki-Laki,1/8/2003 0:00,Surabaya,Manajemen,2019
+NIM00315,Mahasiswa_315,Laki-Laki,12/18/1995 0:00,Yogyakarta,Akuntansi,2017
+NIM00316,Mahasiswa_316,Perempuan,4/3/2000 0:00,Jakarta,Akuntansi,2022
+NIM00317,Mahasiswa_317,Laki-Laki,11/17/2003 0:00,Jakarta,Manajemen,2023
+NIM00318,Mahasiswa_318,Laki-Laki,2/8/2002 0:00,Yogyakarta,Manajemen,2023
+NIM00319,Mahasiswa_319,Laki-Laki,3/21/2000 0:00,Medan,Hukum,2021
+NIM00320,Mahasiswa_320,Perempuan,7/6/1997 0:00,Yogyakarta,Kedokteran,2022
+NIM00321,Mahasiswa_321,Perempuan,3/25/2002 0:00,Bandung,Teknik Informatika,2022
+NIM00322,Mahasiswa_322,Laki-Laki,3/29/2003 0:00,Yogyakarta,Teknik Informatika,2023
+NIM00323,Mahasiswa_323,Perempuan,8/30/1995 0:00,Jakarta,Akuntansi,2022
+NIM00324,Mahasiswa_324,Perempuan,12/8/2003 0:00,Yogyakarta,Hukum,2020
+NIM00325,Mahasiswa_325,Perempuan,4/2/2000 0:00,Surabaya,Akuntansi,2021
+NIM00326,Mahasiswa_326,Perempuan,3/26/2000 0:00,Bandung,Teknik Informatika,2019
+NIM00327,Mahasiswa_327,Laki-Laki,2/13/1998 0:00,Yogyakarta,Manajemen,2019
+NIM00328,Mahasiswa_328,Laki-Laki,5/17/1995 0:00,Jakarta,Kedokteran,2017
+NIM00329,Mahasiswa_329,Perempuan,3/14/2004 0:00,Bandung,Hukum,2019
+NIM00330,Mahasiswa_330,Perempuan,2/5/2002 0:00,Jakarta,Manajemen,2018
+NIM00331,Mahasiswa_331,Laki-Laki,4/10/1996 0:00,Medan,Kedokteran,2022
+NIM00332,Mahasiswa_332,Laki-Laki,6/5/1995 0:00,Surabaya,Hukum,2019
+NIM00333,Mahasiswa_333,Perempuan,9/11/1996 0:00,Medan,Hukum,2017
+NIM00334,Mahasiswa_334,Laki-Laki,6/20/1995 0:00,Surabaya,Teknik Informatika,2017
+NIM00335,Mahasiswa_335,Perempuan,8/4/1995 0:00,Yogyakarta,Manajemen,2018
+NIM00336,Mahasiswa_336,Perempuan,6/19/2003 0:00,Bandung,Hukum,2017
+NIM00337,Mahasiswa_337,Laki-Laki,9/9/1995 0:00,Yogyakarta,Hukum,2023
+NIM00338,Mahasiswa_338,Laki-Laki,12/26/1998 0:00,Surabaya,Kedokteran,2020
+NIM00339,Mahasiswa_339,Perempuan,11/17/2004 0:00,Surabaya,Teknik Informatika,2023
+NIM00340,Mahasiswa_340,Perempuan,2/24/2000 0:00,Surabaya,Akuntansi,2022
+NIM00341,Mahasiswa_341,Laki-Laki,4/1/2001 0:00,Jakarta,Teknik Informatika,2022
+NIM00342,Mahasiswa_342,Perempuan,10/4/1996 0:00,Bandung,Akuntansi,2022
+NIM00343,Mahasiswa_343,Laki-Laki,4/10/2000 0:00,Yogyakarta,Manajemen,2021
+NIM00344,Mahasiswa_344,Perempuan,6/4/2001 0:00,Yogyakarta,Manajemen,2019
+NIM00345,Mahasiswa_345,Laki-Laki,12/14/2004 0:00,Medan,Hukum,2020
+NIM00346,Mahasiswa_346,Laki-Laki,12/29/2004 0:00,Surabaya,Manajemen,2019
+NIM00347,Mahasiswa_347,Laki-Laki,5/20/1996 0:00,Surabaya,Hukum,2020
+NIM00348,Mahasiswa_348,Perempuan,6/21/1996 0:00,Surabaya,Teknik Informatika,2019
+NIM00349,Mahasiswa_349,Perempuan,1/10/2004 0:00,Yogyakarta,Manajemen,2018
+NIM00350,Mahasiswa_350,Laki-Laki,8/16/2001 0:00,Medan,Teknik Informatika,2023
+NIM00351,Mahasiswa_351,Perempuan,9/22/1995 0:00,Jakarta,Teknik Informatika,2017
+NIM00352,Mahasiswa_352,Laki-Laki,9/5/2002 0:00,Bandung,Manajemen,2017
+NIM00353,Mahasiswa_353,Laki-Laki,9/4/1997 0:00,Jakarta,Teknik Informatika,2023
+NIM00354,Mahasiswa_354,Perempuan,6/3/2000 0:00,Yogyakarta,Manajemen,2018
+NIM00355,Mahasiswa_355,Perempuan,2/3/2003 0:00,Surabaya,Manajemen,2020
+NIM00356,Mahasiswa_356,Laki-Laki,5/8/2000 0:00,Bandung,Manajemen,2023
+NIM00357,Mahasiswa_357,Perempuan,6/9/2003 0:00,Yogyakarta,Akuntansi,2021
+NIM00358,Mahasiswa_358,Perempuan,3/30/2001 0:00,Yogyakarta,Teknik Informatika,2020
+NIM00359,Mahasiswa_359,Laki-Laki,4/3/2003 0:00,Yogyakarta,Kedokteran,2017
+NIM00360,Mahasiswa_360,Laki-Laki,11/22/1996 0:00,Bandung,Manajemen,2021
+NIM00361,Mahasiswa_361,Perempuan,8/29/2002 0:00,Bandung,Teknik Informatika,2019
+NIM00362,Mahasiswa_362,Laki-Laki,11/19/2002 0:00,Medan,Hukum,2021
+NIM00363,Mahasiswa_363,Laki-Laki,4/26/1996 0:00,Medan,Manajemen,2020
+NIM00364,Mahasiswa_364,Perempuan,4/4/1998 0:00,Jakarta,Manajemen,2018
+NIM00365,Mahasiswa_365,Laki-Laki,6/12/2001 0:00,Bandung,Kedokteran,2019
+NIM00366,Mahasiswa_366,Laki-Laki,4/9/1998 0:00,Bandung,Akuntansi,2020
+NIM00367,Mahasiswa_367,Perempuan,4/23/1998 0:00,Bandung,Akuntansi,2019
+NIM00368,Mahasiswa_368,Perempuan,12/24/2000 0:00,Medan,Manajemen,2021
+NIM00369,Mahasiswa_369,Laki-Laki,3/31/2004 0:00,Yogyakarta,Teknik Informatika,2017
+NIM00370,Mahasiswa_370,Laki-Laki,12/11/2000 0:00,Surabaya,Hukum,2020
+NIM00371,Mahasiswa_371,Perempuan,7/24/2004 0:00,Medan,Hukum,2018
+NIM00372,Mahasiswa_372,Perempuan,1/17/1997 0:00,Bandung,Teknik Informatika,2023
+NIM00373,Mahasiswa_373,Perempuan,10/1/2003 0:00,Medan,Manajemen,2021
+NIM00374,Mahasiswa_374,Perempuan,6/21/2004 0:00,Jakarta,Hukum,2020
+NIM00375,Mahasiswa_375,Laki-Laki,4/25/1996 0:00,Bandung,Akuntansi,2018
+NIM00376,Mahasiswa_376,Perempuan,12/14/2000 0:00,Jakarta,Teknik Informatika,2020
+NIM00377,Mahasiswa_377,Perempuan,6/30/2001 0:00,Bandung,Kedokteran,2021
+NIM00378,Mahasiswa_378,Laki-Laki,4/1/2003 0:00,Medan,Manajemen,2020
+NIM00379,Mahasiswa_379,Perempuan,3/23/1997 0:00,Yogyakarta,Teknik Informatika,2019
+NIM00380,Mahasiswa_380,Laki-Laki,11/19/2004 0:00,Surabaya,Hukum,2021
+NIM00381,Mahasiswa_381,Perempuan,4/24/1997 0:00,Jakarta,Manajemen,2020
+NIM00382,Mahasiswa_382,Perempuan,9/14/2001 0:00,Medan,Akuntansi,2023
+NIM00383,Mahasiswa_383,Perempuan,2/27/1998 0:00,Yogyakarta,Manajemen,2017
+NIM00384,Mahasiswa_384,Laki-Laki,6/3/2002 0:00,Medan,Manajemen,2020
+NIM00385,Mahasiswa_385,Laki-Laki,12/31/2001 0:00,Jakarta,Akuntansi,2019
+NIM00386,Mahasiswa_386,Perempuan,4/26/1999 0:00,Surabaya,Akuntansi,2018
+NIM00387,Mahasiswa_387,Laki-Laki,12/9/2001 0:00,Medan,Manajemen,2023
+NIM00388,Mahasiswa_388,Laki-Laki,9/23/1997 0:00,Bandung,Akuntansi,2018
+NIM00389,Mahasiswa_389,Laki-Laki,11/10/1996 0:00,Yogyakarta,Teknik Informatika,2023
+NIM00390,Mahasiswa_390,Laki-Laki,7/21/2000 0:00,Medan,Akuntansi,2018
+NIM00391,Mahasiswa_391,Laki-Laki,2/10/1996 0:00,Yogyakarta,Akuntansi,2017
+NIM00392,Mahasiswa_392,Laki-Laki,4/15/1997 0:00,Bandung,Manajemen,2019
+NIM00393,Mahasiswa_393,Perempuan,7/11/2000 0:00,Surabaya,Teknik Informatika,2021
+NIM00394,Mahasiswa_394,Perempuan,10/5/1999 0:00,Surabaya,Kedokteran,2018
+NIM00395,Mahasiswa_395,Laki-Laki,12/20/2002 0:00,Bandung,Kedokteran,2023
+NIM00396,Mahasiswa_396,Perempuan,8/25/2003 0:00,Yogyakarta,Hukum,2019
+NIM00397,Mahasiswa_397,Perempuan,8/9/1997 0:00,Medan,Akuntansi,2020
+NIM00398,Mahasiswa_398,Perempuan,3/8/2004 0:00,Bandung,Akuntansi,2017
+NIM00399,Mahasiswa_399,Perempuan,7/16/1997 0:00,Jakarta,Teknik Informatika,2019
+NIM00400,Mahasiswa_400,Laki-Laki,9/13/1997 0:00,Yogyakarta,Kedokteran,2019
+NIM00401,Mahasiswa_401,Perempuan,5/18/2000 0:00,Surabaya,Hukum,2021
+NIM00402,Mahasiswa_402,Perempuan,11/8/1995 0:00,Bandung,Teknik Informatika,2019
+NIM00403,Mahasiswa_403,Laki-Laki,5/29/2001 0:00,Surabaya,Akuntansi,2021
+NIM00404,Mahasiswa_404,Laki-Laki,4/9/1995 0:00,Yogyakarta,Kedokteran,2017
+NIM00405,Mahasiswa_405,Perempuan,3/17/1999 0:00,Surabaya,Hukum,2017
+NIM00406,Mahasiswa_406,Perempuan,10/8/2004 0:00,Bandung,Manajemen,2020
+NIM00407,Mahasiswa_407,Perempuan,4/19/2002 0:00,Yogyakarta,Kedokteran,2021
+NIM00408,Mahasiswa_408,Perempuan,7/7/1998 0:00,Jakarta,Hukum,2021
+NIM00409,Mahasiswa_409,Perempuan,7/18/1999 0:00,Bandung,Teknik Informatika,2018
+NIM00410,Mahasiswa_410,Perempuan,10/30/1998 0:00,Medan,Manajemen,2018
+NIM00411,Mahasiswa_411,Laki-Laki,11/23/1998 0:00,Bandung,Hukum,2020
+NIM00412,Mahasiswa_412,Perempuan,6/3/2002 0:00,Yogyakarta,Hukum,2017
+NIM00413,Mahasiswa_413,Perempuan,2/9/1996 0:00,Bandung,Akuntansi,2022
+NIM00414,Mahasiswa_414,Laki-Laki,5/13/1995 0:00,Jakarta,Kedokteran,2018
+NIM00415,Mahasiswa_415,Laki-Laki,5/12/1997 0:00,Jakarta,Akuntansi,2019
+NIM00416,Mahasiswa_416,Laki-Laki,10/6/2003 0:00,Medan,Manajemen,2017
+NIM00417,Mahasiswa_417,Laki-Laki,12/28/1998 0:00,Surabaya,Hukum,2022
+NIM00418,Mahasiswa_418,Perempuan,3/24/2004 0:00,Yogyakarta,Akuntansi,2019
+NIM00419,Mahasiswa_419,Perempuan,8/30/1999 0:00,Yogyakarta,Kedokteran,2023
+NIM00420,Mahasiswa_420,Perempuan,4/25/1996 0:00,Surabaya,Manajemen,2021
+NIM00421,Mahasiswa_421,Perempuan,4/19/1998 0:00,Jakarta,Teknik Informatika,2017
+NIM00422,Mahasiswa_422,Perempuan,8/8/1996 0:00,Jakarta,Akuntansi,2023
+NIM00423,Mahasiswa_423,Perempuan,2/10/1996 0:00,Bandung,Manajemen,2020
+NIM00424,Mahasiswa_424,Laki-Laki,5/27/1998 0:00,Medan,Teknik Informatika,2021
+NIM00425,Mahasiswa_425,Perempuan,4/21/2000 0:00,Medan,Akuntansi,2021
+NIM00426,Mahasiswa_426,Laki-Laki,4/13/2001 0:00,Medan,Manajemen,2019
+NIM00427,Mahasiswa_427,Laki-Laki,2/15/2004 0:00,Bandung,Manajemen,2023
+NIM00428,Mahasiswa_428,Perempuan,11/20/1997 0:00,Medan,Akuntansi,2021
+NIM00429,Mahasiswa_429,Laki-Laki,9/28/1997 0:00,Surabaya,Manajemen,2018
+NIM00430,Mahasiswa_430,Perempuan,7/13/2004 0:00,Bandung,Hukum,2017
+NIM00431,Mahasiswa_431,Laki-Laki,10/6/2000 0:00,Surabaya,Akuntansi,2018
+NIM00432,Mahasiswa_432,Perempuan,10/10/1997 0:00,Bandung,Manajemen,2019
+NIM00433,Mahasiswa_433,Laki-Laki,2/9/1996 0:00,Medan,Teknik Informatika,2022
+NIM00434,Mahasiswa_434,Perempuan,7/8/2002 0:00,Surabaya,Teknik Informatika,2019
+NIM00435,Mahasiswa_435,Perempuan,6/13/1999 0:00,Surabaya,Hukum,2017
+NIM00436,Mahasiswa_436,Perempuan,1/24/1995 0:00,Surabaya,Akuntansi,2021
+NIM00437,Mahasiswa_437,Perempuan,1/24/1997 0:00,Bandung,Manajemen,2023
+NIM00438,Mahasiswa_438,Perempuan,1/4/2004 0:00,Yogyakarta,Manajemen,2023
+NIM00439,Mahasiswa_439,Laki-Laki,11/19/2002 0:00,Medan,Teknik Informatika,2020
+NIM00440,Mahasiswa_440,Laki-Laki,10/17/1998 0:00,Surabaya,Hukum,2019
+NIM00441,Mahasiswa_441,Laki-Laki,6/30/2001 0:00,Yogyakarta,Teknik Informatika,2017
+NIM00442,Mahasiswa_442,Perempuan,9/4/2004 0:00,Medan,Teknik Informatika,2020
+NIM00443,Mahasiswa_443,Laki-Laki,4/25/1996 0:00,Medan,Hukum,2021
+NIM00444,Mahasiswa_444,Perempuan,10/6/2001 0:00,Surabaya,Akuntansi,2022
+NIM00445,Mahasiswa_445,Perempuan,12/31/1999 0:00,Surabaya,Manajemen,2019
+NIM00446,Mahasiswa_446,Laki-Laki,3/10/1999 0:00,Bandung,Akuntansi,2022
+NIM00447,Mahasiswa_447,Laki-Laki,12/16/2000 0:00,Yogyakarta,Kedokteran,2017
+NIM00448,Mahasiswa_448,Perempuan,9/11/2003 0:00,Yogyakarta,Kedokteran,2022
+NIM00449,Mahasiswa_449,Laki-Laki,6/29/2000 0:00,Surabaya,Kedokteran,2022
+NIM00450,Mahasiswa_450,Perempuan,11/14/2002 0:00,Medan,Hukum,2017
+NIM00451,Mahasiswa_451,Perempuan,6/18/2001 0:00,Surabaya,Teknik Informatika,2017
+NIM00452,Mahasiswa_452,Perempuan,11/9/2003 0:00,Medan,Akuntansi,2019
+NIM00453,Mahasiswa_453,Perempuan,9/6/1998 0:00,Medan,Manajemen,2022
+NIM00454,Mahasiswa_454,Perempuan,7/6/1996 0:00,Surabaya,Kedokteran,2020
+NIM00455,Mahasiswa_455,Laki-Laki,2/23/2001 0:00,Jakarta,Akuntansi,2017
+NIM00456,Mahasiswa_456,Laki-Laki,11/21/2000 0:00,Yogyakarta,Kedokteran,2021
+NIM00457,Mahasiswa_457,Perempuan,12/23/1995 0:00,Medan,Kedokteran,2022
+NIM00458,Mahasiswa_458,Perempuan,11/9/2003 0:00,Medan,Manajemen,2017
+NIM00459,Mahasiswa_459,Laki-Laki,5/18/2003 0:00,Jakarta,Hukum,2020
+NIM00460,Mahasiswa_460,Laki-Laki,6/16/1996 0:00,Bandung,Teknik Informatika,2023
+NIM00461,Mahasiswa_461,Perempuan,4/13/1997 0:00,Jakarta,Hukum,2019
+NIM00462,Mahasiswa_462,Laki-Laki,3/26/1999 0:00,Jakarta,Akuntansi,2022
+NIM00463,Mahasiswa_463,Perempuan,11/13/1999 0:00,Medan,Hukum,2023
+NIM00464,Mahasiswa_464,Laki-Laki,7/31/1995 0:00,Yogyakarta,Akuntansi,2017
+NIM00465,Mahasiswa_465,Perempuan,1/3/2002 0:00,Jakarta,Akuntansi,2017
+NIM00466,Mahasiswa_466,Laki-Laki,6/28/2002 0:00,Bandung,Teknik Informatika,2021
+NIM00467,Mahasiswa_467,Perempuan,12/8/1998 0:00,Surabaya,Manajemen,2021
+NIM00468,Mahasiswa_468,Laki-Laki,10/30/2001 0:00,Jakarta,Teknik Informatika,2022
+NIM00469,Mahasiswa_469,Laki-Laki,11/27/2004 0:00,Jakarta,Hukum,2023
+NIM00470,Mahasiswa_470,Perempuan,2/7/1997 0:00,Bandung,Akuntansi,2023
+NIM00471,Mahasiswa_471,Laki-Laki,8/26/2000 0:00,Yogyakarta,Kedokteran,2017
+NIM00472,Mahasiswa_472,Perempuan,6/17/2004 0:00,Jakarta,Kedokteran,2022
+NIM00473,Mahasiswa_473,Laki-Laki,12/8/2004 0:00,Jakarta,Akuntansi,2017
+NIM00474,Mahasiswa_474,Perempuan,11/10/2003 0:00,Yogyakarta,Teknik Informatika,2021
+NIM00475,Mahasiswa_475,Laki-Laki,11/2/1995 0:00,Bandung,Manajemen,2020
+NIM00476,Mahasiswa_476,Perempuan,1/30/1999 0:00,Jakarta,Teknik Informatika,2018
+NIM00477,Mahasiswa_477,Laki-Laki,7/9/1998 0:00,Yogyakarta,Akuntansi,2018
+NIM00478,Mahasiswa_478,Perempuan,12/23/2002 0:00,Jakarta,Akuntansi,2017
+NIM00479,Mahasiswa_479,Laki-Laki,1/25/1995 0:00,Surabaya,Manajemen,2023
+NIM00480,Mahasiswa_480,Perempuan,4/22/2003 0:00,Medan,Hukum,2021
+NIM00481,Mahasiswa_481,Perempuan,7/24/2000 0:00,Surabaya,Hukum,2019
+NIM00482,Mahasiswa_482,Perempuan,7/4/1998 0:00,Jakarta,Manajemen,2019
+NIM00483,Mahasiswa_483,Laki-Laki,2/16/2003 0:00,Bandung,Hukum,2018
+NIM00484,Mahasiswa_484,Perempuan,8/16/1999 0:00,Medan,Kedokteran,2020
+NIM00485,Mahasiswa_485,Laki-Laki,2/8/1999 0:00,Surabaya,Hukum,2018
+NIM00486,Mahasiswa_486,Perempuan,1/16/1999 0:00,Yogyakarta,Hukum,2017
+NIM00487,Mahasiswa_487,Laki-Laki,1/22/1995 0:00,Bandung,Hukum,2020
+NIM00488,Mahasiswa_488,Perempuan,8/1/1995 0:00,Surabaya,Kedokteran,2019
+NIM00489,Mahasiswa_489,Laki-Laki,11/6/2002 0:00,Yogyakarta,Hukum,2023
+NIM00490,Mahasiswa_490,Laki-Laki,5/29/2002 0:00,Jakarta,Kedokteran,2021
+NIM00491,Mahasiswa_491,Perempuan,8/28/2000 0:00,Yogyakarta,Manajemen,2021
+NIM00492,Mahasiswa_492,Laki-Laki,9/29/1998 0:00,Surabaya,Teknik Informatika,2017
+NIM00493,Mahasiswa_493,Laki-Laki,2/28/1996 0:00,Surabaya,Manajemen,2018
+NIM00494,Mahasiswa_494,Perempuan,10/13/1996 0:00,Jakarta,Teknik Informatika,2017
+NIM00495,Mahasiswa_495,Laki-Laki,7/21/2003 0:00,Yogyakarta,Manajemen,2021
+NIM00496,Mahasiswa_496,Laki-Laki,2/1/1999 0:00,Yogyakarta,Teknik Informatika,2019
+NIM00497,Mahasiswa_497,Laki-Laki,6/11/1998 0:00,Jakarta,Teknik Informatika,2021
+NIM00498,Mahasiswa_498,Perempuan,9/11/2004 0:00,Yogyakarta,Akuntansi,2020
+NIM00499,Mahasiswa_499,Laki-Laki,9/11/1995 0:00,Jakarta,Teknik Informatika,2023
+NIM00500,Mahasiswa_500,Perempuan,1/9/2001 0:00,Bandung,Teknik Informatika,2023
+NIM00501,Mahasiswa_501,Laki-Laki,5/19/1997 0:00,Surabaya,Akuntansi,2022
+NIM00502,Mahasiswa_502,Laki-Laki,1/10/2000 0:00,Bandung,Hukum,2021
+NIM00503,Mahasiswa_503,Laki-Laki,8/2/1999 0:00,Medan,Hukum,2021
+NIM00504,Mahasiswa_504,Perempuan,9/30/1999 0:00,Medan,Akuntansi,2023
+NIM00505,Mahasiswa_505,Laki-Laki,11/20/1999 0:00,Medan,Kedokteran,2022
+NIM00506,Mahasiswa_506,Laki-Laki,2/17/1995 0:00,Jakarta,Teknik Informatika,2020
+NIM00507,Mahasiswa_507,Perempuan,4/21/1995 0:00,Yogyakarta,Teknik Informatika,2018
+NIM00508,Mahasiswa_508,Laki-Laki,6/2/1997 0:00,Bandung,Akuntansi,2021
+NIM00509,Mahasiswa_509,Perempuan,5/2/2004 0:00,Bandung,Akuntansi,2023
+NIM00510,Mahasiswa_510,Perempuan,12/23/1998 0:00,Bandung,Kedokteran,2017
+NIM00511,Mahasiswa_511,Laki-Laki,4/12/1999 0:00,Bandung,Hukum,2021
+NIM00512,Mahasiswa_512,Perempuan,8/28/1996 0:00,Medan,Manajemen,2017
+NIM00513,Mahasiswa_513,Laki-Laki,11/17/2002 0:00,Bandung,Hukum,2020
+NIM00514,Mahasiswa_514,Perempuan,7/9/1996 0:00,Yogyakarta,Teknik Informatika,2021
+NIM00515,Mahasiswa_515,Perempuan,8/5/2003 0:00,Medan,Akuntansi,2023
+NIM00516,Mahasiswa_516,Laki-Laki,2/20/1996 0:00,Bandung,Kedokteran,2020
+NIM00517,Mahasiswa_517,Perempuan,10/19/2003 0:00,Jakarta,Hukum,2020
+NIM00518,Mahasiswa_518,Perempuan,3/22/2001 0:00,Surabaya,Kedokteran,2018
+NIM00519,Mahasiswa_519,Perempuan,3/29/2002 0:00,Surabaya,Hukum,2021
+NIM00520,Mahasiswa_520,Perempuan,7/12/1996 0:00,Surabaya,Teknik Informatika,2017
+NIM00521,Mahasiswa_521,Perempuan,4/14/2001 0:00,Medan,Manajemen,2017
+NIM00522,Mahasiswa_522,Laki-Laki,9/27/2000 0:00,Bandung,Kedokteran,2021
+NIM00523,Mahasiswa_523,Perempuan,4/6/1998 0:00,Medan,Kedokteran,2022
+NIM00524,Mahasiswa_524,Laki-Laki,7/17/2001 0:00,Yogyakarta,Manajemen,2018
+NIM00525,Mahasiswa_525,Perempuan,1/1/1998 0:00,Jakarta,Kedokteran,2018
+NIM00526,Mahasiswa_526,Laki-Laki,6/15/1996 0:00,Jakarta,Kedokteran,2018
+NIM00527,Mahasiswa_527,Laki-Laki,5/5/2004 0:00,Surabaya,Hukum,2017
+NIM00528,Mahasiswa_528,Perempuan,11/9/2001 0:00,Surabaya,Hukum,2020
+NIM00529,Mahasiswa_529,Perempuan,3/22/2002 0:00,Surabaya,Manajemen,2023
+NIM00530,Mahasiswa_530,Perempuan,9/7/1996 0:00,Bandung,Teknik Informatika,2022
+NIM00531,Mahasiswa_531,Laki-Laki,6/18/1999 0:00,Yogyakarta,Kedokteran,2018
+NIM00532,Mahasiswa_532,Perempuan,3/14/1995 0:00,Yogyakarta,Teknik Informatika,2017
+NIM00533,Mahasiswa_533,Laki-Laki,5/21/2001 0:00,Yogyakarta,Manajemen,2017
+NIM00534,Mahasiswa_534,Laki-Laki,3/11/2002 0:00,Yogyakarta,Manajemen,2020
+NIM00535,Mahasiswa_535,Laki-Laki,9/18/2000 0:00,Surabaya,Hukum,2021
+NIM00536,Mahasiswa_536,Perempuan,12/6/1999 0:00,Jakarta,Kedokteran,2021
+NIM00537,Mahasiswa_537,Perempuan,11/3/2000 0:00,Surabaya,Akuntansi,2023
+NIM00538,Mahasiswa_538,Laki-Laki,9/1/1996 0:00,Yogyakarta,Manajemen,2023
+NIM00539,Mahasiswa_539,Laki-Laki,1/3/1995 0:00,Surabaya,Kedokteran,2018
+NIM00540,Mahasiswa_540,Perempuan,12/3/2001 0:00,Yogyakarta,Teknik Informatika,2023
+NIM00541,Mahasiswa_541,Laki-Laki,3/4/2001 0:00,Medan,Hukum,2018
+NIM00542,Mahasiswa_542,Perempuan,2/18/2004 0:00,Jakarta,Teknik Informatika,2022
+NIM00543,Mahasiswa_543,Laki-Laki,3/16/2004 0:00,Medan,Manajemen,2023
+NIM00544,Mahasiswa_544,Perempuan,6/23/1996 0:00,Bandung,Manajemen,2020
+NIM00545,Mahasiswa_545,Laki-Laki,4/18/1996 0:00,Surabaya,Teknik Informatika,2018
+NIM00546,Mahasiswa_546,Perempuan,7/2/1995 0:00,Bandung,Manajemen,2020
+NIM00547,Mahasiswa_547,Laki-Laki,7/10/2004 0:00,Surabaya,Kedokteran,2017
+NIM00548,Mahasiswa_548,Perempuan,3/6/2002 0:00,Medan,Manajemen,2018
+NIM00549,Mahasiswa_549,Perempuan,12/3/2002 0:00,Yogyakarta,Hukum,2017
+NIM00550,Mahasiswa_550,Laki-Laki,9/28/1995 0:00,Yogyakarta,Kedokteran,2019
+NIM00551,Mahasiswa_551,Laki-Laki,4/10/2002 0:00,Surabaya,Akuntansi,2020
+NIM00552,Mahasiswa_552,Perempuan,2/1/2003 0:00,Yogyakarta,Manajemen,2019
+NIM00553,Mahasiswa_553,Laki-Laki,12/18/1998 0:00,Medan,Manajemen,2018
+NIM00554,Mahasiswa_554,Perempuan,5/8/1995 0:00,Yogyakarta,Hukum,2017
+NIM00555,Mahasiswa_555,Laki-Laki,12/5/1995 0:00,Medan,Hukum,2018
+NIM00556,Mahasiswa_556,Perempuan,2/12/1997 0:00,Bandung,Teknik Informatika,2019
+NIM00557,Mahasiswa_557,Perempuan,3/19/1999 0:00,Medan,Teknik Informatika,2018
+NIM00558,Mahasiswa_558,Perempuan,11/10/1999 0:00,Jakarta,Teknik Informatika,2022
+NIM00559,Mahasiswa_559,Perempuan,10/16/2003 0:00,Jakarta,Hukum,2021
+NIM00560,Mahasiswa_560,Perempuan,9/26/2004 0:00,Jakarta,Teknik Informatika,2019
+NIM00561,Mahasiswa_561,Perempuan,6/10/1996 0:00,Surabaya,Teknik Informatika,2018
+NIM00562,Mahasiswa_562,Laki-Laki,7/7/1996 0:00,Surabaya,Akuntansi,2017
+NIM00563,Mahasiswa_563,Laki-Laki,9/3/2000 0:00,Surabaya,Teknik Informatika,2018
+NIM00564,Mahasiswa_564,Laki-Laki,8/4/2003 0:00,Medan,Manajemen,2017
+NIM00565,Mahasiswa_565,Perempuan,11/11/1995 0:00,Surabaya,Hukum,2021
+NIM00566,Mahasiswa_566,Perempuan,12/5/2003 0:00,Bandung,Kedokteran,2018
+NIM00567,Mahasiswa_567,Perempuan,6/17/2003 0:00,Jakarta,Akuntansi,2023
+NIM00568,Mahasiswa_568,Perempuan,12/5/2003 0:00,Medan,Hukum,2023
+NIM00569,Mahasiswa_569,Laki-Laki,7/12/1999 0:00,Jakarta,Hukum,2021
+NIM00570,Mahasiswa_570,Laki-Laki,10/10/2003 0:00,Surabaya,Manajemen,2019
+NIM00571,Mahasiswa_571,Perempuan,12/2/1998 0:00,Medan,Teknik Informatika,2017
+NIM00572,Mahasiswa_572,Laki-Laki,1/13/1996 0:00,Yogyakarta,Manajemen,2023
+NIM00573,Mahasiswa_573,Laki-Laki,8/27/2000 0:00,Bandung,Teknik Informatika,2022
+NIM00574,Mahasiswa_574,Perempuan,11/16/1998 0:00,Surabaya,Teknik Informatika,2019
+NIM00575,Mahasiswa_575,Laki-Laki,5/26/2000 0:00,Surabaya,Hukum,2017
+NIM00576,Mahasiswa_576,Perempuan,7/23/1997 0:00,Bandung,Teknik Informatika,2021
+NIM00577,Mahasiswa_577,Laki-Laki,3/20/2000 0:00,Bandung,Akuntansi,2023
+NIM00578,Mahasiswa_578,Perempuan,2/12/1996 0:00,Yogyakarta,Akuntansi,2020
+NIM00579,Mahasiswa_579,Perempuan,3/29/1996 0:00,Surabaya,Akuntansi,2018
+NIM00580,Mahasiswa_580,Perempuan,5/28/2003 0:00,Surabaya,Hukum,2021
+NIM00581,Mahasiswa_581,Perempuan,4/5/2001 0:00,Jakarta,Manajemen,2017
+NIM00582,Mahasiswa_582,Laki-Laki,5/31/1997 0:00,Medan,Kedokteran,2017
+NIM00583,Mahasiswa_583,Perempuan,1/2/1995 0:00,Medan,Teknik Informatika,2017
+NIM00584,Mahasiswa_584,Perempuan,1/22/2002 0:00,Jakarta,Kedokteran,2017
+NIM00585,Mahasiswa_585,Perempuan,11/8/2000 0:00,Medan,Manajemen,2018
+NIM00586,Mahasiswa_586,Laki-Laki,11/24/2001 0:00,Bandung,Manajemen,2019
+NIM00587,Mahasiswa_587,Perempuan,1/7/2003 0:00,Medan,Hukum,2022
+NIM00588,Mahasiswa_588,Laki-Laki,7/25/1999 0:00,Medan,Akuntansi,2020
+NIM00589,Mahasiswa_589,Perempuan,4/24/1995 0:00,Jakarta,Akuntansi,2018
+NIM00590,Mahasiswa_590,Laki-Laki,9/28/2004 0:00,Yogyakarta,Manajemen,2017
+NIM00591,Mahasiswa_591,Laki-Laki,3/24/2001 0:00,Medan,Hukum,2018
+NIM00592,Mahasiswa_592,Perempuan,6/28/1999 0:00,Medan,Hukum,2021
+NIM00593,Mahasiswa_593,Laki-Laki,7/29/1997 0:00,Yogyakarta,Teknik Informatika,2022
+NIM00594,Mahasiswa_594,Perempuan,11/24/2003 0:00,Jakarta,Akuntansi,2017
+NIM00595,Mahasiswa_595,Perempuan,5/4/1995 0:00,Yogyakarta,Manajemen,2020
+NIM00596,Mahasiswa_596,Perempuan,4/23/1995 0:00,Jakarta,Kedokteran,2017
+NIM00597,Mahasiswa_597,Laki-Laki,1/12/1995 0:00,Bandung,Akuntansi,2022
+NIM00598,Mahasiswa_598,Laki-Laki,5/6/1997 0:00,Jakarta,Teknik Informatika,2020
+NIM00599,Mahasiswa_599,Perempuan,2/22/2000 0:00,Bandung,Hukum,2022
+NIM00600,Mahasiswa_600,Perempuan,11/26/2004 0:00,Bandung,Manajemen,2020
+NIM00601,Mahasiswa_601,Laki-Laki,10/10/1997 0:00,Jakarta,Akuntansi,2019
+NIM00602,Mahasiswa_602,Perempuan,5/20/2002 0:00,Surabaya,Kedokteran,2023
+NIM00603,Mahasiswa_603,Perempuan,4/6/2004 0:00,Jakarta,Teknik Informatika,2019
+NIM00604,Mahasiswa_604,Perempuan,1/5/1996 0:00,Medan,Teknik Informatika,2018
+NIM00605,Mahasiswa_605,Laki-Laki,2/26/2003 0:00,Medan,Akuntansi,2018
+NIM00606,Mahasiswa_606,Laki-Laki,11/30/1997 0:00,Surabaya,Kedokteran,2020
+NIM00607,Mahasiswa_607,Laki-Laki,3/10/1999 0:00,Bandung,Teknik Informatika,2017
+NIM00608,Mahasiswa_608,Perempuan,4/27/2004 0:00,Surabaya,Manajemen,2023
+NIM00609,Mahasiswa_609,Perempuan,2/28/2002 0:00,Medan,Teknik Informatika,2021
+NIM00610,Mahasiswa_610,Perempuan,2/2/1996 0:00,Surabaya,Kedokteran,2021
+NIM00611,Mahasiswa_611,Laki-Laki,11/13/2000 0:00,Jakarta,Hukum,2017
+NIM00612,Mahasiswa_612,Perempuan,2/19/1999 0:00,Surabaya,Hukum,2017
+NIM00613,Mahasiswa_613,Perempuan,1/19/2004 0:00,Bandung,Akuntansi,2019
+NIM00614,Mahasiswa_614,Perempuan,8/2/2003 0:00,Jakarta,Kedokteran,2021
+NIM00615,Mahasiswa_615,Perempuan,7/16/1999 0:00,Yogyakarta,Teknik Informatika,2020
+NIM00616,Mahasiswa_616,Laki-Laki,2/16/1996 0:00,Medan,Teknik Informatika,2022
+NIM00617,Mahasiswa_617,Laki-Laki,6/16/1999 0:00,Medan,Hukum,2018
+NIM00618,Mahasiswa_618,Perempuan,10/16/1998 0:00,Surabaya,Hukum,2022
+NIM00619,Mahasiswa_619,Laki-Laki,5/21/2001 0:00,Jakarta,Manajemen,2019
+NIM00620,Mahasiswa_620,Laki-Laki,3/24/2000 0:00,Yogyakarta,Hukum,2021
+NIM00621,Mahasiswa_621,Perempuan,6/30/1996 0:00,Jakarta,Manajemen,2023
+NIM00622,Mahasiswa_622,Perempuan,3/20/1999 0:00,Medan,Teknik Informatika,2017
+NIM00623,Mahasiswa_623,Laki-Laki,8/3/2001 0:00,Jakarta,Manajemen,2023
+NIM00624,Mahasiswa_624,Perempuan,1/14/2001 0:00,Yogyakarta,Manajemen,2023
+NIM00625,Mahasiswa_625,Laki-Laki,8/3/1999 0:00,Surabaya,Akuntansi,2021
+NIM00626,Mahasiswa_626,Perempuan,5/8/2003 0:00,Bandung,Hukum,2020
+NIM00627,Mahasiswa_627,Laki-Laki,11/6/1998 0:00,Jakarta,Manajemen,2019
+NIM00628,Mahasiswa_628,Perempuan,9/5/1997 0:00,Bandung,Teknik Informatika,2017
+NIM00629,Mahasiswa_629,Laki-Laki,1/29/1998 0:00,Medan,Kedokteran,2022
+NIM00630,Mahasiswa_630,Laki-Laki,10/7/1999 0:00,Surabaya,Manajemen,2020
+NIM00631,Mahasiswa_631,Laki-Laki,12/3/2000 0:00,Surabaya,Hukum,2022
+NIM00632,Mahasiswa_632,Perempuan,11/15/1997 0:00,Jakarta,Akuntansi,2018
+NIM00633,Mahasiswa_633,Laki-Laki,7/20/1996 0:00,Surabaya,Teknik Informatika,2019
+NIM00634,Mahasiswa_634,Laki-Laki,12/27/1998 0:00,Jakarta,Akuntansi,2020
+NIM00635,Mahasiswa_635,Perempuan,2/26/1999 0:00,Jakarta,Kedokteran,2020
+NIM00636,Mahasiswa_636,Perempuan,8/6/1998 0:00,Bandung,Manajemen,2022
+NIM00637,Mahasiswa_637,Laki-Laki,3/3/1997 0:00,Surabaya,Manajemen,2017
+NIM00638,Mahasiswa_638,Laki-Laki,6/6/2002 0:00,Jakarta,Hukum,2018
+NIM00639,Mahasiswa_639,Perempuan,7/20/2004 0:00,Bandung,Manajemen,2022
+NIM00640,Mahasiswa_640,Perempuan,1/17/1998 0:00,Yogyakarta,Teknik Informatika,2020
+NIM00641,Mahasiswa_641,Perempuan,11/17/1996 0:00,Bandung,Kedokteran,2019
+NIM00642,Mahasiswa_642,Perempuan,1/6/1996 0:00,Bandung,Akuntansi,2020
+NIM00643,Mahasiswa_643,Perempuan,2/27/1995 0:00,Jakarta,Kedokteran,2021
+NIM00644,Mahasiswa_644,Laki-Laki,11/21/1998 0:00,Medan,Manajemen,2019
+NIM00645,Mahasiswa_645,Perempuan,11/13/2004 0:00,Medan,Akuntansi,2019
+NIM00646,Mahasiswa_646,Laki-Laki,6/18/2003 0:00,Medan,Hukum,2020
+NIM00647,Mahasiswa_647,Laki-Laki,3/23/2001 0:00,Bandung,Kedokteran,2017
+NIM00648,Mahasiswa_648,Laki-Laki,8/6/2004 0:00,Jakarta,Akuntansi,2019
+NIM00649,Mahasiswa_649,Perempuan,6/26/2001 0:00,Surabaya,Akuntansi,2021
+NIM00650,Mahasiswa_650,Laki-Laki,7/23/2001 0:00,Bandung,Akuntansi,2022
+NIM00651,Mahasiswa_651,Laki-Laki,3/12/2002 0:00,Bandung,Teknik Informatika,2017
+NIM00652,Mahasiswa_652,Perempuan,9/23/1995 0:00,Jakarta,Kedokteran,2017
+NIM00653,Mahasiswa_653,Laki-Laki,4/7/2004 0:00,Yogyakarta,Akuntansi,2017
+NIM00654,Mahasiswa_654,Laki-Laki,12/10/2004 0:00,Bandung,Kedokteran,2019
+NIM00655,Mahasiswa_655,Perempuan,10/18/2002 0:00,Yogyakarta,Akuntansi,2017
+NIM00656,Mahasiswa_656,Laki-Laki,7/27/1998 0:00,Yogyakarta,Hukum,2020
+NIM00657,Mahasiswa_657,Laki-Laki,1/2/1998 0:00,Medan,Hukum,2017
+NIM00658,Mahasiswa_658,Laki-Laki,5/4/1998 0:00,Jakarta,Hukum,2021
+NIM00659,Mahasiswa_659,Perempuan,10/6/2000 0:00,Yogyakarta,Manajemen,2018
+NIM00660,Mahasiswa_660,Perempuan,3/15/2001 0:00,Jakarta,Akuntansi,2021
+NIM00661,Mahasiswa_661,Perempuan,6/14/2000 0:00,Medan,Manajemen,2019
+NIM00662,Mahasiswa_662,Laki-Laki,1/22/1995 0:00,Jakarta,Kedokteran,2017
+NIM00663,Mahasiswa_663,Laki-Laki,6/3/2002 0:00,Bandung,Manajemen,2017
+NIM00664,Mahasiswa_664,Perempuan,10/21/2004 0:00,Yogyakarta,Kedokteran,2020
+NIM00665,Mahasiswa_665,Laki-Laki,8/7/2001 0:00,Jakarta,Kedokteran,2022
+NIM00666,Mahasiswa_666,Laki-Laki,6/5/2000 0:00,Surabaya,Kedokteran,2017
+NIM00667,Mahasiswa_667,Perempuan,8/17/2000 0:00,Jakarta,Manajemen,2023
+NIM00668,Mahasiswa_668,Perempuan,1/20/1999 0:00,Yogyakarta,Akuntansi,2021
+NIM00669,Mahasiswa_669,Laki-Laki,2/10/2000 0:00,Medan,Manajemen,2019
+NIM00670,Mahasiswa_670,Laki-Laki,5/28/2003 0:00,Medan,Akuntansi,2018
+NIM00671,Mahasiswa_671,Laki-Laki,4/17/2004 0:00,Yogyakarta,Akuntansi,2017
+NIM00672,Mahasiswa_672,Perempuan,3/25/2003 0:00,Bandung,Kedokteran,2018
+NIM00673,Mahasiswa_673,Perempuan,11/17/2004 0:00,Bandung,Manajemen,2017
+NIM00674,Mahasiswa_674,Perempuan,11/5/2002 0:00,Medan,Akuntansi,2019
+NIM00675,Mahasiswa_675,Perempuan,10/16/2004 0:00,Medan,Hukum,2022
+NIM00676,Mahasiswa_676,Laki-Laki,11/19/2003 0:00,Yogyakarta,Akuntansi,2021
+NIM00677,Mahasiswa_677,Perempuan,5/13/2004 0:00,Bandung,Hukum,2019
+NIM00678,Mahasiswa_678,Perempuan,7/26/2002 0:00,Medan,Manajemen,2018
+NIM00679,Mahasiswa_679,Perempuan,10/10/2002 0:00,Bandung,Manajemen,2017
+NIM00680,Mahasiswa_680,Perempuan,9/23/1995 0:00,Medan,Manajemen,2018
+NIM00681,Mahasiswa_681,Perempuan,3/13/2004 0:00,Jakarta,Akuntansi,2021
+NIM00682,Mahasiswa_682,Laki-Laki,12/18/1999 0:00,Surabaya,Teknik Informatika,2023
+NIM00683,Mahasiswa_683,Laki-Laki,2/17/1998 0:00,Jakarta,Akuntansi,2019
+NIM00684,Mahasiswa_684,Perempuan,11/21/1996 0:00,Medan,Akuntansi,2018
+NIM00685,Mahasiswa_685,Laki-Laki,8/21/2002 0:00,Surabaya,Kedokteran,2018
+NIM00686,Mahasiswa_686,Perempuan,4/10/1997 0:00,Surabaya,Kedokteran,2021
+NIM00687,Mahasiswa_687,Perempuan,2/28/1998 0:00,Medan,Akuntansi,2023
+NIM00688,Mahasiswa_688,Laki-Laki,9/15/2001 0:00,Medan,Hukum,2017
+NIM00689,Mahasiswa_689,Laki-Laki,3/5/2004 0:00,Bandung,Kedokteran,2023
+NIM00690,Mahasiswa_690,Perempuan,3/24/2003 0:00,Medan,Akuntansi,2018
+NIM00691,Mahasiswa_691,Perempuan,6/2/1996 0:00,Yogyakarta,Teknik Informatika,2021
+NIM00692,Mahasiswa_692,Perempuan,9/23/1997 0:00,Medan,Hukum,2017
+NIM00693,Mahasiswa_693,Laki-Laki,11/5/1998 0:00,Yogyakarta,Manajemen,2023
+NIM00694,Mahasiswa_694,Perempuan,3/19/2004 0:00,Medan,Akuntansi,2023
+NIM00695,Mahasiswa_695,Perempuan,11/11/1995 0:00,Bandung,Akuntansi,2023
+NIM00696,Mahasiswa_696,Perempuan,5/30/2001 0:00,Yogyakarta,Hukum,2022
+NIM00697,Mahasiswa_697,Laki-Laki,2/17/1996 0:00,Jakarta,Kedokteran,2017
+NIM00698,Mahasiswa_698,Perempuan,9/5/1999 0:00,Yogyakarta,Kedokteran,2023
+NIM00699,Mahasiswa_699,Perempuan,10/5/1995 0:00,Bandung,Kedokteran,2022
+NIM00700,Mahasiswa_700,Laki-Laki,12/22/1997 0:00,Yogyakarta,Manajemen,2019
+NIM00701,Mahasiswa_701,Perempuan,4/7/1996 0:00,Medan,Hukum,2021
+NIM00702,Mahasiswa_702,Perempuan,1/25/1995 0:00,Medan,Hukum,2023
+NIM00703,Mahasiswa_703,Laki-Laki,10/11/2001 0:00,Bandung,Kedokteran,2017
+NIM00704,Mahasiswa_704,Perempuan,10/28/1999 0:00,Surabaya,Kedokteran,2022
+NIM00705,Mahasiswa_705,Laki-Laki,3/9/1995 0:00,Medan,Teknik Informatika,2022
+NIM00706,Mahasiswa_706,Laki-Laki,1/7/2000 0:00,Jakarta,Teknik Informatika,2019
+NIM00707,Mahasiswa_707,Perempuan,11/1/1999 0:00,Bandung,Akuntansi,2020
+NIM00708,Mahasiswa_708,Perempuan,5/17/1997 0:00,Yogyakarta,Akuntansi,2021
+NIM00709,Mahasiswa_709,Perempuan,6/13/2001 0:00,Yogyakarta,Hukum,2020
+NIM00710,Mahasiswa_710,Perempuan,3/23/2004 0:00,Jakarta,Hukum,2017
+NIM00711,Mahasiswa_711,Laki-Laki,5/18/2003 0:00,Medan,Manajemen,2021
+NIM00712,Mahasiswa_712,Perempuan,3/14/2003 0:00,Bandung,Manajemen,2019
+NIM00713,Mahasiswa_713,Laki-Laki,8/25/2003 0:00,Jakarta,Teknik Informatika,2017
+NIM00714,Mahasiswa_714,Perempuan,2/15/1996 0:00,Medan,Akuntansi,2021
+NIM00715,Mahasiswa_715,Perempuan,4/16/1997 0:00,Bandung,Teknik Informatika,2021
+NIM00716,Mahasiswa_716,Perempuan,10/15/2001 0:00,Yogyakarta,Teknik Informatika,2020
+NIM00717,Mahasiswa_717,Laki-Laki,9/19/1999 0:00,Bandung,Akuntansi,2017
+NIM00718,Mahasiswa_718,Perempuan,6/24/1996 0:00,Surabaya,Manajemen,2019
+NIM00719,Mahasiswa_719,Perempuan,6/15/1997 0:00,Bandung,Akuntansi,2019
+NIM00720,Mahasiswa_720,Perempuan,5/24/2004 0:00,Surabaya,Kedokteran,2017
+NIM00721,Mahasiswa_721,Perempuan,11/25/2000 0:00,Bandung,Kedokteran,2017
+NIM00722,Mahasiswa_722,Laki-Laki,10/10/2001 0:00,Surabaya,Kedokteran,2022
+NIM00723,Mahasiswa_723,Perempuan,2/23/2003 0:00,Yogyakarta,Hukum,2018
+NIM00724,Mahasiswa_724,Laki-Laki,6/27/1995 0:00,Medan,Manajemen,2020
+NIM00725,Mahasiswa_725,Laki-Laki,9/1/2001 0:00,Surabaya,Manajemen,2017
+NIM00726,Mahasiswa_726,Laki-Laki,12/7/2002 0:00,Surabaya,Hukum,2017
+NIM00727,Mahasiswa_727,Laki-Laki,5/7/1997 0:00,Yogyakarta,Teknik Informatika,2018
+NIM00728,Mahasiswa_728,Laki-Laki,9/28/1998 0:00,Surabaya,Kedokteran,2018
+NIM00729,Mahasiswa_729,Laki-Laki,5/11/2004 0:00,Jakarta,Kedokteran,2021
+NIM00730,Mahasiswa_730,Perempuan,4/2/2000 0:00,Yogyakarta,Teknik Informatika,2023
+NIM00731,Mahasiswa_731,Laki-Laki,3/13/2004 0:00,Jakarta,Akuntansi,2019
+NIM00732,Mahasiswa_732,Laki-Laki,9/5/2001 0:00,Yogyakarta,Akuntansi,2020
+NIM00733,Mahasiswa_733,Laki-Laki,12/14/1998 0:00,Surabaya,Manajemen,2021
+NIM00734,Mahasiswa_734,Perempuan,9/30/2002 0:00,Jakarta,Hukum,2017
+NIM00735,Mahasiswa_735,Perempuan,2/12/1999 0:00,Surabaya,Manajemen,2018
+NIM00736,Mahasiswa_736,Laki-Laki,2/10/1995 0:00,Yogyakarta,Akuntansi,2022
+NIM00737,Mahasiswa_737,Perempuan,6/19/1998 0:00,Surabaya,Teknik Informatika,2019
+NIM00738,Mahasiswa_738,Laki-Laki,7/31/1997 0:00,Jakarta,Manajemen,2021
+NIM00739,Mahasiswa_739,Laki-Laki,6/17/2003 0:00,Jakarta,Kedokteran,2022
+NIM00740,Mahasiswa_740,Perempuan,2/8/2002 0:00,Surabaya,Kedokteran,2019
+NIM00741,Mahasiswa_741,Laki-Laki,9/2/1995 0:00,Bandung,Teknik Informatika,2023
+NIM00742,Mahasiswa_742,Perempuan,5/30/2000 0:00,Yogyakarta,Akuntansi,2023
+NIM00743,Mahasiswa_743,Perempuan,4/21/2003 0:00,Yogyakarta,Kedokteran,2022
+NIM00744,Mahasiswa_744,Laki-Laki,2/16/2001 0:00,Surabaya,Kedokteran,2018
+NIM00745,Mahasiswa_745,Laki-Laki,3/4/1998 0:00,Bandung,Hukum,2021
+NIM00746,Mahasiswa_746,Perempuan,8/13/1995 0:00,Jakarta,Manajemen,2021
+NIM00747,Mahasiswa_747,Laki-Laki,3/9/1996 0:00,Medan,Akuntansi,2023
+NIM00748,Mahasiswa_748,Laki-Laki,10/26/1999 0:00,Medan,Manajemen,2019
+NIM00749,Mahasiswa_749,Laki-Laki,10/17/1999 0:00,Surabaya,Akuntansi,2022
+NIM00750,Mahasiswa_750,Perempuan,10/23/2002 0:00,Bandung,Kedokteran,2018
+NIM00751,Mahasiswa_751,Perempuan,7/21/2000 0:00,Bandung,Hukum,2017
+NIM00752,Mahasiswa_752,Laki-Laki,3/2/2002 0:00,Yogyakarta,Manajemen,2021
+NIM00753,Mahasiswa_753,Perempuan,11/13/1996 0:00,Jakarta,Kedokteran,2017
+NIM00754,Mahasiswa_754,Perempuan,11/10/1997 0:00,Bandung,Akuntansi,2018
+NIM00755,Mahasiswa_755,Perempuan,6/9/2000 0:00,Medan,Manajemen,2023
+NIM00756,Mahasiswa_756,Perempuan,11/26/2004 0:00,Jakarta,Manajemen,2021
+NIM00757,Mahasiswa_757,Perempuan,1/16/1997 0:00,Jakarta,Kedokteran,2021
+NIM00758,Mahasiswa_758,Laki-Laki,12/3/2000 0:00,Surabaya,Manajemen,2022
+NIM00759,Mahasiswa_759,Laki-Laki,4/3/2000 0:00,Bandung,Hukum,2017
+NIM00760,Mahasiswa_760,Laki-Laki,10/30/1996 0:00,Surabaya,Hukum,2023
+NIM00761,Mahasiswa_761,Perempuan,5/18/2001 0:00,Bandung,Kedokteran,2022
+NIM00762,Mahasiswa_762,Perempuan,12/3/1996 0:00,Yogyakarta,Akuntansi,2020
+NIM00763,Mahasiswa_763,Laki-Laki,2/7/2000 0:00,Surabaya,Kedokteran,2017
+NIM00764,Mahasiswa_764,Perempuan,5/7/1995 0:00,Surabaya,Hukum,2017
+NIM00765,Mahasiswa_765,Laki-Laki,10/2/1997 0:00,Medan,Teknik Informatika,2020
+NIM00766,Mahasiswa_766,Laki-Laki,6/12/1996 0:00,Surabaya,Teknik Informatika,2018
+NIM00767,Mahasiswa_767,Laki-Laki,11/15/2001 0:00,Bandung,Manajemen,2018
+NIM00768,Mahasiswa_768,Perempuan,3/18/1998 0:00,Medan,Manajemen,2021
+NIM00769,Mahasiswa_769,Perempuan,6/23/2002 0:00,Surabaya,Teknik Informatika,2019
+NIM00770,Mahasiswa_770,Laki-Laki,12/23/2000 0:00,Surabaya,Hukum,2022
+NIM00771,Mahasiswa_771,Laki-Laki,11/16/2004 0:00,Yogyakarta,Manajemen,2019
+NIM00772,Mahasiswa_772,Laki-Laki,4/1/1998 0:00,Surabaya,Kedokteran,2021
+NIM00773,Mahasiswa_773,Laki-Laki,8/26/1999 0:00,Jakarta,Kedokteran,2019
+NIM00774,Mahasiswa_774,Perempuan,9/21/2003 0:00,Medan,Hukum,2017
+NIM00775,Mahasiswa_775,Perempuan,6/28/2001 0:00,Jakarta,Manajemen,2017
+NIM00776,Mahasiswa_776,Laki-Laki,7/27/2004 0:00,Medan,Kedokteran,2020
+NIM00777,Mahasiswa_777,Laki-Laki,3/14/2003 0:00,Yogyakarta,Manajemen,2020
+NIM00778,Mahasiswa_778,Perempuan,4/17/2001 0:00,Surabaya,Manajemen,2021
+NIM00779,Mahasiswa_779,Perempuan,12/11/1995 0:00,Surabaya,Kedokteran,2021
+NIM00780,Mahasiswa_780,Laki-Laki,10/22/2002 0:00,Surabaya,Teknik Informatika,2023
+NIM00781,Mahasiswa_781,Laki-Laki,10/11/1998 0:00,Medan,Kedokteran,2021
+NIM00782,Mahasiswa_782,Laki-Laki,12/19/1997 0:00,Surabaya,Hukum,2017
+NIM00783,Mahasiswa_783,Perempuan,7/1/2001 0:00,Jakarta,Akuntansi,2019
+NIM00784,Mahasiswa_784,Perempuan,2/6/1997 0:00,Surabaya,Kedokteran,2022
+NIM00785,Mahasiswa_785,Perempuan,5/17/2002 0:00,Yogyakarta,Manajemen,2023
+NIM00786,Mahasiswa_786,Laki-Laki,12/3/2000 0:00,Jakarta,Manajemen,2023
+NIM00787,Mahasiswa_787,Laki-Laki,2/25/1999 0:00,Surabaya,Kedokteran,2023
+NIM00788,Mahasiswa_788,Perempuan,7/6/1998 0:00,Surabaya,Akuntansi,2021
+NIM00789,Mahasiswa_789,Perempuan,12/7/2002 0:00,Bandung,Kedokteran,2021
+NIM00790,Mahasiswa_790,Laki-Laki,9/15/2002 0:00,Medan,Akuntansi,2017
+NIM00791,Mahasiswa_791,Perempuan,2/27/1995 0:00,Jakarta,Akuntansi,2022
+NIM00792,Mahasiswa_792,Perempuan,12/29/2003 0:00,Bandung,Hukum,2017
+NIM00793,Mahasiswa_793,Laki-Laki,5/3/1999 0:00,Yogyakarta,Manajemen,2022
+NIM00794,Mahasiswa_794,Perempuan,7/7/1998 0:00,Medan,Manajemen,2017
+NIM00795,Mahasiswa_795,Laki-Laki,8/17/2000 0:00,Jakarta,Akuntansi,2019
+NIM00796,Mahasiswa_796,Laki-Laki,6/16/2000 0:00,Surabaya,Manajemen,2021
+NIM00797,Mahasiswa_797,Laki-Laki,4/23/1996 0:00,Jakarta,Teknik Informatika,2018
+NIM00798,Mahasiswa_798,Laki-Laki,9/9/2002 0:00,Surabaya,Akuntansi,2018
+NIM00799,Mahasiswa_799,Laki-Laki,4/17/2001 0:00,Medan,Manajemen,2021
+NIM00800,Mahasiswa_800,Laki-Laki,2/6/1995 0:00,Surabaya,Teknik Informatika,2023
+NIM00801,Mahasiswa_801,Laki-Laki,12/1/1999 0:00,Yogyakarta,Hukum,2021
+NIM00802,Mahasiswa_802,Perempuan,4/1/2000 0:00,Surabaya,Manajemen,2021
+NIM00803,Mahasiswa_803,Laki-Laki,1/18/1998 0:00,Yogyakarta,Teknik Informatika,2021
+NIM00804,Mahasiswa_804,Laki-Laki,12/19/1996 0:00,Medan,Kedokteran,2023
+NIM00805,Mahasiswa_805,Perempuan,3/4/1998 0:00,Medan,Kedokteran,2022
+NIM00806,Mahasiswa_806,Perempuan,5/30/1995 0:00,Jakarta,Teknik Informatika,2019
+NIM00807,Mahasiswa_807,Perempuan,5/19/2001 0:00,Yogyakarta,Akuntansi,2018
+NIM00808,Mahasiswa_808,Laki-Laki,7/4/1996 0:00,Yogyakarta,Akuntansi,2020
+NIM00809,Mahasiswa_809,Perempuan,7/3/1996 0:00,Bandung,Manajemen,2018
+NIM00810,Mahasiswa_810,Laki-Laki,7/24/2003 0:00,Bandung,Kedokteran,2018
+NIM00811,Mahasiswa_811,Laki-Laki,9/17/1999 0:00,Bandung,Akuntansi,2023
+NIM00812,Mahasiswa_812,Laki-Laki,8/1/1996 0:00,Surabaya,Akuntansi,2017
+NIM00813,Mahasiswa_813,Laki-Laki,9/13/2003 0:00,Bandung,Kedokteran,2021
+NIM00814,Mahasiswa_814,Perempuan,5/15/2003 0:00,Yogyakarta,Hukum,2021
+NIM00815,Mahasiswa_815,Perempuan,3/2/1995 0:00,Surabaya,Akuntansi,2021
+NIM00816,Mahasiswa_816,Laki-Laki,12/29/1997 0:00,Medan,Teknik Informatika,2017
+NIM00817,Mahasiswa_817,Laki-Laki,11/6/1998 0:00,Jakarta,Manajemen,2023
+NIM00818,Mahasiswa_818,Laki-Laki,3/29/2001 0:00,Bandung,Akuntansi,2019
+NIM00819,Mahasiswa_819,Perempuan,11/19/2004 0:00,Medan,Akuntansi,2019
+NIM00820,Mahasiswa_820,Laki-Laki,7/26/1998 0:00,Yogyakarta,Hukum,2023
+NIM00821,Mahasiswa_821,Laki-Laki,5/8/1996 0:00,Jakarta,Teknik Informatika,2020
+NIM00822,Mahasiswa_822,Perempuan,11/7/2001 0:00,Medan,Manajemen,2019
+NIM00823,Mahasiswa_823,Perempuan,1/3/2000 0:00,Jakarta,Akuntansi,2023
+NIM00824,Mahasiswa_824,Laki-Laki,8/30/1997 0:00,Bandung,Manajemen,2019
+NIM00825,Mahasiswa_825,Perempuan,4/30/2000 0:00,Yogyakarta,Kedokteran,2021
+NIM00826,Mahasiswa_826,Perempuan,4/11/2000 0:00,Jakarta,Akuntansi,2022
+NIM00827,Mahasiswa_827,Laki-Laki,2/7/1999 0:00,Medan,Akuntansi,2023
+NIM00828,Mahasiswa_828,Perempuan,12/7/1998 0:00,Bandung,Kedokteran,2018
+NIM00829,Mahasiswa_829,Laki-Laki,5/12/2004 0:00,Bandung,Hukum,2019
+NIM00830,Mahasiswa_830,Perempuan,7/21/1995 0:00,Medan,Akuntansi,2019
+NIM00831,Mahasiswa_831,Laki-Laki,12/13/2004 0:00,Medan,Manajemen,2017
+NIM00832,Mahasiswa_832,Laki-Laki,1/21/2000 0:00,Jakarta,Teknik Informatika,2020
+NIM00833,Mahasiswa_833,Laki-Laki,8/29/1996 0:00,Surabaya,Manajemen,2022
+NIM00834,Mahasiswa_834,Perempuan,4/19/1997 0:00,Bandung,Hukum,2017
+NIM00835,Mahasiswa_835,Laki-Laki,10/30/2002 0:00,Jakarta,Teknik Informatika,2021
+NIM00836,Mahasiswa_836,Perempuan,3/24/2004 0:00,Medan,Manajemen,2018
+NIM00837,Mahasiswa_837,Laki-Laki,3/23/2000 0:00,Jakarta,Manajemen,2020
+NIM00838,Mahasiswa_838,Laki-Laki,10/18/1997 0:00,Medan,Kedokteran,2017
+NIM00839,Mahasiswa_839,Perempuan,3/10/2001 0:00,Yogyakarta,Hukum,2023
+NIM00840,Mahasiswa_840,Laki-Laki,5/9/1998 0:00,Medan,Kedokteran,2019
+NIM00841,Mahasiswa_841,Laki-Laki,7/15/2003 0:00,Medan,Teknik Informatika,2019
+NIM00842,Mahasiswa_842,Perempuan,5/20/1999 0:00,Medan,Kedokteran,2020
+NIM00843,Mahasiswa_843,Laki-Laki,10/10/1997 0:00,Surabaya,Hukum,2019
+NIM00844,Mahasiswa_844,Laki-Laki,11/7/1996 0:00,Medan,Akuntansi,2023
+NIM00845,Mahasiswa_845,Laki-Laki,8/21/1996 0:00,Bandung,Akuntansi,2017
+NIM00846,Mahasiswa_846,Laki-Laki,1/23/1997 0:00,Bandung,Teknik Informatika,2017
+NIM00847,Mahasiswa_847,Perempuan,6/1/1996 0:00,Jakarta,Akuntansi,2019
+NIM00848,Mahasiswa_848,Perempuan,10/4/1998 0:00,Surabaya,Kedokteran,2019
+NIM00849,Mahasiswa_849,Laki-Laki,3/1/1996 0:00,Jakarta,Teknik Informatika,2021
+NIM00850,Mahasiswa_850,Perempuan,11/14/2004 0:00,Bandung,Hukum,2018
+NIM00851,Mahasiswa_851,Laki-Laki,2/21/2003 0:00,Bandung,Teknik Informatika,2020
+NIM00852,Mahasiswa_852,Perempuan,12/9/1996 0:00,Yogyakarta,Teknik Informatika,2017
+NIM00853,Mahasiswa_853,Laki-Laki,6/2/2003 0:00,Medan,Manajemen,2020
+NIM00854,Mahasiswa_854,Laki-Laki,8/24/2000 0:00,Bandung,Manajemen,2021
+NIM00855,Mahasiswa_855,Laki-Laki,11/7/1995 0:00,Jakarta,Teknik Informatika,2017
+NIM00856,Mahasiswa_856,Laki-Laki,10/29/1998 0:00,Jakarta,Akuntansi,2021
+NIM00857,Mahasiswa_857,Laki-Laki,2/1/1995 0:00,Medan,Manajemen,2021
+NIM00858,Mahasiswa_858,Laki-Laki,2/24/2000 0:00,Medan,Hukum,2022
+NIM00859,Mahasiswa_859,Perempuan,12/18/1998 0:00,Yogyakarta,Kedokteran,2019
+NIM00860,Mahasiswa_860,Laki-Laki,2/5/1997 0:00,Surabaya,Manajemen,2023
+NIM00861,Mahasiswa_861,Perempuan,4/20/1997 0:00,Jakarta,Teknik Informatika,2022
+NIM00862,Mahasiswa_862,Laki-Laki,6/26/2003 0:00,Medan,Akuntansi,2020
+NIM00863,Mahasiswa_863,Perempuan,12/27/2000 0:00,Jakarta,Kedokteran,2023
+NIM00864,Mahasiswa_864,Perempuan,11/10/2003 0:00,Medan,Manajemen,2020
+NIM00865,Mahasiswa_865,Perempuan,10/22/1999 0:00,Bandung,Akuntansi,2019
+NIM00866,Mahasiswa_866,Laki-Laki,12/1/1996 0:00,Jakarta,Akuntansi,2023
+NIM00867,Mahasiswa_867,Laki-Laki,4/7/2002 0:00,Bandung,Akuntansi,2022
+NIM00868,Mahasiswa_868,Perempuan,8/1/1999 0:00,Jakarta,Teknik Informatika,2020
+NIM00869,Mahasiswa_869,Laki-Laki,11/12/1996 0:00,Surabaya,Hukum,2022
+NIM00870,Mahasiswa_870,Perempuan,5/17/1998 0:00,Yogyakarta,Akuntansi,2019
+NIM00871,Mahasiswa_871,Laki-Laki,1/6/2003 0:00,Bandung,Kedokteran,2023
+NIM00872,Mahasiswa_872,Perempuan,4/19/1998 0:00,Medan,Manajemen,2023
+NIM00873,Mahasiswa_873,Perempuan,2/4/1998 0:00,Surabaya,Kedokteran,2017
+NIM00874,Mahasiswa_874,Laki-Laki,2/8/1996 0:00,Jakarta,Teknik Informatika,2021
+NIM00875,Mahasiswa_875,Perempuan,5/29/2000 0:00,Bandung,Teknik Informatika,2021
+NIM00876,Mahasiswa_876,Laki-Laki,4/27/1996 0:00,Jakarta,Kedokteran,2022
+NIM00877,Mahasiswa_877,Perempuan,9/18/2001 0:00,Jakarta,Hukum,2023
+NIM00878,Mahasiswa_878,Perempuan,3/28/1997 0:00,Jakarta,Teknik Informatika,2020
+NIM00879,Mahasiswa_879,Laki-Laki,3/17/1997 0:00,Yogyakarta,Teknik Informatika,2022
+NIM00880,Mahasiswa_880,Laki-Laki,11/9/1999 0:00,Yogyakarta,Kedokteran,2022
+NIM00881,Mahasiswa_881,Laki-Laki,8/2/1997 0:00,Medan,Teknik Informatika,2018
+NIM00882,Mahasiswa_882,Perempuan,10/11/1996 0:00,Bandung,Hukum,2023
+NIM00883,Mahasiswa_883,Laki-Laki,8/26/2004 0:00,Surabaya,Hukum,2021
+NIM00884,Mahasiswa_884,Perempuan,6/14/2003 0:00,Surabaya,Hukum,2023
+NIM00885,Mahasiswa_885,Perempuan,3/27/1996 0:00,Surabaya,Manajemen,2019
+NIM00886,Mahasiswa_886,Laki-Laki,5/20/1996 0:00,Jakarta,Hukum,2022
+NIM00887,Mahasiswa_887,Laki-Laki,6/9/2002 0:00,Yogyakarta,Hukum,2018
+NIM00888,Mahasiswa_888,Perempuan,2/15/2003 0:00,Bandung,Manajemen,2018
+NIM00889,Mahasiswa_889,Perempuan,4/22/2001 0:00,Jakarta,Akuntansi,2021
+NIM00890,Mahasiswa_890,Laki-Laki,2/14/1997 0:00,Yogyakarta,Teknik Informatika,2021
+NIM00891,Mahasiswa_891,Laki-Laki,9/4/2003 0:00,Yogyakarta,Hukum,2021
+NIM00892,Mahasiswa_892,Laki-Laki,4/14/1997 0:00,Bandung,Teknik Informatika,2019
+NIM00893,Mahasiswa_893,Laki-Laki,3/26/1999 0:00,Bandung,Kedokteran,2018
+NIM00894,Mahasiswa_894,Laki-Laki,5/14/2003 0:00,Bandung,Teknik Informatika,2020
+NIM00895,Mahasiswa_895,Perempuan,4/18/1997 0:00,Jakarta,Manajemen,2019
+NIM00896,Mahasiswa_896,Perempuan,1/18/2001 0:00,Medan,Teknik Informatika,2017
+NIM00897,Mahasiswa_897,Perempuan,4/4/1995 0:00,Bandung,Teknik Informatika,2022
+NIM00898,Mahasiswa_898,Perempuan,5/30/1998 0:00,Medan,Teknik Informatika,2021
+NIM00899,Mahasiswa_899,Laki-Laki,9/3/1998 0:00,Jakarta,Akuntansi,2018
+NIM00900,Mahasiswa_900,Laki-Laki,10/16/2001 0:00,Medan,Akuntansi,2022
+NIM00901,Mahasiswa_901,Laki-Laki,7/28/2002 0:00,Surabaya,Kedokteran,2023
+NIM00902,Mahasiswa_902,Perempuan,5/6/1995 0:00,Medan,Manajemen,2019
+NIM00903,Mahasiswa_903,Perempuan,8/23/1999 0:00,Bandung,Teknik Informatika,2017
+NIM00904,Mahasiswa_904,Laki-Laki,5/2/2001 0:00,Jakarta,Teknik Informatika,2023
+NIM00905,Mahasiswa_905,Laki-Laki,5/18/1998 0:00,Bandung,Teknik Informatika,2019
+NIM00906,Mahasiswa_906,Perempuan,4/25/1998 0:00,Surabaya,Teknik Informatika,2019
+NIM00907,Mahasiswa_907,Perempuan,6/11/1998 0:00,Bandung,Akuntansi,2020
+NIM00908,Mahasiswa_908,Laki-Laki,7/19/2000 0:00,Bandung,Kedokteran,2022
+NIM00909,Mahasiswa_909,Laki-Laki,8/22/2001 0:00,Bandung,Hukum,2020
+NIM00910,Mahasiswa_910,Perempuan,1/28/1996 0:00,Yogyakarta,Manajemen,2019
+NIM00911,Mahasiswa_911,Laki-Laki,1/11/1999 0:00,Surabaya,Teknik Informatika,2017
+NIM00912,Mahasiswa_912,Laki-Laki,7/25/1998 0:00,Bandung,Kedokteran,2018
+NIM00913,Mahasiswa_913,Laki-Laki,6/16/1997 0:00,Bandung,Hukum,2018
+NIM00914,Mahasiswa_914,Perempuan,9/4/2001 0:00,Bandung,Kedokteran,2023
+NIM00915,Mahasiswa_915,Perempuan,2/16/2000 0:00,Jakarta,Akuntansi,2022
+NIM00916,Mahasiswa_916,Perempuan,9/3/2001 0:00,Yogyakarta,Hukum,2021
+NIM00917,Mahasiswa_917,Perempuan,5/7/1999 0:00,Jakarta,Kedokteran,2021
+NIM00918,Mahasiswa_918,Perempuan,5/26/2000 0:00,Yogyakarta,Akuntansi,2018
+NIM00919,Mahasiswa_919,Perempuan,4/28/1999 0:00,Bandung,Kedokteran,2019
+NIM00920,Mahasiswa_920,Perempuan,6/1/2001 0:00,Surabaya,Kedokteran,2019
+NIM00921,Mahasiswa_921,Laki-Laki,3/12/1996 0:00,Medan,Hukum,2020
+NIM00922,Mahasiswa_922,Laki-Laki,12/29/1999 0:00,Medan,Akuntansi,2022
+NIM00923,Mahasiswa_923,Laki-Laki,5/16/2000 0:00,Bandung,Teknik Informatika,2020
+NIM00924,Mahasiswa_924,Laki-Laki,6/23/2000 0:00,Jakarta,Manajemen,2021
+NIM00925,Mahasiswa_925,Laki-Laki,10/16/1999 0:00,Surabaya,Hukum,2018
+NIM00926,Mahasiswa_926,Laki-Laki,1/19/2004 0:00,Yogyakarta,Akuntansi,2023
+NIM00927,Mahasiswa_927,Laki-Laki,7/14/2001 0:00,Bandung,Kedokteran,2019
+NIM00928,Mahasiswa_928,Perempuan,11/25/2004 0:00,Surabaya,Akuntansi,2018
+NIM00929,Mahasiswa_929,Perempuan,6/24/2002 0:00,Surabaya,Manajemen,2017
+NIM00930,Mahasiswa_930,Laki-Laki,12/20/2001 0:00,Yogyakarta,Manajemen,2018
+NIM00931,Mahasiswa_931,Laki-Laki,5/21/1999 0:00,Surabaya,Teknik Informatika,2017
+NIM00932,Mahasiswa_932,Perempuan,9/3/1995 0:00,Jakarta,Teknik Informatika,2020
+NIM00933,Mahasiswa_933,Laki-Laki,4/3/1999 0:00,Jakarta,Manajemen,2020
+NIM00934,Mahasiswa_934,Laki-Laki,8/26/2004 0:00,Jakarta,Hukum,2021
+NIM00935,Mahasiswa_935,Perempuan,7/23/1996 0:00,Surabaya,Hukum,2018
+NIM00936,Mahasiswa_936,Laki-Laki,2/17/1999 0:00,Jakarta,Kedokteran,2018
+NIM00937,Mahasiswa_937,Perempuan,9/2/1999 0:00,Yogyakarta,Teknik Informatika,2017
+NIM00938,Mahasiswa_938,Laki-Laki,11/15/1996 0:00,Surabaya,Kedokteran,2020
+NIM00939,Mahasiswa_939,Perempuan,11/13/1999 0:00,Medan,Teknik Informatika,2017
+NIM00940,Mahasiswa_940,Perempuan,10/22/1998 0:00,Surabaya,Manajemen,2020
+NIM00941,Mahasiswa_941,Perempuan,5/8/1995 0:00,Yogyakarta,Hukum,2017
+NIM00942,Mahasiswa_942,Laki-Laki,12/10/1997 0:00,Medan,Hukum,2020
+NIM00943,Mahasiswa_943,Perempuan,10/9/1995 0:00,Surabaya,Manajemen,2017
+NIM00944,Mahasiswa_944,Laki-Laki,1/17/1999 0:00,Jakarta,Kedokteran,2023
+NIM00945,Mahasiswa_945,Laki-Laki,3/12/1998 0:00,Bandung,Kedokteran,2020
+NIM00946,Mahasiswa_946,Laki-Laki,9/26/2001 0:00,Bandung,Akuntansi,2022
+NIM00947,Mahasiswa_947,Laki-Laki,11/21/1999 0:00,Jakarta,Teknik Informatika,2017
+NIM00948,Mahasiswa_948,Perempuan,10/8/2004 0:00,Bandung,Kedokteran,2018
+NIM00949,Mahasiswa_949,Perempuan,11/1/1998 0:00,Bandung,Manajemen,2021
+NIM00950,Mahasiswa_950,Laki-Laki,1/7/1996 0:00,Jakarta,Kedokteran,2022
+NIM00951,Mahasiswa_951,Laki-Laki,11/10/1998 0:00,Jakarta,Hukum,2022
+NIM00952,Mahasiswa_952,Perempuan,10/31/1996 0:00,Surabaya,Teknik Informatika,2017
+NIM00953,Mahasiswa_953,Laki-Laki,4/13/2002 0:00,Surabaya,Akuntansi,2021
+NIM00954,Mahasiswa_954,Perempuan,11/5/1997 0:00,Jakarta,Teknik Informatika,2018
+NIM00955,Mahasiswa_955,Laki-Laki,7/12/2003 0:00,Yogyakarta,Hukum,2022
+NIM00956,Mahasiswa_956,Laki-Laki,8/29/1998 0:00,Bandung,Hukum,2018
+NIM00957,Mahasiswa_957,Perempuan,3/2/2000 0:00,Surabaya,Hukum,2020
+NIM00958,Mahasiswa_958,Laki-Laki,1/17/2004 0:00,Bandung,Hukum,2023
+NIM00959,Mahasiswa_959,Perempuan,6/20/1999 0:00,Medan,Manajemen,2021
+NIM00960,Mahasiswa_960,Laki-Laki,1/25/2004 0:00,Jakarta,Akuntansi,2023
+NIM00961,Mahasiswa_961,Laki-Laki,9/8/1995 0:00,Yogyakarta,Hukum,2019
+NIM00962,Mahasiswa_962,Laki-Laki,9/10/2003 0:00,Medan,Hukum,2020
+NIM00963,Mahasiswa_963,Perempuan,7/26/1995 0:00,Medan,Kedokteran,2021
+NIM00964,Mahasiswa_964,Laki-Laki,1/29/2002 0:00,Medan,Akuntansi,2017
+NIM00965,Mahasiswa_965,Laki-Laki,4/27/2003 0:00,Jakarta,Teknik Informatika,2023
+NIM00966,Mahasiswa_966,Laki-Laki,10/9/2003 0:00,Surabaya,Akuntansi,2017
+NIM00967,Mahasiswa_967,Laki-Laki,5/24/1995 0:00,Jakarta,Akuntansi,2018
+NIM00968,Mahasiswa_968,Perempuan,1/25/1996 0:00,Surabaya,Akuntansi,2022
+NIM00969,Mahasiswa_969,Perempuan,11/6/1995 0:00,Medan,Hukum,2023
+NIM00970,Mahasiswa_970,Laki-Laki,6/4/2004 0:00,Medan,Hukum,2019
+NIM00971,Mahasiswa_971,Perempuan,3/13/1996 0:00,Yogyakarta,Manajemen,2017
+NIM00972,Mahasiswa_972,Laki-Laki,4/29/2004 0:00,Surabaya,Teknik Informatika,2021
+NIM00973,Mahasiswa_973,Laki-Laki,11/8/2002 0:00,Medan,Kedokteran,2023
+NIM00974,Mahasiswa_974,Laki-Laki,11/17/1999 0:00,Bandung,Akuntansi,2023
+NIM00975,Mahasiswa_975,Perempuan,4/3/2001 0:00,Yogyakarta,Teknik Informatika,2022
+NIM00976,Mahasiswa_976,Perempuan,3/26/1996 0:00,Jakarta,Teknik Informatika,2022
+NIM00977,Mahasiswa_977,Perempuan,12/2/2002 0:00,Yogyakarta,Manajemen,2021
+NIM00978,Mahasiswa_978,Perempuan,12/29/2000 0:00,Bandung,Kedokteran,2022
+NIM00979,Mahasiswa_979,Perempuan,4/28/2002 0:00,Surabaya,Akuntansi,2017
+NIM00980,Mahasiswa_980,Perempuan,8/21/1995 0:00,Jakarta,Kedokteran,2021
+NIM00981,Mahasiswa_981,Perempuan,7/18/1995 0:00,Jakarta,Manajemen,2021
+NIM00982,Mahasiswa_982,Perempuan,7/25/2001 0:00,Surabaya,Hukum,2018
+NIM00983,Mahasiswa_983,Perempuan,12/5/2002 0:00,Yogyakarta,Teknik Informatika,2019
+NIM00984,Mahasiswa_984,Laki-Laki,5/27/1997 0:00,Medan,Akuntansi,2023
+NIM00985,Mahasiswa_985,Perempuan,9/28/1999 0:00,Yogyakarta,Hukum,2018
+NIM00986,Mahasiswa_986,Perempuan,5/19/1995 0:00,Bandung,Manajemen,2019
+NIM00987,Mahasiswa_987,Perempuan,6/30/2001 0:00,Medan,Kedokteran,2021
+NIM00988,Mahasiswa_988,Perempuan,1/30/1999 0:00,Yogyakarta,Teknik Informatika,2023
+NIM00989,Mahasiswa_989,Perempuan,2/26/2002 0:00,Surabaya,Akuntansi,2022
+NIM00990,Mahasiswa_990,Perempuan,8/20/2002 0:00,Bandung,Hukum,2019
+NIM00991,Mahasiswa_991,Perempuan,5/26/2003 0:00,Bandung,Hukum,2021
+NIM00992,Mahasiswa_992,Perempuan,2/17/2001 0:00,Bandung,Teknik Informatika,2021
+NIM00993,Mahasiswa_993,Perempuan,7/13/1995 0:00,Medan,Kedokteran,2018
+NIM00994,Mahasiswa_994,Perempuan,8/12/1997 0:00,Jakarta,Manajemen,2018
+NIM00995,Mahasiswa_995,Perempuan,5/16/2002 0:00,Medan,Kedokteran,2022
+NIM00996,Mahasiswa_996,Laki-Laki,1/22/1997 0:00,Yogyakarta,Kedokteran,2020
+NIM00997,Mahasiswa_997,Laki-Laki,1/6/2002 0:00,Jakarta,Kedokteran,2017
+NIM00998,Mahasiswa_998,Perempuan,7/23/1995 0:00,Yogyakarta,Teknik Informatika,2020
+NIM00999,Mahasiswa_999,Perempuan,8/27/1999 0:00,Jakarta,Teknik Informatika,2020
+NIM01000,Mahasiswa_1000,Laki-Laki,7/4/1998 0:00,Medan,Manajemen,2023
+NIM01001,Mahasiswa_1001,Perempuan,12/26/1999 0:00,Bandung,Kedokteran,2023
+NIM01002,Mahasiswa_1002,Laki-Laki,10/19/2002 0:00,Surabaya,Teknik Informatika,2022
+NIM01003,Mahasiswa_1003,Laki-Laki,11/30/2004 0:00,Bandung,Manajemen,2023
+NIM01004,Mahasiswa_1004,Laki-Laki,8/8/1998 0:00,Medan,Manajemen,2019
+NIM01005,Mahasiswa_1005,Laki-Laki,4/26/1998 0:00,Jakarta,Kedokteran,2022
+NIM01006,Mahasiswa_1006,Laki-Laki,11/9/1997 0:00,Bandung,Akuntansi,2022
+NIM01007,Mahasiswa_1007,Perempuan,2/18/2001 0:00,Medan,Kedokteran,2021
+NIM01008,Mahasiswa_1008,Laki-Laki,6/22/1997 0:00,Yogyakarta,Akuntansi,2021
+NIM01009,Mahasiswa_1009,Perempuan,3/23/1997 0:00,Surabaya,Manajemen,2021
+NIM01010,Mahasiswa_1010,Perempuan,11/17/2004 0:00,Bandung,Teknik Informatika,2017
+NIM01011,Mahasiswa_1011,Laki-Laki,11/29/1999 0:00,Jakarta,Hukum,2019
+NIM01012,Mahasiswa_1012,Laki-Laki,2/14/1999 0:00,Yogyakarta,Manajemen,2019
+NIM01013,Mahasiswa_1013,Perempuan,11/30/2000 0:00,Medan,Teknik Informatika,2021
+NIM01014,Mahasiswa_1014,Laki-Laki,1/20/2002 0:00,Surabaya,Manajemen,2020
+NIM01015,Mahasiswa_1015,Laki-Laki,8/8/2004 0:00,Jakarta,Kedokteran,2017
+NIM01016,Mahasiswa_1016,Perempuan,5/2/2000 0:00,Medan,Akuntansi,2020
+NIM01017,Mahasiswa_1017,Perempuan,8/22/1995 0:00,Medan,Manajemen,2018
+NIM01018,Mahasiswa_1018,Laki-Laki,8/9/2002 0:00,Bandung,Teknik Informatika,2019
+NIM01019,Mahasiswa_1019,Perempuan,11/19/2002 0:00,Bandung,Kedokteran,2019
+NIM01020,Mahasiswa_1020,Laki-Laki,12/5/2003 0:00,Jakarta,Hukum,2020
+NIM01021,Mahasiswa_1021,Laki-Laki,1/3/2003 0:00,Medan,Kedokteran,2017
+NIM01022,Mahasiswa_1022,Laki-Laki,6/30/1996 0:00,Bandung,Akuntansi,2019
+NIM01023,Mahasiswa_1023,Perempuan,7/24/1996 0:00,Surabaya,Kedokteran,2020
+NIM01024,Mahasiswa_1024,Perempuan,11/16/1997 0:00,Surabaya,Hukum,2022
+NIM01025,Mahasiswa_1025,Perempuan,2/9/1995 0:00,Medan,Teknik Informatika,2022
+NIM01026,Mahasiswa_1026,Perempuan,2/28/1998 0:00,Bandung,Manajemen,2023
+NIM01027,Mahasiswa_1027,Perempuan,3/3/1998 0:00,Jakarta,Akuntansi,2017
+NIM01028,Mahasiswa_1028,Laki-Laki,5/12/2003 0:00,Jakarta,Hukum,2020
+NIM01029,Mahasiswa_1029,Laki-Laki,3/1/2003 0:00,Jakarta,Akuntansi,2023
+NIM01030,Mahasiswa_1030,Laki-Laki,11/27/2003 0:00,Surabaya,Kedokteran,2022
+NIM01031,Mahasiswa_1031,Laki-Laki,5/1/2004 0:00,Bandung,Akuntansi,2017
+NIM01032,Mahasiswa_1032,Perempuan,4/17/2001 0:00,Bandung,Hukum,2023
+NIM01033,Mahasiswa_1033,Laki-Laki,4/5/1996 0:00,Surabaya,Manajemen,2021
+NIM01034,Mahasiswa_1034,Perempuan,12/12/2004 0:00,Jakarta,Manajemen,2017
+NIM01035,Mahasiswa_1035,Laki-Laki,8/23/1999 0:00,Jakarta,Akuntansi,2018
+NIM01036,Mahasiswa_1036,Perempuan,3/3/1998 0:00,Medan,Teknik Informatika,2021
+NIM01037,Mahasiswa_1037,Perempuan,9/13/2002 0:00,Yogyakarta,Akuntansi,2023
+NIM01038,Mahasiswa_1038,Laki-Laki,2/18/1996 0:00,Bandung,Kedokteran,2020
+NIM01039,Mahasiswa_1039,Laki-Laki,12/13/2000 0:00,Bandung,Manajemen,2021
+NIM01040,Mahasiswa_1040,Laki-Laki,6/8/1999 0:00,Bandung,Manajemen,2021
+NIM01041,Mahasiswa_1041,Laki-Laki,5/3/1996 0:00,Yogyakarta,Manajemen,2023
+NIM01042,Mahasiswa_1042,Perempuan,11/12/2004 0:00,Medan,Teknik Informatika,2020
+NIM01043,Mahasiswa_1043,Laki-Laki,7/26/1995 0:00,Yogyakarta,Teknik Informatika,2020
+NIM01044,Mahasiswa_1044,Laki-Laki,2/17/2002 0:00,Jakarta,Hukum,2022
+NIM01045,Mahasiswa_1045,Perempuan,5/15/1996 0:00,Jakarta,Akuntansi,2018
+NIM01046,Mahasiswa_1046,Laki-Laki,7/20/2001 0:00,Bandung,Akuntansi,2020
+NIM01047,Mahasiswa_1047,Laki-Laki,9/7/2003 0:00,Surabaya,Kedokteran,2019
+NIM01048,Mahasiswa_1048,Laki-Laki,11/10/2003 0:00,Bandung,Manajemen,2019
+NIM01049,Mahasiswa_1049,Laki-Laki,12/23/2002 0:00,Surabaya,Teknik Informatika,2018
+NIM01050,Mahasiswa_1050,Laki-Laki,11/13/2004 0:00,Yogyakarta,Kedokteran,2017
+NIM01051,Mahasiswa_1051,Perempuan,10/22/2003 0:00,Jakarta,Kedokteran,2023
+NIM01052,Mahasiswa_1052,Laki-Laki,11/9/1996 0:00,Surabaya,Teknik Informatika,2017
+NIM01053,Mahasiswa_1053,Laki-Laki,7/27/2000 0:00,Yogyakarta,Akuntansi,2019
+NIM01054,Mahasiswa_1054,Laki-Laki,12/21/1998 0:00,Jakarta,Manajemen,2020
+NIM01055,Mahasiswa_1055,Laki-Laki,7/30/1998 0:00,Surabaya,Akuntansi,2018
+NIM01056,Mahasiswa_1056,Laki-Laki,7/11/1999 0:00,Bandung,Kedokteran,2017
+NIM01057,Mahasiswa_1057,Perempuan,2/13/1997 0:00,Bandung,Manajemen,2017
+NIM01058,Mahasiswa_1058,Laki-Laki,1/29/1995 0:00,Bandung,Hukum,2023
+NIM01059,Mahasiswa_1059,Perempuan,2/28/2002 0:00,Yogyakarta,Kedokteran,2021
+NIM01060,Mahasiswa_1060,Perempuan,3/12/1999 0:00,Bandung,Akuntansi,2019
+NIM01061,Mahasiswa_1061,Laki-Laki,4/2/1997 0:00,Medan,Akuntansi,2020
+NIM01062,Mahasiswa_1062,Laki-Laki,9/21/2004 0:00,Jakarta,Akuntansi,2018
+NIM01063,Mahasiswa_1063,Laki-Laki,8/8/2001 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01064,Mahasiswa_1064,Laki-Laki,8/3/2001 0:00,Bandung,Kedokteran,2023
+NIM01065,Mahasiswa_1065,Perempuan,10/4/1995 0:00,Jakarta,Manajemen,2021
+NIM01066,Mahasiswa_1066,Laki-Laki,3/5/2003 0:00,Surabaya,Akuntansi,2019
+NIM01067,Mahasiswa_1067,Laki-Laki,12/11/1996 0:00,Bandung,Akuntansi,2019
+NIM01068,Mahasiswa_1068,Laki-Laki,10/19/1999 0:00,Jakarta,Teknik Informatika,2023
+NIM01069,Mahasiswa_1069,Laki-Laki,9/2/1999 0:00,Medan,Manajemen,2018
+NIM01070,Mahasiswa_1070,Laki-Laki,3/3/2002 0:00,Surabaya,Kedokteran,2017
+NIM01071,Mahasiswa_1071,Laki-Laki,11/28/2002 0:00,Medan,Hukum,2018
+NIM01072,Mahasiswa_1072,Perempuan,6/19/2001 0:00,Jakarta,Teknik Informatika,2023
+NIM01073,Mahasiswa_1073,Perempuan,9/26/2001 0:00,Medan,Kedokteran,2023
+NIM01074,Mahasiswa_1074,Laki-Laki,9/23/2000 0:00,Jakarta,Hukum,2018
+NIM01075,Mahasiswa_1075,Laki-Laki,2/23/2000 0:00,Jakarta,Akuntansi,2022
+NIM01076,Mahasiswa_1076,Laki-Laki,1/16/2003 0:00,Medan,Akuntansi,2021
+NIM01077,Mahasiswa_1077,Perempuan,1/8/2000 0:00,Jakarta,Manajemen,2019
+NIM01078,Mahasiswa_1078,Laki-Laki,4/13/1996 0:00,Bandung,Hukum,2022
+NIM01079,Mahasiswa_1079,Perempuan,2/28/1996 0:00,Jakarta,Akuntansi,2020
+NIM01080,Mahasiswa_1080,Laki-Laki,11/9/1999 0:00,Yogyakarta,Akuntansi,2019
+NIM01081,Mahasiswa_1081,Laki-Laki,2/9/1998 0:00,Jakarta,Manajemen,2019
+NIM01082,Mahasiswa_1082,Laki-Laki,8/24/1996 0:00,Yogyakarta,Kedokteran,2021
+NIM01083,Mahasiswa_1083,Laki-Laki,4/4/1997 0:00,Jakarta,Akuntansi,2020
+NIM01084,Mahasiswa_1084,Perempuan,8/10/2001 0:00,Jakarta,Teknik Informatika,2017
+NIM01085,Mahasiswa_1085,Perempuan,7/23/2002 0:00,Medan,Teknik Informatika,2020
+NIM01086,Mahasiswa_1086,Laki-Laki,5/17/2000 0:00,Bandung,Kedokteran,2017
+NIM01087,Mahasiswa_1087,Laki-Laki,10/27/1999 0:00,Bandung,Hukum,2020
+NIM01088,Mahasiswa_1088,Perempuan,7/26/1995 0:00,Surabaya,Manajemen,2018
+NIM01089,Mahasiswa_1089,Perempuan,12/2/2002 0:00,Medan,Teknik Informatika,2023
+NIM01090,Mahasiswa_1090,Perempuan,3/22/1997 0:00,Medan,Teknik Informatika,2020
+NIM01091,Mahasiswa_1091,Perempuan,8/5/2000 0:00,Bandung,Kedokteran,2022
+NIM01092,Mahasiswa_1092,Laki-Laki,1/2/1997 0:00,Medan,Hukum,2022
+NIM01093,Mahasiswa_1093,Perempuan,6/27/2001 0:00,Bandung,Hukum,2021
+NIM01094,Mahasiswa_1094,Laki-Laki,12/12/2001 0:00,Medan,Kedokteran,2023
+NIM01095,Mahasiswa_1095,Perempuan,10/6/2003 0:00,Jakarta,Teknik Informatika,2023
+NIM01096,Mahasiswa_1096,Perempuan,5/26/1999 0:00,Bandung,Manajemen,2017
+NIM01097,Mahasiswa_1097,Perempuan,11/14/2002 0:00,Bandung,Teknik Informatika,2019
+NIM01098,Mahasiswa_1098,Perempuan,8/11/2004 0:00,Yogyakarta,Hukum,2021
+NIM01099,Mahasiswa_1099,Perempuan,3/2/2004 0:00,Medan,Teknik Informatika,2022
+NIM01100,Mahasiswa_1100,Laki-Laki,10/21/2002 0:00,Medan,Manajemen,2022
+NIM01101,Mahasiswa_1101,Laki-Laki,8/27/1995 0:00,Bandung,Akuntansi,2017
+NIM01102,Mahasiswa_1102,Perempuan,7/14/1999 0:00,Jakarta,Teknik Informatika,2022
+NIM01103,Mahasiswa_1103,Perempuan,6/15/1997 0:00,Jakarta,Kedokteran,2022
+NIM01104,Mahasiswa_1104,Laki-Laki,8/10/1995 0:00,Jakarta,Akuntansi,2017
+NIM01105,Mahasiswa_1105,Perempuan,3/2/1998 0:00,Medan,Kedokteran,2022
+NIM01106,Mahasiswa_1106,Perempuan,5/9/2002 0:00,Yogyakarta,Kedokteran,2019
+NIM01107,Mahasiswa_1107,Laki-Laki,6/22/1997 0:00,Bandung,Kedokteran,2018
+NIM01108,Mahasiswa_1108,Perempuan,6/4/2004 0:00,Surabaya,Teknik Informatika,2021
+NIM01109,Mahasiswa_1109,Perempuan,4/19/1996 0:00,Yogyakarta,Hukum,2019
+NIM01110,Mahasiswa_1110,Laki-Laki,9/26/2003 0:00,Surabaya,Akuntansi,2019
+NIM01111,Mahasiswa_1111,Laki-Laki,12/21/2004 0:00,Yogyakarta,Manajemen,2018
+NIM01112,Mahasiswa_1112,Laki-Laki,10/5/1999 0:00,Jakarta,Hukum,2023
+NIM01113,Mahasiswa_1113,Perempuan,3/15/2001 0:00,Medan,Teknik Informatika,2021
+NIM01114,Mahasiswa_1114,Laki-Laki,7/25/1996 0:00,Surabaya,Kedokteran,2019
+NIM01115,Mahasiswa_1115,Laki-Laki,10/6/2003 0:00,Yogyakarta,Manajemen,2022
+NIM01116,Mahasiswa_1116,Laki-Laki,11/22/2003 0:00,Medan,Akuntansi,2018
+NIM01117,Mahasiswa_1117,Laki-Laki,12/6/1998 0:00,Surabaya,Hukum,2023
+NIM01118,Mahasiswa_1118,Laki-Laki,12/23/1998 0:00,Bandung,Hukum,2021
+NIM01119,Mahasiswa_1119,Laki-Laki,12/5/2000 0:00,Yogyakarta,Manajemen,2020
+NIM01120,Mahasiswa_1120,Perempuan,7/22/2004 0:00,Bandung,Teknik Informatika,2017
+NIM01121,Mahasiswa_1121,Perempuan,6/9/2004 0:00,Jakarta,Akuntansi,2022
+NIM01122,Mahasiswa_1122,Laki-Laki,1/28/2004 0:00,Bandung,Manajemen,2018
+NIM01123,Mahasiswa_1123,Laki-Laki,9/13/2000 0:00,Bandung,Kedokteran,2017
+NIM01124,Mahasiswa_1124,Laki-Laki,6/14/1995 0:00,Yogyakarta,Akuntansi,2023
+NIM01125,Mahasiswa_1125,Perempuan,3/4/2003 0:00,Jakarta,Hukum,2023
+NIM01126,Mahasiswa_1126,Perempuan,1/22/1996 0:00,Bandung,Manajemen,2020
+NIM01127,Mahasiswa_1127,Perempuan,3/11/1999 0:00,Medan,Hukum,2019
+NIM01128,Mahasiswa_1128,Perempuan,4/6/2003 0:00,Surabaya,Hukum,2019
+NIM01129,Mahasiswa_1129,Perempuan,6/12/1998 0:00,Bandung,Hukum,2021
+NIM01130,Mahasiswa_1130,Perempuan,3/20/1997 0:00,Jakarta,Teknik Informatika,2018
+NIM01131,Mahasiswa_1131,Perempuan,1/5/2001 0:00,Bandung,Hukum,2018
+NIM01132,Mahasiswa_1132,Perempuan,11/11/2000 0:00,Surabaya,Kedokteran,2023
+NIM01133,Mahasiswa_1133,Perempuan,4/30/2002 0:00,Jakarta,Kedokteran,2021
+NIM01134,Mahasiswa_1134,Laki-Laki,10/29/1997 0:00,Yogyakarta,Akuntansi,2017
+NIM01135,Mahasiswa_1135,Laki-Laki,6/27/1999 0:00,Jakarta,Hukum,2019
+NIM01136,Mahasiswa_1136,Laki-Laki,6/24/2004 0:00,Yogyakarta,Hukum,2019
+NIM01137,Mahasiswa_1137,Laki-Laki,8/5/1998 0:00,Jakarta,Manajemen,2023
+NIM01138,Mahasiswa_1138,Perempuan,2/25/1998 0:00,Surabaya,Teknik Informatika,2018
+NIM01139,Mahasiswa_1139,Perempuan,7/6/1998 0:00,Surabaya,Akuntansi,2023
+NIM01140,Mahasiswa_1140,Laki-Laki,8/19/2004 0:00,Jakarta,Hukum,2018
+NIM01141,Mahasiswa_1141,Perempuan,9/12/2002 0:00,Bandung,Manajemen,2021
+NIM01142,Mahasiswa_1142,Laki-Laki,4/13/2000 0:00,Surabaya,Teknik Informatika,2020
+NIM01143,Mahasiswa_1143,Perempuan,3/18/1997 0:00,Yogyakarta,Akuntansi,2017
+NIM01144,Mahasiswa_1144,Laki-Laki,8/17/2004 0:00,Yogyakarta,Akuntansi,2022
+NIM01145,Mahasiswa_1145,Perempuan,9/15/1999 0:00,Medan,Hukum,2020
+NIM01146,Mahasiswa_1146,Perempuan,9/20/2000 0:00,Yogyakarta,Akuntansi,2020
+NIM01147,Mahasiswa_1147,Laki-Laki,11/27/1999 0:00,Medan,Manajemen,2018
+NIM01148,Mahasiswa_1148,Perempuan,6/30/2000 0:00,Jakarta,Akuntansi,2018
+NIM01149,Mahasiswa_1149,Laki-Laki,9/13/2002 0:00,Jakarta,Kedokteran,2018
+NIM01150,Mahasiswa_1150,Laki-Laki,2/7/2001 0:00,Jakarta,Manajemen,2020
+NIM01151,Mahasiswa_1151,Laki-Laki,6/25/1999 0:00,Bandung,Teknik Informatika,2023
+NIM01152,Mahasiswa_1152,Laki-Laki,1/27/2004 0:00,Bandung,Teknik Informatika,2017
+NIM01153,Mahasiswa_1153,Perempuan,10/2/2000 0:00,Medan,Hukum,2023
+NIM01154,Mahasiswa_1154,Perempuan,5/20/1998 0:00,Yogyakarta,Hukum,2018
+NIM01155,Mahasiswa_1155,Perempuan,10/26/2003 0:00,Yogyakarta,Kedokteran,2019
+NIM01156,Mahasiswa_1156,Laki-Laki,10/14/1998 0:00,Jakarta,Teknik Informatika,2023
+NIM01157,Mahasiswa_1157,Perempuan,4/1/1995 0:00,Surabaya,Teknik Informatika,2017
+NIM01158,Mahasiswa_1158,Laki-Laki,3/2/2001 0:00,Bandung,Teknik Informatika,2019
+NIM01159,Mahasiswa_1159,Perempuan,12/31/2001 0:00,Bandung,Teknik Informatika,2017
+NIM01160,Mahasiswa_1160,Perempuan,12/13/1998 0:00,Jakarta,Akuntansi,2018
+NIM01161,Mahasiswa_1161,Perempuan,6/12/1997 0:00,Bandung,Manajemen,2023
+NIM01162,Mahasiswa_1162,Laki-Laki,12/17/2002 0:00,Jakarta,Manajemen,2022
+NIM01163,Mahasiswa_1163,Perempuan,5/23/1999 0:00,Medan,Kedokteran,2021
+NIM01164,Mahasiswa_1164,Perempuan,9/9/2004 0:00,Yogyakarta,Akuntansi,2018
+NIM01165,Mahasiswa_1165,Laki-Laki,9/26/2001 0:00,Surabaya,Teknik Informatika,2020
+NIM01166,Mahasiswa_1166,Perempuan,10/18/1998 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01167,Mahasiswa_1167,Laki-Laki,7/6/1998 0:00,Yogyakarta,Hukum,2020
+NIM01168,Mahasiswa_1168,Perempuan,10/31/2002 0:00,Medan,Hukum,2017
+NIM01169,Mahasiswa_1169,Laki-Laki,10/18/2002 0:00,Bandung,Kedokteran,2020
+NIM01170,Mahasiswa_1170,Laki-Laki,3/26/1996 0:00,Surabaya,Teknik Informatika,2022
+NIM01171,Mahasiswa_1171,Perempuan,6/14/1996 0:00,Bandung,Kedokteran,2022
+NIM01172,Mahasiswa_1172,Laki-Laki,4/24/1997 0:00,Yogyakarta,Akuntansi,2018
+NIM01173,Mahasiswa_1173,Laki-Laki,12/22/1997 0:00,Jakarta,Manajemen,2019
+NIM01174,Mahasiswa_1174,Laki-Laki,7/2/1995 0:00,Yogyakarta,Teknik Informatika,2018
+NIM01175,Mahasiswa_1175,Laki-Laki,7/26/1997 0:00,Bandung,Akuntansi,2017
+NIM01176,Mahasiswa_1176,Laki-Laki,9/12/2000 0:00,Yogyakarta,Teknik Informatika,2020
+NIM01177,Mahasiswa_1177,Laki-Laki,8/23/2002 0:00,Jakarta,Hukum,2019
+NIM01178,Mahasiswa_1178,Perempuan,12/20/2004 0:00,Medan,Kedokteran,2023
+NIM01179,Mahasiswa_1179,Laki-Laki,1/3/2000 0:00,Bandung,Hukum,2021
+NIM01180,Mahasiswa_1180,Laki-Laki,7/27/1999 0:00,Yogyakarta,Manajemen,2022
+NIM01181,Mahasiswa_1181,Perempuan,7/16/1998 0:00,Bandung,Hukum,2019
+NIM01182,Mahasiswa_1182,Perempuan,12/7/1997 0:00,Medan,Teknik Informatika,2023
+NIM01183,Mahasiswa_1183,Perempuan,5/5/1998 0:00,Yogyakarta,Hukum,2019
+NIM01184,Mahasiswa_1184,Perempuan,5/18/2001 0:00,Yogyakarta,Teknik Informatika,2018
+NIM01185,Mahasiswa_1185,Perempuan,12/5/1995 0:00,Bandung,Manajemen,2023
+NIM01186,Mahasiswa_1186,Perempuan,1/25/2001 0:00,Bandung,Hukum,2021
+NIM01187,Mahasiswa_1187,Perempuan,3/9/1995 0:00,Jakarta,Kedokteran,2022
+NIM01188,Mahasiswa_1188,Laki-Laki,3/1/1996 0:00,Medan,Kedokteran,2017
+NIM01189,Mahasiswa_1189,Laki-Laki,1/29/1998 0:00,Jakarta,Kedokteran,2017
+NIM01190,Mahasiswa_1190,Perempuan,1/19/1995 0:00,Yogyakarta,Hukum,2019
+NIM01191,Mahasiswa_1191,Laki-Laki,6/20/2003 0:00,Bandung,Hukum,2023
+NIM01192,Mahasiswa_1192,Laki-Laki,3/14/2000 0:00,Yogyakarta,Hukum,2019
+NIM01193,Mahasiswa_1193,Laki-Laki,3/2/1995 0:00,Yogyakarta,Teknik Informatika,2020
+NIM01194,Mahasiswa_1194,Perempuan,6/2/1995 0:00,Surabaya,Manajemen,2021
+NIM01195,Mahasiswa_1195,Perempuan,10/2/2000 0:00,Surabaya,Kedokteran,2022
+NIM01196,Mahasiswa_1196,Laki-Laki,2/17/1998 0:00,Yogyakarta,Teknik Informatika,2019
+NIM01197,Mahasiswa_1197,Perempuan,7/30/1998 0:00,Bandung,Kedokteran,2020
+NIM01198,Mahasiswa_1198,Laki-Laki,12/8/2000 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01199,Mahasiswa_1199,Laki-Laki,5/19/2001 0:00,Surabaya,Hukum,2021
+NIM01200,Mahasiswa_1200,Laki-Laki,4/20/2003 0:00,Bandung,Kedokteran,2022
+NIM01201,Mahasiswa_1201,Laki-Laki,7/1/2004 0:00,Yogyakarta,Hukum,2017
+NIM01202,Mahasiswa_1202,Perempuan,1/28/1999 0:00,Medan,Kedokteran,2020
+NIM01203,Mahasiswa_1203,Perempuan,7/16/2003 0:00,Medan,Akuntansi,2023
+NIM01204,Mahasiswa_1204,Perempuan,7/10/1998 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01205,Mahasiswa_1205,Laki-Laki,11/10/2004 0:00,Bandung,Akuntansi,2020
+NIM01206,Mahasiswa_1206,Perempuan,2/20/1996 0:00,Yogyakarta,Teknik Informatika,2019
+NIM01207,Mahasiswa_1207,Laki-Laki,5/29/1997 0:00,Yogyakarta,Manajemen,2018
+NIM01208,Mahasiswa_1208,Perempuan,9/25/1995 0:00,Surabaya,Kedokteran,2017
+NIM01209,Mahasiswa_1209,Laki-Laki,2/19/2000 0:00,Medan,Manajemen,2019
+NIM01210,Mahasiswa_1210,Laki-Laki,9/2/2000 0:00,Surabaya,Manajemen,2019
+NIM01211,Mahasiswa_1211,Laki-Laki,4/23/1995 0:00,Surabaya,Teknik Informatika,2023
+NIM01212,Mahasiswa_1212,Perempuan,6/19/1997 0:00,Yogyakarta,Akuntansi,2023
+NIM01213,Mahasiswa_1213,Perempuan,6/15/1999 0:00,Surabaya,Hukum,2021
+NIM01214,Mahasiswa_1214,Perempuan,1/14/1997 0:00,Medan,Teknik Informatika,2023
+NIM01215,Mahasiswa_1215,Perempuan,7/21/2004 0:00,Surabaya,Hukum,2020
+NIM01216,Mahasiswa_1216,Laki-Laki,10/15/1997 0:00,Medan,Manajemen,2017
+NIM01217,Mahasiswa_1217,Perempuan,7/7/2004 0:00,Surabaya,Hukum,2019
+NIM01218,Mahasiswa_1218,Perempuan,6/4/1997 0:00,Medan,Akuntansi,2021
+NIM01219,Mahasiswa_1219,Laki-Laki,2/24/1999 0:00,Surabaya,Teknik Informatika,2017
+NIM01220,Mahasiswa_1220,Laki-Laki,7/1/1999 0:00,Surabaya,Akuntansi,2023
+NIM01221,Mahasiswa_1221,Laki-Laki,7/29/1998 0:00,Bandung,Akuntansi,2023
+NIM01222,Mahasiswa_1222,Perempuan,3/16/1995 0:00,Medan,Teknik Informatika,2020
+NIM01223,Mahasiswa_1223,Laki-Laki,10/4/1999 0:00,Medan,Akuntansi,2023
+NIM01224,Mahasiswa_1224,Laki-Laki,5/12/2004 0:00,Medan,Kedokteran,2019
+NIM01225,Mahasiswa_1225,Laki-Laki,12/9/1999 0:00,Jakarta,Kedokteran,2022
+NIM01226,Mahasiswa_1226,Perempuan,2/28/1998 0:00,Surabaya,Kedokteran,2019
+NIM01227,Mahasiswa_1227,Laki-Laki,12/10/2000 0:00,Medan,Hukum,2019
+NIM01228,Mahasiswa_1228,Perempuan,6/30/2004 0:00,Jakarta,Akuntansi,2023
+NIM01229,Mahasiswa_1229,Perempuan,12/5/1998 0:00,Bandung,Teknik Informatika,2017
+NIM01230,Mahasiswa_1230,Laki-Laki,11/17/2001 0:00,Medan,Teknik Informatika,2023
+NIM01231,Mahasiswa_1231,Laki-Laki,3/5/2001 0:00,Medan,Hukum,2017
+NIM01232,Mahasiswa_1232,Perempuan,11/22/1996 0:00,Jakarta,Teknik Informatika,2017
+NIM01233,Mahasiswa_1233,Laki-Laki,9/17/1997 0:00,Surabaya,Kedokteran,2017
+NIM01234,Mahasiswa_1234,Laki-Laki,7/12/1995 0:00,Bandung,Akuntansi,2021
+NIM01235,Mahasiswa_1235,Perempuan,5/23/2002 0:00,Medan,Teknik Informatika,2018
+NIM01236,Mahasiswa_1236,Perempuan,4/14/2003 0:00,Surabaya,Teknik Informatika,2023
+NIM01237,Mahasiswa_1237,Laki-Laki,8/2/1998 0:00,Bandung,Manajemen,2021
+NIM01238,Mahasiswa_1238,Perempuan,8/29/2000 0:00,Yogyakarta,Manajemen,2019
+NIM01239,Mahasiswa_1239,Laki-Laki,7/28/2003 0:00,Yogyakarta,Manajemen,2021
+NIM01240,Mahasiswa_1240,Laki-Laki,4/2/2000 0:00,Bandung,Akuntansi,2020
+NIM01241,Mahasiswa_1241,Laki-Laki,5/22/2003 0:00,Jakarta,Kedokteran,2022
+NIM01242,Mahasiswa_1242,Perempuan,4/22/1998 0:00,Bandung,Kedokteran,2017
+NIM01243,Mahasiswa_1243,Laki-Laki,2/28/2002 0:00,Bandung,Kedokteran,2023
+NIM01244,Mahasiswa_1244,Laki-Laki,2/12/2003 0:00,Jakarta,Akuntansi,2020
+NIM01245,Mahasiswa_1245,Laki-Laki,7/26/1998 0:00,Jakarta,Akuntansi,2023
+NIM01246,Mahasiswa_1246,Perempuan,9/25/1999 0:00,Surabaya,Manajemen,2022
+NIM01247,Mahasiswa_1247,Perempuan,10/23/2002 0:00,Surabaya,Teknik Informatika,2020
+NIM01248,Mahasiswa_1248,Perempuan,4/27/2004 0:00,Jakarta,Hukum,2023
+NIM01249,Mahasiswa_1249,Perempuan,1/20/2000 0:00,Yogyakarta,Hukum,2019
+NIM01250,Mahasiswa_1250,Perempuan,8/10/2001 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01251,Mahasiswa_1251,Laki-Laki,6/15/1997 0:00,Bandung,Manajemen,2020
+NIM01252,Mahasiswa_1252,Perempuan,5/11/2001 0:00,Medan,Teknik Informatika,2019
+NIM01253,Mahasiswa_1253,Perempuan,6/5/2002 0:00,Bandung,Teknik Informatika,2017
+NIM01254,Mahasiswa_1254,Perempuan,7/2/2004 0:00,Bandung,Hukum,2018
+NIM01255,Mahasiswa_1255,Laki-Laki,3/30/2000 0:00,Medan,Manajemen,2019
+NIM01256,Mahasiswa_1256,Perempuan,4/3/2004 0:00,Jakarta,Akuntansi,2021
+NIM01257,Mahasiswa_1257,Perempuan,1/13/2003 0:00,Yogyakarta,Hukum,2023
+NIM01258,Mahasiswa_1258,Laki-Laki,11/17/2000 0:00,Bandung,Akuntansi,2017
+NIM01259,Mahasiswa_1259,Perempuan,10/20/2003 0:00,Medan,Manajemen,2020
+NIM01260,Mahasiswa_1260,Laki-Laki,8/18/1998 0:00,Surabaya,Teknik Informatika,2022
+NIM01261,Mahasiswa_1261,Laki-Laki,11/18/2002 0:00,Bandung,Kedokteran,2020
+NIM01262,Mahasiswa_1262,Laki-Laki,10/19/1998 0:00,Yogyakarta,Kedokteran,2021
+NIM01263,Mahasiswa_1263,Laki-Laki,1/26/1996 0:00,Jakarta,Manajemen,2023
+NIM01264,Mahasiswa_1264,Laki-Laki,3/15/2004 0:00,Bandung,Kedokteran,2021
+NIM01265,Mahasiswa_1265,Perempuan,12/30/2003 0:00,Bandung,Akuntansi,2020
+NIM01266,Mahasiswa_1266,Laki-Laki,10/26/1999 0:00,Medan,Kedokteran,2023
+NIM01267,Mahasiswa_1267,Laki-Laki,5/30/1998 0:00,Surabaya,Manajemen,2022
+NIM01268,Mahasiswa_1268,Perempuan,5/27/1996 0:00,Surabaya,Manajemen,2017
+NIM01269,Mahasiswa_1269,Laki-Laki,1/8/1995 0:00,Jakarta,Akuntansi,2023
+NIM01270,Mahasiswa_1270,Perempuan,1/29/2001 0:00,Yogyakarta,Kedokteran,2019
+NIM01271,Mahasiswa_1271,Perempuan,10/22/2000 0:00,Jakarta,Kedokteran,2023
+NIM01272,Mahasiswa_1272,Perempuan,7/27/1996 0:00,Bandung,Teknik Informatika,2021
+NIM01273,Mahasiswa_1273,Laki-Laki,5/8/2002 0:00,Bandung,Hukum,2021
+NIM01274,Mahasiswa_1274,Laki-Laki,12/6/1998 0:00,Surabaya,Manajemen,2021
+NIM01275,Mahasiswa_1275,Laki-Laki,4/26/2002 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01276,Mahasiswa_1276,Perempuan,5/24/2001 0:00,Medan,Manajemen,2023
+NIM01277,Mahasiswa_1277,Laki-Laki,11/14/1999 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01278,Mahasiswa_1278,Laki-Laki,8/22/2004 0:00,Bandung,Hukum,2018
+NIM01279,Mahasiswa_1279,Laki-Laki,1/7/2004 0:00,Medan,Teknik Informatika,2022
+NIM01280,Mahasiswa_1280,Perempuan,2/14/2002 0:00,Yogyakarta,Manajemen,2017
+NIM01281,Mahasiswa_1281,Perempuan,8/27/2003 0:00,Yogyakarta,Kedokteran,2017
+NIM01282,Mahasiswa_1282,Laki-Laki,6/4/1999 0:00,Medan,Manajemen,2017
+NIM01283,Mahasiswa_1283,Laki-Laki,6/29/2004 0:00,Bandung,Akuntansi,2017
+NIM01284,Mahasiswa_1284,Laki-Laki,8/3/1999 0:00,Yogyakarta,Akuntansi,2017
+NIM01285,Mahasiswa_1285,Laki-Laki,3/28/1996 0:00,Medan,Akuntansi,2020
+NIM01286,Mahasiswa_1286,Perempuan,9/13/1999 0:00,Bandung,Akuntansi,2021
+NIM01287,Mahasiswa_1287,Perempuan,3/14/1997 0:00,Medan,Hukum,2022
+NIM01288,Mahasiswa_1288,Perempuan,6/28/2001 0:00,Medan,Kedokteran,2020
+NIM01289,Mahasiswa_1289,Perempuan,7/30/2004 0:00,Yogyakarta,Kedokteran,2022
+NIM01290,Mahasiswa_1290,Laki-Laki,10/20/1999 0:00,Bandung,Manajemen,2018
+NIM01291,Mahasiswa_1291,Laki-Laki,8/22/2002 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01292,Mahasiswa_1292,Laki-Laki,8/27/1995 0:00,Jakarta,Manajemen,2019
+NIM01293,Mahasiswa_1293,Perempuan,8/11/1997 0:00,Jakarta,Manajemen,2021
+NIM01294,Mahasiswa_1294,Laki-Laki,4/29/1997 0:00,Bandung,Manajemen,2018
+NIM01295,Mahasiswa_1295,Perempuan,11/9/2003 0:00,Medan,Manajemen,2020
+NIM01296,Mahasiswa_1296,Perempuan,9/21/1999 0:00,Yogyakarta,Kedokteran,2019
+NIM01297,Mahasiswa_1297,Laki-Laki,7/26/2003 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01298,Mahasiswa_1298,Laki-Laki,4/5/2003 0:00,Bandung,Manajemen,2018
+NIM01299,Mahasiswa_1299,Laki-Laki,8/10/1995 0:00,Bandung,Kedokteran,2023
+NIM01300,Mahasiswa_1300,Perempuan,10/2/1996 0:00,Jakarta,Manajemen,2023
+NIM01301,Mahasiswa_1301,Laki-Laki,8/19/1999 0:00,Surabaya,Akuntansi,2022
+NIM01302,Mahasiswa_1302,Perempuan,11/5/1998 0:00,Bandung,Manajemen,2019
+NIM01303,Mahasiswa_1303,Laki-Laki,4/28/2004 0:00,Surabaya,Manajemen,2022
+NIM01304,Mahasiswa_1304,Perempuan,9/25/2003 0:00,Bandung,Hukum,2023
+NIM01305,Mahasiswa_1305,Perempuan,9/30/2001 0:00,Medan,Akuntansi,2018
+NIM01306,Mahasiswa_1306,Laki-Laki,3/4/2000 0:00,Medan,Teknik Informatika,2023
+NIM01307,Mahasiswa_1307,Perempuan,10/25/2001 0:00,Jakarta,Manajemen,2020
+NIM01308,Mahasiswa_1308,Perempuan,12/16/1995 0:00,Jakarta,Teknik Informatika,2023
+NIM01309,Mahasiswa_1309,Laki-Laki,1/11/1995 0:00,Surabaya,Akuntansi,2022
+NIM01310,Mahasiswa_1310,Perempuan,4/8/2002 0:00,Bandung,Manajemen,2019
+NIM01311,Mahasiswa_1311,Laki-Laki,3/11/1996 0:00,Yogyakarta,Hukum,2018
+NIM01312,Mahasiswa_1312,Perempuan,12/29/2004 0:00,Jakarta,Kedokteran,2022
+NIM01313,Mahasiswa_1313,Laki-Laki,2/27/2003 0:00,Yogyakarta,Hukum,2023
+NIM01314,Mahasiswa_1314,Laki-Laki,10/17/2001 0:00,Yogyakarta,Hukum,2020
+NIM01315,Mahasiswa_1315,Perempuan,9/7/2000 0:00,Bandung,Kedokteran,2021
+NIM01316,Mahasiswa_1316,Perempuan,10/3/1995 0:00,Surabaya,Kedokteran,2020
+NIM01317,Mahasiswa_1317,Perempuan,2/19/1995 0:00,Bandung,Kedokteran,2023
+NIM01318,Mahasiswa_1318,Perempuan,12/23/1996 0:00,Jakarta,Manajemen,2020
+NIM01319,Mahasiswa_1319,Perempuan,8/3/2000 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01320,Mahasiswa_1320,Laki-Laki,2/21/2000 0:00,Bandung,Teknik Informatika,2020
+NIM01321,Mahasiswa_1321,Perempuan,9/27/1996 0:00,Bandung,Kedokteran,2021
+NIM01322,Mahasiswa_1322,Laki-Laki,3/25/1995 0:00,Bandung,Hukum,2023
+NIM01323,Mahasiswa_1323,Laki-Laki,10/19/2004 0:00,Jakarta,Akuntansi,2021
+NIM01324,Mahasiswa_1324,Perempuan,5/6/1999 0:00,Surabaya,Kedokteran,2022
+NIM01325,Mahasiswa_1325,Laki-Laki,10/23/1999 0:00,Bandung,Hukum,2022
+NIM01326,Mahasiswa_1326,Laki-Laki,3/12/1996 0:00,Jakarta,Hukum,2021
+NIM01327,Mahasiswa_1327,Laki-Laki,10/22/2000 0:00,Yogyakarta,Manajemen,2018
+NIM01328,Mahasiswa_1328,Laki-Laki,8/24/2003 0:00,Medan,Manajemen,2019
+NIM01329,Mahasiswa_1329,Perempuan,2/25/1996 0:00,Jakarta,Teknik Informatika,2018
+NIM01330,Mahasiswa_1330,Laki-Laki,12/25/2004 0:00,Medan,Teknik Informatika,2021
+NIM01331,Mahasiswa_1331,Perempuan,4/19/1996 0:00,Bandung,Akuntansi,2019
+NIM01332,Mahasiswa_1332,Perempuan,7/11/1997 0:00,Bandung,Akuntansi,2022
+NIM01333,Mahasiswa_1333,Laki-Laki,4/3/2001 0:00,Jakarta,Akuntansi,2019
+NIM01334,Mahasiswa_1334,Perempuan,12/15/2000 0:00,Medan,Akuntansi,2021
+NIM01335,Mahasiswa_1335,Perempuan,2/25/2002 0:00,Bandung,Hukum,2022
+NIM01336,Mahasiswa_1336,Perempuan,3/1/2002 0:00,Yogyakarta,Hukum,2019
+NIM01337,Mahasiswa_1337,Laki-Laki,5/17/2000 0:00,Surabaya,Teknik Informatika,2019
+NIM01338,Mahasiswa_1338,Perempuan,2/8/2004 0:00,Surabaya,Manajemen,2018
+NIM01339,Mahasiswa_1339,Perempuan,1/28/1997 0:00,Bandung,Manajemen,2019
+NIM01340,Mahasiswa_1340,Perempuan,2/18/1997 0:00,Medan,Kedokteran,2023
+NIM01341,Mahasiswa_1341,Laki-Laki,5/5/1995 0:00,Bandung,Hukum,2021
+NIM01342,Mahasiswa_1342,Perempuan,1/13/2001 0:00,Medan,Akuntansi,2017
+NIM01343,Mahasiswa_1343,Laki-Laki,2/5/1999 0:00,Yogyakarta,Akuntansi,2017
+NIM01344,Mahasiswa_1344,Laki-Laki,4/11/1998 0:00,Medan,Kedokteran,2017
+NIM01345,Mahasiswa_1345,Laki-Laki,10/8/2004 0:00,Bandung,Manajemen,2021
+NIM01346,Mahasiswa_1346,Laki-Laki,3/27/1998 0:00,Yogyakarta,Akuntansi,2017
+NIM01347,Mahasiswa_1347,Laki-Laki,1/4/1998 0:00,Jakarta,Manajemen,2018
+NIM01348,Mahasiswa_1348,Laki-Laki,8/10/2000 0:00,Surabaya,Kedokteran,2021
+NIM01349,Mahasiswa_1349,Perempuan,12/4/2002 0:00,Bandung,Manajemen,2023
+NIM01350,Mahasiswa_1350,Laki-Laki,6/15/2002 0:00,Bandung,Manajemen,2022
+NIM01351,Mahasiswa_1351,Perempuan,12/10/1999 0:00,Bandung,Manajemen,2023
+NIM01352,Mahasiswa_1352,Perempuan,10/4/2000 0:00,Yogyakarta,Akuntansi,2021
+NIM01353,Mahasiswa_1353,Laki-Laki,5/10/1998 0:00,Jakarta,Teknik Informatika,2021
+NIM01354,Mahasiswa_1354,Perempuan,1/31/2003 0:00,Medan,Hukum,2019
+NIM01355,Mahasiswa_1355,Perempuan,1/11/2002 0:00,Jakarta,Manajemen,2019
+NIM01356,Mahasiswa_1356,Perempuan,10/28/2004 0:00,Yogyakarta,Manajemen,2019
+NIM01357,Mahasiswa_1357,Perempuan,4/5/2004 0:00,Bandung,Manajemen,2020
+NIM01358,Mahasiswa_1358,Laki-Laki,7/9/1995 0:00,Surabaya,Teknik Informatika,2018
+NIM01359,Mahasiswa_1359,Perempuan,7/10/1996 0:00,Bandung,Kedokteran,2021
+NIM01360,Mahasiswa_1360,Laki-Laki,9/23/2003 0:00,Medan,Akuntansi,2023
+NIM01361,Mahasiswa_1361,Perempuan,5/8/2002 0:00,Surabaya,Teknik Informatika,2021
+NIM01362,Mahasiswa_1362,Perempuan,8/26/1997 0:00,Bandung,Manajemen,2019
+NIM01363,Mahasiswa_1363,Laki-Laki,12/21/2002 0:00,Surabaya,Teknik Informatika,2021
+NIM01364,Mahasiswa_1364,Perempuan,4/22/1995 0:00,Jakarta,Teknik Informatika,2022
+NIM01365,Mahasiswa_1365,Perempuan,11/11/2004 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01366,Mahasiswa_1366,Perempuan,12/9/1998 0:00,Bandung,Kedokteran,2023
+NIM01367,Mahasiswa_1367,Laki-Laki,5/25/1997 0:00,Medan,Hukum,2017
+NIM01368,Mahasiswa_1368,Perempuan,3/5/2000 0:00,Jakarta,Akuntansi,2022
+NIM01369,Mahasiswa_1369,Laki-Laki,9/4/2001 0:00,Bandung,Kedokteran,2022
+NIM01370,Mahasiswa_1370,Perempuan,8/11/1998 0:00,Jakarta,Kedokteran,2021
+NIM01371,Mahasiswa_1371,Laki-Laki,11/9/2001 0:00,Medan,Hukum,2020
+NIM01372,Mahasiswa_1372,Laki-Laki,4/16/2003 0:00,Bandung,Kedokteran,2019
+NIM01373,Mahasiswa_1373,Perempuan,6/29/1996 0:00,Medan,Teknik Informatika,2018
+NIM01374,Mahasiswa_1374,Perempuan,7/3/1997 0:00,Surabaya,Teknik Informatika,2018
+NIM01375,Mahasiswa_1375,Laki-Laki,8/14/1999 0:00,Medan,Manajemen,2017
+NIM01376,Mahasiswa_1376,Laki-Laki,9/22/1997 0:00,Surabaya,Kedokteran,2018
+NIM01377,Mahasiswa_1377,Perempuan,10/5/2002 0:00,Bandung,Manajemen,2018
+NIM01378,Mahasiswa_1378,Laki-Laki,3/29/2004 0:00,Surabaya,Akuntansi,2019
+NIM01379,Mahasiswa_1379,Perempuan,6/25/2002 0:00,Bandung,Teknik Informatika,2019
+NIM01380,Mahasiswa_1380,Perempuan,1/18/2002 0:00,Bandung,Akuntansi,2020
+NIM01381,Mahasiswa_1381,Perempuan,4/16/2003 0:00,Yogyakarta,Hukum,2023
+NIM01382,Mahasiswa_1382,Perempuan,9/28/1998 0:00,Bandung,Teknik Informatika,2017
+NIM01383,Mahasiswa_1383,Laki-Laki,11/15/1999 0:00,Surabaya,Akuntansi,2018
+NIM01384,Mahasiswa_1384,Perempuan,6/16/1999 0:00,Yogyakarta,Hukum,2020
+NIM01385,Mahasiswa_1385,Laki-Laki,1/13/2002 0:00,Yogyakarta,Akuntansi,2017
+NIM01386,Mahasiswa_1386,Perempuan,12/3/2001 0:00,Bandung,Hukum,2022
+NIM01387,Mahasiswa_1387,Laki-Laki,2/1/2003 0:00,Medan,Hukum,2018
+NIM01388,Mahasiswa_1388,Perempuan,2/9/2002 0:00,Medan,Teknik Informatika,2018
+NIM01389,Mahasiswa_1389,Laki-Laki,5/27/1996 0:00,Yogyakarta,Manajemen,2019
+NIM01390,Mahasiswa_1390,Laki-Laki,8/5/2004 0:00,Bandung,Hukum,2021
+NIM01391,Mahasiswa_1391,Perempuan,8/7/1998 0:00,Medan,Hukum,2017
+NIM01392,Mahasiswa_1392,Perempuan,3/22/2000 0:00,Bandung,Teknik Informatika,2018
+NIM01393,Mahasiswa_1393,Perempuan,11/28/1996 0:00,Bandung,Manajemen,2017
+NIM01394,Mahasiswa_1394,Perempuan,7/27/2001 0:00,Yogyakarta,Kedokteran,2023
+NIM01395,Mahasiswa_1395,Laki-Laki,7/20/1997 0:00,Yogyakarta,Kedokteran,2020
+NIM01396,Mahasiswa_1396,Perempuan,11/28/1997 0:00,Jakarta,Manajemen,2020
+NIM01397,Mahasiswa_1397,Laki-Laki,2/7/1996 0:00,Medan,Akuntansi,2021
+NIM01398,Mahasiswa_1398,Laki-Laki,7/30/2002 0:00,Medan,Teknik Informatika,2018
+NIM01399,Mahasiswa_1399,Perempuan,11/22/2000 0:00,Medan,Manajemen,2023
+NIM01400,Mahasiswa_1400,Laki-Laki,9/6/1995 0:00,Surabaya,Kedokteran,2019
+NIM01401,Mahasiswa_1401,Laki-Laki,8/15/1995 0:00,Bandung,Hukum,2018
+NIM01402,Mahasiswa_1402,Laki-Laki,2/17/2001 0:00,Yogyakarta,Kedokteran,2017
+NIM01403,Mahasiswa_1403,Laki-Laki,1/18/2002 0:00,Medan,Hukum,2022
+NIM01404,Mahasiswa_1404,Perempuan,10/22/1999 0:00,Jakarta,Teknik Informatika,2020
+NIM01405,Mahasiswa_1405,Perempuan,7/15/1999 0:00,Medan,Hukum,2017
+NIM01406,Mahasiswa_1406,Perempuan,7/6/1998 0:00,Bandung,Manajemen,2021
+NIM01407,Mahasiswa_1407,Perempuan,12/10/2000 0:00,Bandung,Hukum,2020
+NIM01408,Mahasiswa_1408,Laki-Laki,8/11/2000 0:00,Yogyakarta,Akuntansi,2019
+NIM01409,Mahasiswa_1409,Laki-Laki,11/14/1997 0:00,Surabaya,Manajemen,2020
+NIM01410,Mahasiswa_1410,Perempuan,12/31/2003 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01411,Mahasiswa_1411,Perempuan,12/3/2001 0:00,Medan,Manajemen,2023
+NIM01412,Mahasiswa_1412,Perempuan,8/17/1995 0:00,Jakarta,Akuntansi,2018
+NIM01413,Mahasiswa_1413,Laki-Laki,3/18/2001 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01414,Mahasiswa_1414,Perempuan,7/7/1999 0:00,Surabaya,Kedokteran,2023
+NIM01415,Mahasiswa_1415,Perempuan,12/12/1999 0:00,Yogyakarta,Akuntansi,2022
+NIM01416,Mahasiswa_1416,Perempuan,9/26/1996 0:00,Bandung,Teknik Informatika,2018
+NIM01417,Mahasiswa_1417,Laki-Laki,4/5/1998 0:00,Medan,Hukum,2020
+NIM01418,Mahasiswa_1418,Laki-Laki,11/5/2000 0:00,Medan,Manajemen,2021
+NIM01419,Mahasiswa_1419,Laki-Laki,5/11/2004 0:00,Medan,Teknik Informatika,2018
+NIM01420,Mahasiswa_1420,Laki-Laki,2/8/2001 0:00,Medan,Manajemen,2018
+NIM01421,Mahasiswa_1421,Laki-Laki,3/13/1999 0:00,Medan,Hukum,2023
+NIM01422,Mahasiswa_1422,Laki-Laki,10/8/2003 0:00,Medan,Teknik Informatika,2019
+NIM01423,Mahasiswa_1423,Laki-Laki,11/29/1997 0:00,Jakarta,Kedokteran,2020
+NIM01424,Mahasiswa_1424,Laki-Laki,6/9/1995 0:00,Surabaya,Akuntansi,2018
+NIM01425,Mahasiswa_1425,Perempuan,7/6/1998 0:00,Medan,Teknik Informatika,2021
+NIM01426,Mahasiswa_1426,Perempuan,7/10/2003 0:00,Surabaya,Hukum,2017
+NIM01427,Mahasiswa_1427,Laki-Laki,4/30/1998 0:00,Medan,Teknik Informatika,2020
+NIM01428,Mahasiswa_1428,Laki-Laki,8/7/1996 0:00,Yogyakarta,Manajemen,2019
+NIM01429,Mahasiswa_1429,Perempuan,2/22/2004 0:00,Medan,Teknik Informatika,2022
+NIM01430,Mahasiswa_1430,Laki-Laki,8/10/1999 0:00,Bandung,Kedokteran,2018
+NIM01431,Mahasiswa_1431,Laki-Laki,5/11/1997 0:00,Jakarta,Teknik Informatika,2021
+NIM01432,Mahasiswa_1432,Laki-Laki,8/25/2003 0:00,Yogyakarta,Akuntansi,2020
+NIM01433,Mahasiswa_1433,Perempuan,9/3/1998 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01434,Mahasiswa_1434,Perempuan,8/13/2000 0:00,Bandung,Manajemen,2021
+NIM01435,Mahasiswa_1435,Perempuan,7/26/1996 0:00,Medan,Teknik Informatika,2023
+NIM01436,Mahasiswa_1436,Perempuan,4/5/2000 0:00,Jakarta,Kedokteran,2022
+NIM01437,Mahasiswa_1437,Perempuan,7/19/1997 0:00,Yogyakarta,Hukum,2019
+NIM01438,Mahasiswa_1438,Laki-Laki,9/4/2003 0:00,Jakarta,Teknik Informatika,2020
+NIM01439,Mahasiswa_1439,Perempuan,3/12/1996 0:00,Yogyakarta,Teknik Informatika,2018
+NIM01440,Mahasiswa_1440,Laki-Laki,11/14/2003 0:00,Medan,Akuntansi,2019
+NIM01441,Mahasiswa_1441,Laki-Laki,7/4/1999 0:00,Yogyakarta,Kedokteran,2018
+NIM01442,Mahasiswa_1442,Perempuan,1/6/2002 0:00,Yogyakarta,Hukum,2017
+NIM01443,Mahasiswa_1443,Perempuan,7/24/1996 0:00,Surabaya,Manajemen,2021
+NIM01444,Mahasiswa_1444,Laki-Laki,2/1/2000 0:00,Medan,Teknik Informatika,2017
+NIM01445,Mahasiswa_1445,Laki-Laki,4/9/1997 0:00,Bandung,Hukum,2023
+NIM01446,Mahasiswa_1446,Laki-Laki,9/12/2004 0:00,Bandung,Manajemen,2021
+NIM01447,Mahasiswa_1447,Perempuan,7/6/1999 0:00,Medan,Kedokteran,2022
+NIM01448,Mahasiswa_1448,Perempuan,3/17/2002 0:00,Bandung,Kedokteran,2019
+NIM01449,Mahasiswa_1449,Perempuan,6/25/2004 0:00,Medan,Hukum,2018
+NIM01450,Mahasiswa_1450,Perempuan,11/11/1995 0:00,Bandung,Manajemen,2023
+NIM01451,Mahasiswa_1451,Perempuan,10/14/1999 0:00,Surabaya,Kedokteran,2022
+NIM01452,Mahasiswa_1452,Laki-Laki,12/15/1997 0:00,Bandung,Hukum,2018
+NIM01453,Mahasiswa_1453,Perempuan,9/12/1998 0:00,Yogyakarta,Kedokteran,2019
+NIM01454,Mahasiswa_1454,Laki-Laki,11/20/1996 0:00,Medan,Kedokteran,2020
+NIM01455,Mahasiswa_1455,Laki-Laki,7/9/2003 0:00,Jakarta,Kedokteran,2023
+NIM01456,Mahasiswa_1456,Laki-Laki,11/4/1997 0:00,Jakarta,Akuntansi,2017
+NIM01457,Mahasiswa_1457,Perempuan,12/10/1996 0:00,Medan,Manajemen,2017
+NIM01458,Mahasiswa_1458,Perempuan,5/6/2004 0:00,Surabaya,Hukum,2018
+NIM01459,Mahasiswa_1459,Perempuan,10/14/2003 0:00,Bandung,Hukum,2018
+NIM01460,Mahasiswa_1460,Laki-Laki,9/11/2001 0:00,Surabaya,Manajemen,2018
+NIM01461,Mahasiswa_1461,Laki-Laki,7/31/2000 0:00,Jakarta,Manajemen,2023
+NIM01462,Mahasiswa_1462,Laki-Laki,9/7/1995 0:00,Medan,Manajemen,2019
+NIM01463,Mahasiswa_1463,Laki-Laki,3/25/1999 0:00,Medan,Manajemen,2020
+NIM01464,Mahasiswa_1464,Laki-Laki,1/13/1997 0:00,Surabaya,Teknik Informatika,2017
+NIM01465,Mahasiswa_1465,Laki-Laki,2/14/1995 0:00,Surabaya,Hukum,2022
+NIM01466,Mahasiswa_1466,Perempuan,5/7/1998 0:00,Bandung,Teknik Informatika,2021
+NIM01467,Mahasiswa_1467,Perempuan,4/23/1996 0:00,Yogyakarta,Kedokteran,2023
+NIM01468,Mahasiswa_1468,Perempuan,10/2/1996 0:00,Yogyakarta,Kedokteran,2023
+NIM01469,Mahasiswa_1469,Perempuan,7/24/1997 0:00,Bandung,Hukum,2019
+NIM01470,Mahasiswa_1470,Laki-Laki,12/3/2002 0:00,Yogyakarta,Kedokteran,2017
+NIM01471,Mahasiswa_1471,Laki-Laki,9/30/2002 0:00,Jakarta,Manajemen,2020
+NIM01472,Mahasiswa_1472,Perempuan,2/27/2001 0:00,Yogyakarta,Teknik Informatika,2019
+NIM01473,Mahasiswa_1473,Laki-Laki,11/23/2000 0:00,Bandung,Manajemen,2022
+NIM01474,Mahasiswa_1474,Perempuan,8/7/2003 0:00,Yogyakarta,Kedokteran,2017
+NIM01475,Mahasiswa_1475,Perempuan,4/19/1998 0:00,Medan,Teknik Informatika,2019
+NIM01476,Mahasiswa_1476,Perempuan,10/6/1995 0:00,Surabaya,Manajemen,2017
+NIM01477,Mahasiswa_1477,Laki-Laki,6/23/2002 0:00,Jakarta,Hukum,2017
+NIM01478,Mahasiswa_1478,Perempuan,11/24/2001 0:00,Medan,Manajemen,2023
+NIM01479,Mahasiswa_1479,Perempuan,9/21/2001 0:00,Medan,Kedokteran,2020
+NIM01480,Mahasiswa_1480,Perempuan,11/11/1997 0:00,Bandung,Teknik Informatika,2023
+NIM01481,Mahasiswa_1481,Laki-Laki,4/21/1998 0:00,Surabaya,Hukum,2021
+NIM01482,Mahasiswa_1482,Laki-Laki,7/5/2004 0:00,Surabaya,Teknik Informatika,2020
+NIM01483,Mahasiswa_1483,Perempuan,9/26/2003 0:00,Jakarta,Hukum,2017
+NIM01484,Mahasiswa_1484,Laki-Laki,8/16/2000 0:00,Bandung,Teknik Informatika,2019
+NIM01485,Mahasiswa_1485,Laki-Laki,6/5/1999 0:00,Jakarta,Kedokteran,2022
+NIM01486,Mahasiswa_1486,Laki-Laki,7/8/1997 0:00,Yogyakarta,Hukum,2020
+NIM01487,Mahasiswa_1487,Laki-Laki,9/29/2003 0:00,Medan,Akuntansi,2021
+NIM01488,Mahasiswa_1488,Laki-Laki,1/2/1999 0:00,Jakarta,Teknik Informatika,2017
+NIM01489,Mahasiswa_1489,Laki-Laki,9/3/1999 0:00,Medan,Teknik Informatika,2022
+NIM01490,Mahasiswa_1490,Laki-Laki,7/29/1998 0:00,Bandung,Manajemen,2020
+NIM01491,Mahasiswa_1491,Laki-Laki,10/13/1998 0:00,Yogyakarta,Hukum,2023
+NIM01492,Mahasiswa_1492,Laki-Laki,12/25/1995 0:00,Bandung,Akuntansi,2023
+NIM01493,Mahasiswa_1493,Laki-Laki,1/13/2001 0:00,Yogyakarta,Kedokteran,2020
+NIM01494,Mahasiswa_1494,Perempuan,4/6/2003 0:00,Yogyakarta,Manajemen,2020
+NIM01495,Mahasiswa_1495,Perempuan,8/9/1997 0:00,Medan,Akuntansi,2020
+NIM01496,Mahasiswa_1496,Laki-Laki,8/25/1996 0:00,Bandung,Hukum,2022
+NIM01497,Mahasiswa_1497,Perempuan,4/4/1997 0:00,Bandung,Akuntansi,2023
+NIM01498,Mahasiswa_1498,Perempuan,12/4/1995 0:00,Jakarta,Teknik Informatika,2019
+NIM01499,Mahasiswa_1499,Laki-Laki,9/25/2000 0:00,Bandung,Teknik Informatika,2021
+NIM01500,Mahasiswa_1500,Laki-Laki,6/20/2001 0:00,Jakarta,Manajemen,2021
+NIM01501,Mahasiswa_1501,Laki-Laki,4/3/1996 0:00,Surabaya,Hukum,2017
+NIM01502,Mahasiswa_1502,Perempuan,5/29/2002 0:00,Surabaya,Hukum,2018
+NIM01503,Mahasiswa_1503,Perempuan,4/21/2000 0:00,Surabaya,Akuntansi,2019
+NIM01504,Mahasiswa_1504,Laki-Laki,2/24/1998 0:00,Bandung,Manajemen,2023
+NIM01505,Mahasiswa_1505,Laki-Laki,12/3/1999 0:00,Bandung,Hukum,2017
+NIM01506,Mahasiswa_1506,Laki-Laki,4/26/2002 0:00,Jakarta,Teknik Informatika,2017
+NIM01507,Mahasiswa_1507,Perempuan,5/23/1997 0:00,Yogyakarta,Akuntansi,2020
+NIM01508,Mahasiswa_1508,Perempuan,7/20/1997 0:00,Jakarta,Kedokteran,2018
+NIM01509,Mahasiswa_1509,Perempuan,6/29/1998 0:00,Surabaya,Teknik Informatika,2023
+NIM01510,Mahasiswa_1510,Perempuan,7/21/1995 0:00,Jakarta,Manajemen,2018
+NIM01511,Mahasiswa_1511,Laki-Laki,12/30/2003 0:00,Yogyakarta,Hukum,2019
+NIM01512,Mahasiswa_1512,Laki-Laki,2/22/2002 0:00,Bandung,Teknik Informatika,2018
+NIM01513,Mahasiswa_1513,Laki-Laki,6/29/2002 0:00,Jakarta,Kedokteran,2017
+NIM01514,Mahasiswa_1514,Laki-Laki,11/8/2004 0:00,Surabaya,Kedokteran,2018
+NIM01515,Mahasiswa_1515,Perempuan,11/3/2000 0:00,Surabaya,Manajemen,2018
+NIM01516,Mahasiswa_1516,Perempuan,5/17/2001 0:00,Bandung,Teknik Informatika,2021
+NIM01517,Mahasiswa_1517,Laki-Laki,6/30/2000 0:00,Jakarta,Akuntansi,2023
+NIM01518,Mahasiswa_1518,Laki-Laki,1/1/2003 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01519,Mahasiswa_1519,Perempuan,2/13/1997 0:00,Bandung,Kedokteran,2017
+NIM01520,Mahasiswa_1520,Laki-Laki,8/15/1997 0:00,Jakarta,Manajemen,2022
+NIM01521,Mahasiswa_1521,Perempuan,11/27/1997 0:00,Medan,Manajemen,2018
+NIM01522,Mahasiswa_1522,Laki-Laki,4/7/2004 0:00,Surabaya,Akuntansi,2018
+NIM01523,Mahasiswa_1523,Laki-Laki,7/27/1997 0:00,Yogyakarta,Manajemen,2020
+NIM01524,Mahasiswa_1524,Laki-Laki,9/22/2003 0:00,Yogyakarta,Manajemen,2023
+NIM01525,Mahasiswa_1525,Laki-Laki,10/15/1998 0:00,Yogyakarta,Manajemen,2018
+NIM01526,Mahasiswa_1526,Laki-Laki,9/28/2001 0:00,Surabaya,Manajemen,2023
+NIM01527,Mahasiswa_1527,Laki-Laki,5/20/2003 0:00,Jakarta,Manajemen,2018
+NIM01528,Mahasiswa_1528,Laki-Laki,8/25/2001 0:00,Bandung,Kedokteran,2021
+NIM01529,Mahasiswa_1529,Perempuan,3/13/2003 0:00,Jakarta,Teknik Informatika,2017
+NIM01530,Mahasiswa_1530,Perempuan,6/4/1997 0:00,Bandung,Hukum,2023
+NIM01531,Mahasiswa_1531,Perempuan,7/9/1998 0:00,Yogyakarta,Manajemen,2019
+NIM01532,Mahasiswa_1532,Perempuan,9/25/2002 0:00,Jakarta,Hukum,2017
+NIM01533,Mahasiswa_1533,Perempuan,11/16/2000 0:00,Yogyakarta,Hukum,2020
+NIM01534,Mahasiswa_1534,Laki-Laki,4/17/1999 0:00,Medan,Kedokteran,2017
+NIM01535,Mahasiswa_1535,Laki-Laki,8/20/1998 0:00,Yogyakarta,Manajemen,2018
+NIM01536,Mahasiswa_1536,Perempuan,2/11/2002 0:00,Yogyakarta,Hukum,2020
+NIM01537,Mahasiswa_1537,Laki-Laki,7/9/1995 0:00,Bandung,Manajemen,2017
+NIM01538,Mahasiswa_1538,Perempuan,5/19/2003 0:00,Medan,Akuntansi,2020
+NIM01539,Mahasiswa_1539,Perempuan,4/13/1995 0:00,Yogyakarta,Akuntansi,2019
+NIM01540,Mahasiswa_1540,Laki-Laki,6/20/2002 0:00,Yogyakarta,Akuntansi,2017
+NIM01541,Mahasiswa_1541,Laki-Laki,12/17/1998 0:00,Medan,Hukum,2023
+NIM01542,Mahasiswa_1542,Laki-Laki,9/30/2003 0:00,Medan,Akuntansi,2023
+NIM01543,Mahasiswa_1543,Perempuan,8/9/1999 0:00,Jakarta,Kedokteran,2022
+NIM01544,Mahasiswa_1544,Laki-Laki,8/1/1997 0:00,Bandung,Kedokteran,2018
+NIM01545,Mahasiswa_1545,Perempuan,12/7/2003 0:00,Medan,Hukum,2020
+NIM01546,Mahasiswa_1546,Perempuan,2/25/2003 0:00,Medan,Manajemen,2022
+NIM01547,Mahasiswa_1547,Perempuan,12/8/1998 0:00,Surabaya,Teknik Informatika,2022
+NIM01548,Mahasiswa_1548,Laki-Laki,4/12/1998 0:00,Medan,Manajemen,2021
+NIM01549,Mahasiswa_1549,Laki-Laki,7/11/2002 0:00,Bandung,Manajemen,2020
+NIM01550,Mahasiswa_1550,Perempuan,11/5/1996 0:00,Yogyakarta,Manajemen,2022
+NIM01551,Mahasiswa_1551,Laki-Laki,7/19/2003 0:00,Yogyakarta,Manajemen,2021
+NIM01552,Mahasiswa_1552,Laki-Laki,8/20/2000 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01553,Mahasiswa_1553,Laki-Laki,8/15/2003 0:00,Yogyakarta,Akuntansi,2018
+NIM01554,Mahasiswa_1554,Perempuan,5/19/2002 0:00,Surabaya,Manajemen,2019
+NIM01555,Mahasiswa_1555,Perempuan,12/10/2001 0:00,Medan,Kedokteran,2021
+NIM01556,Mahasiswa_1556,Laki-Laki,11/1/1995 0:00,Yogyakarta,Hukum,2019
+NIM01557,Mahasiswa_1557,Perempuan,5/29/1997 0:00,Jakarta,Hukum,2020
+NIM01558,Mahasiswa_1558,Laki-Laki,4/24/1996 0:00,Yogyakarta,Kedokteran,2018
+NIM01559,Mahasiswa_1559,Laki-Laki,3/4/1999 0:00,Medan,Manajemen,2021
+NIM01560,Mahasiswa_1560,Laki-Laki,4/14/1999 0:00,Yogyakarta,Teknik Informatika,2020
+NIM01561,Mahasiswa_1561,Laki-Laki,12/5/1999 0:00,Surabaya,Akuntansi,2022
+NIM01562,Mahasiswa_1562,Perempuan,12/25/1998 0:00,Bandung,Hukum,2023
+NIM01563,Mahasiswa_1563,Perempuan,6/5/1999 0:00,Bandung,Akuntansi,2017
+NIM01564,Mahasiswa_1564,Perempuan,9/30/1997 0:00,Medan,Teknik Informatika,2020
+NIM01565,Mahasiswa_1565,Laki-Laki,1/6/1995 0:00,Bandung,Hukum,2019
+NIM01566,Mahasiswa_1566,Laki-Laki,5/27/1999 0:00,Bandung,Akuntansi,2018
+NIM01567,Mahasiswa_1567,Laki-Laki,7/3/2003 0:00,Jakarta,Teknik Informatika,2018
+NIM01568,Mahasiswa_1568,Perempuan,1/28/2003 0:00,Medan,Akuntansi,2020
+NIM01569,Mahasiswa_1569,Laki-Laki,2/7/1998 0:00,Medan,Manajemen,2022
+NIM01570,Mahasiswa_1570,Perempuan,4/29/1997 0:00,Bandung,Teknik Informatika,2017
+NIM01571,Mahasiswa_1571,Perempuan,10/20/1995 0:00,Bandung,Akuntansi,2019
+NIM01572,Mahasiswa_1572,Perempuan,8/31/1996 0:00,Bandung,Manajemen,2020
+NIM01573,Mahasiswa_1573,Perempuan,3/9/2002 0:00,Surabaya,Manajemen,2020
+NIM01574,Mahasiswa_1574,Perempuan,8/2/1995 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01575,Mahasiswa_1575,Perempuan,8/6/2002 0:00,Surabaya,Kedokteran,2018
+NIM01576,Mahasiswa_1576,Laki-Laki,6/26/2001 0:00,Medan,Hukum,2019
+NIM01577,Mahasiswa_1577,Laki-Laki,10/26/2002 0:00,Jakarta,Teknik Informatika,2017
+NIM01578,Mahasiswa_1578,Perempuan,6/12/2000 0:00,Yogyakarta,Manajemen,2018
+NIM01579,Mahasiswa_1579,Perempuan,2/27/2003 0:00,Jakarta,Manajemen,2020
+NIM01580,Mahasiswa_1580,Laki-Laki,9/26/1997 0:00,Medan,Teknik Informatika,2018
+NIM01581,Mahasiswa_1581,Perempuan,11/3/2004 0:00,Medan,Kedokteran,2018
+NIM01582,Mahasiswa_1582,Perempuan,2/27/1998 0:00,Jakarta,Hukum,2021
+NIM01583,Mahasiswa_1583,Laki-Laki,10/14/2000 0:00,Jakarta,Akuntansi,2018
+NIM01584,Mahasiswa_1584,Perempuan,4/15/2002 0:00,Jakarta,Teknik Informatika,2022
+NIM01585,Mahasiswa_1585,Perempuan,8/16/1999 0:00,Medan,Hukum,2018
+NIM01586,Mahasiswa_1586,Perempuan,9/4/1997 0:00,Bandung,Hukum,2022
+NIM01587,Mahasiswa_1587,Laki-Laki,7/6/2000 0:00,Jakarta,Manajemen,2019
+NIM01588,Mahasiswa_1588,Laki-Laki,3/24/1998 0:00,Yogyakarta,Akuntansi,2018
+NIM01589,Mahasiswa_1589,Laki-Laki,7/5/2003 0:00,Medan,Teknik Informatika,2017
+NIM01590,Mahasiswa_1590,Perempuan,9/9/1997 0:00,Surabaya,Manajemen,2022
+NIM01591,Mahasiswa_1591,Perempuan,12/21/1998 0:00,Surabaya,Manajemen,2022
+NIM01592,Mahasiswa_1592,Laki-Laki,8/26/2001 0:00,Yogyakarta,Kedokteran,2020
+NIM01593,Mahasiswa_1593,Perempuan,12/26/2001 0:00,Bandung,Hukum,2019
+NIM01594,Mahasiswa_1594,Perempuan,7/3/1998 0:00,Jakarta,Teknik Informatika,2018
+NIM01595,Mahasiswa_1595,Perempuan,10/10/2000 0:00,Medan,Teknik Informatika,2023
+NIM01596,Mahasiswa_1596,Perempuan,7/29/1997 0:00,Jakarta,Teknik Informatika,2017
+NIM01597,Mahasiswa_1597,Perempuan,10/30/2000 0:00,Medan,Manajemen,2020
+NIM01598,Mahasiswa_1598,Laki-Laki,10/22/1996 0:00,Surabaya,Kedokteran,2019
+NIM01599,Mahasiswa_1599,Perempuan,4/7/2002 0:00,Jakarta,Akuntansi,2022
+NIM01600,Mahasiswa_1600,Laki-Laki,7/26/1996 0:00,Yogyakarta,Manajemen,2017
+NIM01601,Mahasiswa_1601,Perempuan,5/17/2001 0:00,Bandung,Akuntansi,2018
+NIM01602,Mahasiswa_1602,Laki-Laki,7/3/2003 0:00,Yogyakarta,Kedokteran,2023
+NIM01603,Mahasiswa_1603,Perempuan,3/17/1995 0:00,Bandung,Hukum,2021
+NIM01604,Mahasiswa_1604,Laki-Laki,10/14/2002 0:00,Jakarta,Teknik Informatika,2021
+NIM01605,Mahasiswa_1605,Perempuan,5/22/2001 0:00,Jakarta,Akuntansi,2019
+NIM01606,Mahasiswa_1606,Laki-Laki,8/24/2000 0:00,Bandung,Manajemen,2023
+NIM01607,Mahasiswa_1607,Perempuan,1/25/2000 0:00,Surabaya,Akuntansi,2017
+NIM01608,Mahasiswa_1608,Laki-Laki,10/16/2000 0:00,Medan,Hukum,2020
+NIM01609,Mahasiswa_1609,Perempuan,3/8/2003 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01610,Mahasiswa_1610,Laki-Laki,9/6/1996 0:00,Yogyakarta,Akuntansi,2023
+NIM01611,Mahasiswa_1611,Laki-Laki,4/28/1995 0:00,Yogyakarta,Hukum,2022
+NIM01612,Mahasiswa_1612,Perempuan,3/13/2000 0:00,Jakarta,Manajemen,2021
+NIM01613,Mahasiswa_1613,Perempuan,10/8/2004 0:00,Yogyakarta,Kedokteran,2019
+NIM01614,Mahasiswa_1614,Laki-Laki,12/26/2002 0:00,Medan,Manajemen,2018
+NIM01615,Mahasiswa_1615,Perempuan,1/10/1997 0:00,Medan,Teknik Informatika,2017
+NIM01616,Mahasiswa_1616,Laki-Laki,7/29/2004 0:00,Bandung,Manajemen,2021
+NIM01617,Mahasiswa_1617,Laki-Laki,11/19/1995 0:00,Jakarta,Manajemen,2020
+NIM01618,Mahasiswa_1618,Laki-Laki,6/1/2003 0:00,Medan,Manajemen,2019
+NIM01619,Mahasiswa_1619,Perempuan,1/5/1995 0:00,Surabaya,Manajemen,2018
+NIM01620,Mahasiswa_1620,Laki-Laki,7/14/1997 0:00,Jakarta,Teknik Informatika,2017
+NIM01621,Mahasiswa_1621,Laki-Laki,10/10/2002 0:00,Jakarta,Hukum,2020
+NIM01622,Mahasiswa_1622,Perempuan,4/23/1997 0:00,Medan,Akuntansi,2018
+NIM01623,Mahasiswa_1623,Perempuan,9/28/1998 0:00,Surabaya,Kedokteran,2022
+NIM01624,Mahasiswa_1624,Perempuan,6/12/2002 0:00,Bandung,Akuntansi,2021
+NIM01625,Mahasiswa_1625,Perempuan,4/15/1995 0:00,Medan,Akuntansi,2022
+NIM01626,Mahasiswa_1626,Laki-Laki,6/29/2000 0:00,Surabaya,Kedokteran,2021
+NIM01627,Mahasiswa_1627,Laki-Laki,2/13/1995 0:00,Jakarta,Teknik Informatika,2020
+NIM01628,Mahasiswa_1628,Laki-Laki,10/9/1995 0:00,Surabaya,Kedokteran,2022
+NIM01629,Mahasiswa_1629,Laki-Laki,6/24/2002 0:00,Jakarta,Teknik Informatika,2021
+NIM01630,Mahasiswa_1630,Perempuan,6/11/1998 0:00,Medan,Akuntansi,2019
+NIM01631,Mahasiswa_1631,Laki-Laki,12/17/1995 0:00,Medan,Teknik Informatika,2020
+NIM01632,Mahasiswa_1632,Laki-Laki,12/5/2004 0:00,Yogyakarta,Hukum,2021
+NIM01633,Mahasiswa_1633,Perempuan,5/20/2001 0:00,Yogyakarta,Kedokteran,2017
+NIM01634,Mahasiswa_1634,Laki-Laki,5/12/1999 0:00,Yogyakarta,Hukum,2021
+NIM01635,Mahasiswa_1635,Laki-Laki,3/28/1999 0:00,Medan,Akuntansi,2022
+NIM01636,Mahasiswa_1636,Laki-Laki,6/25/1995 0:00,Bandung,Kedokteran,2019
+NIM01637,Mahasiswa_1637,Laki-Laki,7/1/2004 0:00,Medan,Akuntansi,2018
+NIM01638,Mahasiswa_1638,Laki-Laki,5/8/2000 0:00,Surabaya,Hukum,2018
+NIM01639,Mahasiswa_1639,Laki-Laki,9/3/2003 0:00,Medan,Akuntansi,2021
+NIM01640,Mahasiswa_1640,Perempuan,3/30/2003 0:00,Medan,Kedokteran,2018
+NIM01641,Mahasiswa_1641,Perempuan,3/7/2002 0:00,Jakarta,Kedokteran,2021
+NIM01642,Mahasiswa_1642,Laki-Laki,6/7/1999 0:00,Jakarta,Akuntansi,2019
+NIM01643,Mahasiswa_1643,Laki-Laki,5/29/1995 0:00,Jakarta,Kedokteran,2018
+NIM01644,Mahasiswa_1644,Perempuan,12/6/2003 0:00,Medan,Kedokteran,2022
+NIM01645,Mahasiswa_1645,Laki-Laki,4/26/1995 0:00,Bandung,Akuntansi,2022
+NIM01646,Mahasiswa_1646,Laki-Laki,8/2/2002 0:00,Surabaya,Hukum,2017
+NIM01647,Mahasiswa_1647,Laki-Laki,10/21/1999 0:00,Surabaya,Kedokteran,2021
+NIM01648,Mahasiswa_1648,Perempuan,9/10/1997 0:00,Bandung,Kedokteran,2018
+NIM01649,Mahasiswa_1649,Laki-Laki,5/23/2001 0:00,Bandung,Kedokteran,2022
+NIM01650,Mahasiswa_1650,Perempuan,9/7/2001 0:00,Surabaya,Kedokteran,2023
+NIM01651,Mahasiswa_1651,Laki-Laki,10/29/2003 0:00,Yogyakarta,Akuntansi,2019
+NIM01652,Mahasiswa_1652,Perempuan,1/25/2001 0:00,Jakarta,Hukum,2019
+NIM01653,Mahasiswa_1653,Perempuan,10/4/1997 0:00,Jakarta,Hukum,2023
+NIM01654,Mahasiswa_1654,Laki-Laki,3/11/1995 0:00,Surabaya,Teknik Informatika,2023
+NIM01655,Mahasiswa_1655,Perempuan,4/23/2002 0:00,Bandung,Kedokteran,2017
+NIM01656,Mahasiswa_1656,Laki-Laki,12/29/1997 0:00,Yogyakarta,Kedokteran,2019
+NIM01657,Mahasiswa_1657,Perempuan,4/22/2002 0:00,Surabaya,Teknik Informatika,2019
+NIM01658,Mahasiswa_1658,Laki-Laki,12/30/2002 0:00,Jakarta,Hukum,2018
+NIM01659,Mahasiswa_1659,Laki-Laki,10/30/1999 0:00,Medan,Manajemen,2021
+NIM01660,Mahasiswa_1660,Perempuan,4/1/1995 0:00,Bandung,Manajemen,2020
+NIM01661,Mahasiswa_1661,Laki-Laki,1/18/2004 0:00,Medan,Hukum,2019
+NIM01662,Mahasiswa_1662,Laki-Laki,5/29/2001 0:00,Surabaya,Kedokteran,2019
+NIM01663,Mahasiswa_1663,Perempuan,8/14/2004 0:00,Jakarta,Manajemen,2020
+NIM01664,Mahasiswa_1664,Laki-Laki,8/2/1999 0:00,Yogyakarta,Akuntansi,2019
+NIM01665,Mahasiswa_1665,Laki-Laki,12/26/2002 0:00,Medan,Akuntansi,2018
+NIM01666,Mahasiswa_1666,Perempuan,5/31/2003 0:00,Yogyakarta,Teknik Informatika,2018
+NIM01667,Mahasiswa_1667,Perempuan,7/11/2001 0:00,Jakarta,Hukum,2020
+NIM01668,Mahasiswa_1668,Laki-Laki,2/9/2001 0:00,Medan,Hukum,2022
+NIM01669,Mahasiswa_1669,Laki-Laki,8/30/1995 0:00,Yogyakarta,Manajemen,2019
+NIM01670,Mahasiswa_1670,Perempuan,5/18/1998 0:00,Yogyakarta,Kedokteran,2022
+NIM01671,Mahasiswa_1671,Perempuan,12/10/1996 0:00,Medan,Hukum,2019
+NIM01672,Mahasiswa_1672,Laki-Laki,6/28/1996 0:00,Jakarta,Manajemen,2021
+NIM01673,Mahasiswa_1673,Perempuan,7/18/1996 0:00,Yogyakarta,Manajemen,2019
+NIM01674,Mahasiswa_1674,Laki-Laki,7/22/1998 0:00,Surabaya,Hukum,2018
+NIM01675,Mahasiswa_1675,Laki-Laki,3/2/1995 0:00,Medan,Manajemen,2017
+NIM01676,Mahasiswa_1676,Laki-Laki,7/11/1998 0:00,Bandung,Teknik Informatika,2023
+NIM01677,Mahasiswa_1677,Laki-Laki,1/5/1996 0:00,Bandung,Teknik Informatika,2017
+NIM01678,Mahasiswa_1678,Laki-Laki,8/25/1999 0:00,Jakarta,Hukum,2017
+NIM01679,Mahasiswa_1679,Perempuan,6/30/1997 0:00,Surabaya,Kedokteran,2017
+NIM01680,Mahasiswa_1680,Perempuan,11/7/2002 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01681,Mahasiswa_1681,Perempuan,2/6/1998 0:00,Bandung,Teknik Informatika,2022
+NIM01682,Mahasiswa_1682,Perempuan,2/25/1995 0:00,Jakarta,Hukum,2023
+NIM01683,Mahasiswa_1683,Laki-Laki,8/25/1995 0:00,Surabaya,Akuntansi,2022
+NIM01684,Mahasiswa_1684,Laki-Laki,12/23/2004 0:00,Surabaya,Manajemen,2023
+NIM01685,Mahasiswa_1685,Laki-Laki,12/15/1997 0:00,Jakarta,Teknik Informatika,2023
+NIM01686,Mahasiswa_1686,Laki-Laki,7/16/2003 0:00,Jakarta,Akuntansi,2019
+NIM01687,Mahasiswa_1687,Perempuan,3/14/2001 0:00,Yogyakarta,Kedokteran,2022
+NIM01688,Mahasiswa_1688,Laki-Laki,2/28/1996 0:00,Jakarta,Akuntansi,2019
+NIM01689,Mahasiswa_1689,Laki-Laki,8/28/2003 0:00,Yogyakarta,Hukum,2021
+NIM01690,Mahasiswa_1690,Perempuan,1/2/2004 0:00,Yogyakarta,Kedokteran,2019
+NIM01691,Mahasiswa_1691,Perempuan,12/25/1996 0:00,Medan,Kedokteran,2017
+NIM01692,Mahasiswa_1692,Perempuan,7/7/1997 0:00,Surabaya,Akuntansi,2020
+NIM01693,Mahasiswa_1693,Perempuan,11/2/2004 0:00,Surabaya,Hukum,2020
+NIM01694,Mahasiswa_1694,Laki-Laki,1/30/1996 0:00,Surabaya,Teknik Informatika,2018
+NIM01695,Mahasiswa_1695,Laki-Laki,9/24/1997 0:00,Medan,Akuntansi,2018
+NIM01696,Mahasiswa_1696,Perempuan,4/17/2000 0:00,Yogyakarta,Teknik Informatika,2019
+NIM01697,Mahasiswa_1697,Laki-Laki,11/28/2003 0:00,Yogyakarta,Akuntansi,2023
+NIM01698,Mahasiswa_1698,Laki-Laki,3/31/2003 0:00,Jakarta,Teknik Informatika,2023
+NIM01699,Mahasiswa_1699,Laki-Laki,7/24/2001 0:00,Medan,Akuntansi,2020
+NIM01700,Mahasiswa_1700,Perempuan,8/8/1997 0:00,Jakarta,Kedokteran,2017
+NIM01701,Mahasiswa_1701,Laki-Laki,4/4/1998 0:00,Medan,Manajemen,2022
+NIM01702,Mahasiswa_1702,Perempuan,4/12/2000 0:00,Jakarta,Kedokteran,2017
+NIM01703,Mahasiswa_1703,Laki-Laki,8/11/1999 0:00,Bandung,Teknik Informatika,2017
+NIM01704,Mahasiswa_1704,Laki-Laki,7/4/1996 0:00,Surabaya,Hukum,2019
+NIM01705,Mahasiswa_1705,Laki-Laki,7/2/2000 0:00,Surabaya,Kedokteran,2019
+NIM01706,Mahasiswa_1706,Perempuan,6/11/1997 0:00,Yogyakarta,Manajemen,2021
+NIM01707,Mahasiswa_1707,Laki-Laki,9/4/2002 0:00,Bandung,Teknik Informatika,2017
+NIM01708,Mahasiswa_1708,Perempuan,1/31/1996 0:00,Surabaya,Kedokteran,2023
+NIM01709,Mahasiswa_1709,Perempuan,2/21/1995 0:00,Yogyakarta,Akuntansi,2023
+NIM01710,Mahasiswa_1710,Perempuan,12/11/2003 0:00,Bandung,Hukum,2017
+NIM01711,Mahasiswa_1711,Laki-Laki,3/17/1997 0:00,Surabaya,Teknik Informatika,2019
+NIM01712,Mahasiswa_1712,Laki-Laki,10/5/1995 0:00,Jakarta,Kedokteran,2019
+NIM01713,Mahasiswa_1713,Laki-Laki,2/9/2001 0:00,Medan,Teknik Informatika,2021
+NIM01714,Mahasiswa_1714,Laki-Laki,4/10/2004 0:00,Bandung,Akuntansi,2021
+NIM01715,Mahasiswa_1715,Perempuan,4/21/1999 0:00,Yogyakarta,Manajemen,2018
+NIM01716,Mahasiswa_1716,Perempuan,11/17/1999 0:00,Bandung,Kedokteran,2020
+NIM01717,Mahasiswa_1717,Perempuan,9/6/1995 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01718,Mahasiswa_1718,Laki-Laki,7/10/2003 0:00,Bandung,Teknik Informatika,2023
+NIM01719,Mahasiswa_1719,Perempuan,7/1/2001 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01720,Mahasiswa_1720,Laki-Laki,12/1/2002 0:00,Surabaya,Manajemen,2021
+NIM01721,Mahasiswa_1721,Perempuan,7/28/2003 0:00,Jakarta,Teknik Informatika,2021
+NIM01722,Mahasiswa_1722,Laki-Laki,1/22/2000 0:00,Surabaya,Hukum,2018
+NIM01723,Mahasiswa_1723,Laki-Laki,6/15/1999 0:00,Jakarta,Hukum,2020
+NIM01724,Mahasiswa_1724,Perempuan,4/8/2000 0:00,Surabaya,Teknik Informatika,2018
+NIM01725,Mahasiswa_1725,Perempuan,7/26/1996 0:00,Surabaya,Hukum,2023
+NIM01726,Mahasiswa_1726,Perempuan,1/8/1998 0:00,Bandung,Kedokteran,2020
+NIM01727,Mahasiswa_1727,Perempuan,7/9/1997 0:00,Medan,Hukum,2022
+NIM01728,Mahasiswa_1728,Laki-Laki,6/24/2001 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01729,Mahasiswa_1729,Perempuan,9/30/2003 0:00,Yogyakarta,Akuntansi,2018
+NIM01730,Mahasiswa_1730,Perempuan,1/17/1999 0:00,Yogyakarta,Kedokteran,2021
+NIM01731,Mahasiswa_1731,Perempuan,3/30/2000 0:00,Jakarta,Manajemen,2018
+NIM01732,Mahasiswa_1732,Laki-Laki,5/20/2004 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01733,Mahasiswa_1733,Laki-Laki,5/24/1996 0:00,Yogyakarta,Manajemen,2018
+NIM01734,Mahasiswa_1734,Perempuan,6/15/1997 0:00,Bandung,Akuntansi,2017
+NIM01735,Mahasiswa_1735,Laki-Laki,12/3/1997 0:00,Surabaya,Manajemen,2022
+NIM01736,Mahasiswa_1736,Perempuan,3/19/2003 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01737,Mahasiswa_1737,Laki-Laki,9/19/2001 0:00,Medan,Teknik Informatika,2021
+NIM01738,Mahasiswa_1738,Laki-Laki,6/12/2002 0:00,Yogyakarta,Akuntansi,2019
+NIM01739,Mahasiswa_1739,Laki-Laki,1/14/2004 0:00,Jakarta,Teknik Informatika,2022
+NIM01740,Mahasiswa_1740,Laki-Laki,8/27/2003 0:00,Jakarta,Akuntansi,2019
+NIM01741,Mahasiswa_1741,Perempuan,3/12/2000 0:00,Jakarta,Akuntansi,2019
+NIM01742,Mahasiswa_1742,Perempuan,5/23/1998 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01743,Mahasiswa_1743,Perempuan,11/6/1995 0:00,Bandung,Hukum,2018
+NIM01744,Mahasiswa_1744,Laki-Laki,10/10/2002 0:00,Medan,Akuntansi,2021
+NIM01745,Mahasiswa_1745,Perempuan,9/26/2001 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01746,Mahasiswa_1746,Perempuan,8/28/1996 0:00,Bandung,Hukum,2018
+NIM01747,Mahasiswa_1747,Perempuan,9/2/2002 0:00,Bandung,Akuntansi,2021
+NIM01748,Mahasiswa_1748,Laki-Laki,6/12/1999 0:00,Yogyakarta,Hukum,2018
+NIM01749,Mahasiswa_1749,Laki-Laki,3/1/2001 0:00,Yogyakarta,Kedokteran,2022
+NIM01750,Mahasiswa_1750,Laki-Laki,1/6/1998 0:00,Bandung,Kedokteran,2017
+NIM01751,Mahasiswa_1751,Perempuan,7/16/1999 0:00,Bandung,Hukum,2017
+NIM01752,Mahasiswa_1752,Perempuan,2/27/2002 0:00,Bandung,Akuntansi,2023
+NIM01753,Mahasiswa_1753,Perempuan,11/1/1995 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01754,Mahasiswa_1754,Laki-Laki,8/5/1995 0:00,Bandung,Manajemen,2018
+NIM01755,Mahasiswa_1755,Laki-Laki,1/26/1998 0:00,Jakarta,Teknik Informatika,2023
+NIM01756,Mahasiswa_1756,Perempuan,10/30/1997 0:00,Yogyakarta,Manajemen,2018
+NIM01757,Mahasiswa_1757,Laki-Laki,1/5/2004 0:00,Jakarta,Manajemen,2020
+NIM01758,Mahasiswa_1758,Laki-Laki,1/20/1996 0:00,Surabaya,Akuntansi,2023
+NIM01759,Mahasiswa_1759,Laki-Laki,7/17/1997 0:00,Yogyakarta,Hukum,2021
+NIM01760,Mahasiswa_1760,Laki-Laki,2/28/1995 0:00,Surabaya,Teknik Informatika,2021
+NIM01761,Mahasiswa_1761,Perempuan,8/30/1995 0:00,Bandung,Hukum,2020
+NIM01762,Mahasiswa_1762,Laki-Laki,5/25/2000 0:00,Bandung,Kedokteran,2020
+NIM01763,Mahasiswa_1763,Laki-Laki,9/30/1999 0:00,Medan,Akuntansi,2017
+NIM01764,Mahasiswa_1764,Laki-Laki,9/6/2002 0:00,Bandung,Akuntansi,2020
+NIM01765,Mahasiswa_1765,Laki-Laki,1/14/1996 0:00,Surabaya,Kedokteran,2018
+NIM01766,Mahasiswa_1766,Perempuan,1/13/1998 0:00,Bandung,Teknik Informatika,2019
+NIM01767,Mahasiswa_1767,Perempuan,2/13/2002 0:00,Yogyakarta,Kedokteran,2018
+NIM01768,Mahasiswa_1768,Laki-Laki,1/19/2000 0:00,Bandung,Teknik Informatika,2023
+NIM01769,Mahasiswa_1769,Laki-Laki,3/4/1995 0:00,Medan,Manajemen,2020
+NIM01770,Mahasiswa_1770,Laki-Laki,8/27/1998 0:00,Bandung,Akuntansi,2021
+NIM01771,Mahasiswa_1771,Laki-Laki,12/3/1995 0:00,Surabaya,Teknik Informatika,2018
+NIM01772,Mahasiswa_1772,Laki-Laki,4/9/1996 0:00,Surabaya,Hukum,2021
+NIM01773,Mahasiswa_1773,Laki-Laki,6/12/1999 0:00,Bandung,Hukum,2018
+NIM01774,Mahasiswa_1774,Perempuan,5/2/2002 0:00,Surabaya,Akuntansi,2021
+NIM01775,Mahasiswa_1775,Laki-Laki,2/13/2002 0:00,Surabaya,Kedokteran,2022
+NIM01776,Mahasiswa_1776,Perempuan,12/26/1997 0:00,Medan,Kedokteran,2018
+NIM01777,Mahasiswa_1777,Perempuan,11/13/1998 0:00,Yogyakarta,Teknik Informatika,2023
+NIM01778,Mahasiswa_1778,Laki-Laki,5/24/2004 0:00,Medan,Kedokteran,2021
+NIM01779,Mahasiswa_1779,Perempuan,11/22/2000 0:00,Jakarta,Akuntansi,2019
+NIM01780,Mahasiswa_1780,Perempuan,12/28/2004 0:00,Medan,Teknik Informatika,2023
+NIM01781,Mahasiswa_1781,Perempuan,2/19/1997 0:00,Bandung,Manajemen,2017
+NIM01782,Mahasiswa_1782,Perempuan,3/5/1996 0:00,Yogyakarta,Kedokteran,2018
+NIM01783,Mahasiswa_1783,Perempuan,12/20/2000 0:00,Bandung,Kedokteran,2019
+NIM01784,Mahasiswa_1784,Perempuan,10/15/1999 0:00,Jakarta,Teknik Informatika,2017
+NIM01785,Mahasiswa_1785,Laki-Laki,6/12/2004 0:00,Yogyakarta,Hukum,2018
+NIM01786,Mahasiswa_1786,Perempuan,5/21/1999 0:00,Surabaya,Kedokteran,2019
+NIM01787,Mahasiswa_1787,Perempuan,11/9/2004 0:00,Medan,Akuntansi,2019
+NIM01788,Mahasiswa_1788,Perempuan,5/8/1999 0:00,Bandung,Kedokteran,2023
+NIM01789,Mahasiswa_1789,Laki-Laki,8/26/2004 0:00,Jakarta,Manajemen,2022
+NIM01790,Mahasiswa_1790,Perempuan,11/20/1999 0:00,Surabaya,Kedokteran,2019
+NIM01791,Mahasiswa_1791,Laki-Laki,10/23/1997 0:00,Medan,Hukum,2022
+NIM01792,Mahasiswa_1792,Perempuan,7/6/2001 0:00,Surabaya,Kedokteran,2020
+NIM01793,Mahasiswa_1793,Laki-Laki,7/26/2000 0:00,Medan,Teknik Informatika,2023
+NIM01794,Mahasiswa_1794,Laki-Laki,8/8/1998 0:00,Yogyakarta,Kedokteran,2021
+NIM01795,Mahasiswa_1795,Perempuan,7/8/1996 0:00,Surabaya,Hukum,2023
+NIM01796,Mahasiswa_1796,Perempuan,12/12/2003 0:00,Surabaya,Teknik Informatika,2017
+NIM01797,Mahasiswa_1797,Laki-Laki,10/11/1995 0:00,Surabaya,Akuntansi,2021
+NIM01798,Mahasiswa_1798,Perempuan,12/18/1998 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01799,Mahasiswa_1799,Laki-Laki,8/25/1995 0:00,Jakarta,Manajemen,2022
+NIM01800,Mahasiswa_1800,Laki-Laki,7/12/2000 0:00,Medan,Teknik Informatika,2021
+NIM01801,Mahasiswa_1801,Laki-Laki,10/14/1998 0:00,Surabaya,Akuntansi,2019
+NIM01802,Mahasiswa_1802,Laki-Laki,9/16/1999 0:00,Yogyakarta,Kedokteran,2022
+NIM01803,Mahasiswa_1803,Laki-Laki,9/3/1999 0:00,Jakarta,Teknik Informatika,2021
+NIM01804,Mahasiswa_1804,Perempuan,5/16/2003 0:00,Medan,Teknik Informatika,2022
+NIM01805,Mahasiswa_1805,Laki-Laki,10/7/1995 0:00,Yogyakarta,Teknik Informatika,2020
+NIM01806,Mahasiswa_1806,Laki-Laki,9/27/1996 0:00,Medan,Teknik Informatika,2022
+NIM01807,Mahasiswa_1807,Perempuan,6/19/2000 0:00,Surabaya,Akuntansi,2018
+NIM01808,Mahasiswa_1808,Laki-Laki,6/8/1999 0:00,Jakarta,Hukum,2019
+NIM01809,Mahasiswa_1809,Perempuan,7/20/2001 0:00,Yogyakarta,Hukum,2017
+NIM01810,Mahasiswa_1810,Perempuan,2/14/1997 0:00,Jakarta,Teknik Informatika,2018
+NIM01811,Mahasiswa_1811,Perempuan,9/21/1997 0:00,Surabaya,Akuntansi,2018
+NIM01812,Mahasiswa_1812,Laki-Laki,3/11/2004 0:00,Jakarta,Akuntansi,2018
+NIM01813,Mahasiswa_1813,Laki-Laki,12/29/1996 0:00,Jakarta,Teknik Informatika,2021
+NIM01814,Mahasiswa_1814,Laki-Laki,4/13/1997 0:00,Bandung,Manajemen,2022
+NIM01815,Mahasiswa_1815,Perempuan,5/4/2004 0:00,Jakarta,Teknik Informatika,2022
+NIM01816,Mahasiswa_1816,Laki-Laki,11/9/1995 0:00,Medan,Manajemen,2023
+NIM01817,Mahasiswa_1817,Perempuan,10/13/1999 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01818,Mahasiswa_1818,Laki-Laki,8/18/1999 0:00,Bandung,Manajemen,2019
+NIM01819,Mahasiswa_1819,Perempuan,5/26/2001 0:00,Yogyakarta,Manajemen,2021
+NIM01820,Mahasiswa_1820,Laki-Laki,7/16/1998 0:00,Yogyakarta,Teknik Informatika,2021
+NIM01821,Mahasiswa_1821,Laki-Laki,8/9/1997 0:00,Surabaya,Manajemen,2021
+NIM01822,Mahasiswa_1822,Laki-Laki,3/1/1995 0:00,Surabaya,Kedokteran,2019
+NIM01823,Mahasiswa_1823,Perempuan,4/8/2002 0:00,Bandung,Hukum,2023
+NIM01824,Mahasiswa_1824,Perempuan,6/20/1997 0:00,Surabaya,Akuntansi,2019
+NIM01825,Mahasiswa_1825,Laki-Laki,6/21/1996 0:00,Surabaya,Manajemen,2020
+NIM01826,Mahasiswa_1826,Laki-Laki,5/31/1998 0:00,Surabaya,Manajemen,2023
+NIM01827,Mahasiswa_1827,Perempuan,12/16/1997 0:00,Yogyakarta,Akuntansi,2020
+NIM01828,Mahasiswa_1828,Perempuan,5/2/1995 0:00,Bandung,Manajemen,2020
+NIM01829,Mahasiswa_1829,Perempuan,4/18/1997 0:00,Yogyakarta,Akuntansi,2020
+NIM01830,Mahasiswa_1830,Laki-Laki,1/4/1996 0:00,Medan,Teknik Informatika,2022
+NIM01831,Mahasiswa_1831,Perempuan,4/3/2002 0:00,Yogyakarta,Kedokteran,2018
+NIM01832,Mahasiswa_1832,Laki-Laki,1/6/2000 0:00,Medan,Kedokteran,2018
+NIM01833,Mahasiswa_1833,Perempuan,10/15/2003 0:00,Jakarta,Hukum,2020
+NIM01834,Mahasiswa_1834,Laki-Laki,4/16/2002 0:00,Jakarta,Manajemen,2020
+NIM01835,Mahasiswa_1835,Perempuan,5/25/2004 0:00,Medan,Hukum,2017
+NIM01836,Mahasiswa_1836,Perempuan,9/28/1997 0:00,Medan,Teknik Informatika,2018
+NIM01837,Mahasiswa_1837,Perempuan,4/6/1999 0:00,Yogyakarta,Kedokteran,2017
+NIM01838,Mahasiswa_1838,Perempuan,8/17/2001 0:00,Medan,Teknik Informatika,2023
+NIM01839,Mahasiswa_1839,Perempuan,7/21/1999 0:00,Bandung,Teknik Informatika,2017
+NIM01840,Mahasiswa_1840,Laki-Laki,7/31/2002 0:00,Jakarta,Manajemen,2021
+NIM01841,Mahasiswa_1841,Perempuan,1/6/1999 0:00,Jakarta,Teknik Informatika,2022
+NIM01842,Mahasiswa_1842,Perempuan,4/22/1995 0:00,Medan,Kedokteran,2023
+NIM01843,Mahasiswa_1843,Perempuan,11/19/1999 0:00,Surabaya,Hukum,2019
+NIM01844,Mahasiswa_1844,Laki-Laki,4/16/1998 0:00,Surabaya,Kedokteran,2018
+NIM01845,Mahasiswa_1845,Perempuan,5/18/2000 0:00,Medan,Manajemen,2020
+NIM01846,Mahasiswa_1846,Laki-Laki,10/26/1997 0:00,Bandung,Kedokteran,2023
+NIM01847,Mahasiswa_1847,Perempuan,4/6/1999 0:00,Surabaya,Akuntansi,2020
+NIM01848,Mahasiswa_1848,Perempuan,12/2/1996 0:00,Medan,Hukum,2019
+NIM01849,Mahasiswa_1849,Laki-Laki,10/23/2000 0:00,Bandung,Akuntansi,2023
+NIM01850,Mahasiswa_1850,Perempuan,8/1/2000 0:00,Bandung,Akuntansi,2018
+NIM01851,Mahasiswa_1851,Laki-Laki,10/18/1999 0:00,Yogyakarta,Manajemen,2023
+NIM01852,Mahasiswa_1852,Laki-Laki,1/22/2000 0:00,Bandung,Teknik Informatika,2020
+NIM01853,Mahasiswa_1853,Perempuan,7/12/2001 0:00,Surabaya,Akuntansi,2020
+NIM01854,Mahasiswa_1854,Laki-Laki,5/30/1999 0:00,Surabaya,Kedokteran,2021
+NIM01855,Mahasiswa_1855,Perempuan,9/4/1995 0:00,Medan,Teknik Informatika,2017
+NIM01856,Mahasiswa_1856,Perempuan,9/24/2002 0:00,Medan,Kedokteran,2023
+NIM01857,Mahasiswa_1857,Laki-Laki,9/8/1998 0:00,Bandung,Kedokteran,2020
+NIM01858,Mahasiswa_1858,Laki-Laki,1/3/2003 0:00,Jakarta,Teknik Informatika,2022
+NIM01859,Mahasiswa_1859,Laki-Laki,11/11/2004 0:00,Yogyakarta,Teknik Informatika,2018
+NIM01860,Mahasiswa_1860,Laki-Laki,3/16/2000 0:00,Jakarta,Kedokteran,2022
+NIM01861,Mahasiswa_1861,Perempuan,3/28/1995 0:00,Bandung,Manajemen,2019
+NIM01862,Mahasiswa_1862,Perempuan,9/27/1997 0:00,Bandung,Hukum,2023
+NIM01863,Mahasiswa_1863,Laki-Laki,8/13/1997 0:00,Jakarta,Hukum,2021
+NIM01864,Mahasiswa_1864,Perempuan,1/18/2004 0:00,Yogyakarta,Manajemen,2018
+NIM01865,Mahasiswa_1865,Perempuan,4/23/1998 0:00,Jakarta,Teknik Informatika,2021
+NIM01866,Mahasiswa_1866,Perempuan,9/7/2000 0:00,Medan,Kedokteran,2017
+NIM01867,Mahasiswa_1867,Perempuan,8/21/2001 0:00,Surabaya,Hukum,2020
+NIM01868,Mahasiswa_1868,Laki-Laki,11/24/2004 0:00,Medan,Kedokteran,2018
+NIM01869,Mahasiswa_1869,Laki-Laki,10/6/1998 0:00,Surabaya,Manajemen,2019
+NIM01870,Mahasiswa_1870,Perempuan,7/20/2000 0:00,Bandung,Kedokteran,2023
+NIM01871,Mahasiswa_1871,Laki-Laki,3/24/1995 0:00,Yogyakarta,Manajemen,2017
+NIM01872,Mahasiswa_1872,Laki-Laki,5/5/2002 0:00,Jakarta,Teknik Informatika,2017
+NIM01873,Mahasiswa_1873,Laki-Laki,6/24/2001 0:00,Yogyakarta,Manajemen,2021
+NIM01874,Mahasiswa_1874,Perempuan,3/10/2003 0:00,Jakarta,Manajemen,2017
+NIM01875,Mahasiswa_1875,Perempuan,2/16/1997 0:00,Medan,Hukum,2018
+NIM01876,Mahasiswa_1876,Perempuan,9/12/1996 0:00,Medan,Kedokteran,2021
+NIM01877,Mahasiswa_1877,Laki-Laki,8/3/1995 0:00,Jakarta,Hukum,2017
+NIM01878,Mahasiswa_1878,Perempuan,1/30/1997 0:00,Yogyakarta,Akuntansi,2023
+NIM01879,Mahasiswa_1879,Perempuan,10/8/1999 0:00,Jakarta,Manajemen,2019
+NIM01880,Mahasiswa_1880,Laki-Laki,8/24/1996 0:00,Bandung,Akuntansi,2023
+NIM01881,Mahasiswa_1881,Perempuan,9/5/1997 0:00,Medan,Hukum,2022
+NIM01882,Mahasiswa_1882,Perempuan,1/25/1998 0:00,Bandung,Kedokteran,2018
+NIM01883,Mahasiswa_1883,Laki-Laki,3/15/2001 0:00,Medan,Hukum,2019
+NIM01884,Mahasiswa_1884,Laki-Laki,7/25/1997 0:00,Medan,Kedokteran,2019
+NIM01885,Mahasiswa_1885,Laki-Laki,11/10/2003 0:00,Surabaya,Kedokteran,2021
+NIM01886,Mahasiswa_1886,Perempuan,4/4/2002 0:00,Bandung,Teknik Informatika,2020
+NIM01887,Mahasiswa_1887,Perempuan,5/7/1998 0:00,Bandung,Manajemen,2021
+NIM01888,Mahasiswa_1888,Perempuan,1/25/1995 0:00,Surabaya,Hukum,2018
+NIM01889,Mahasiswa_1889,Laki-Laki,11/30/1995 0:00,Yogyakarta,Kedokteran,2018
+NIM01890,Mahasiswa_1890,Laki-Laki,12/21/1995 0:00,Bandung,Hukum,2021
+NIM01891,Mahasiswa_1891,Perempuan,4/26/1995 0:00,Jakarta,Hukum,2020
+NIM01892,Mahasiswa_1892,Perempuan,2/17/2002 0:00,Surabaya,Kedokteran,2023
+NIM01893,Mahasiswa_1893,Laki-Laki,8/14/1997 0:00,Bandung,Akuntansi,2021
+NIM01894,Mahasiswa_1894,Laki-Laki,9/22/2000 0:00,Yogyakarta,Manajemen,2018
+NIM01895,Mahasiswa_1895,Laki-Laki,4/9/1997 0:00,Bandung,Manajemen,2020
+NIM01896,Mahasiswa_1896,Laki-Laki,1/11/1999 0:00,Medan,Teknik Informatika,2018
+NIM01897,Mahasiswa_1897,Perempuan,3/26/2001 0:00,Jakarta,Teknik Informatika,2020
+NIM01898,Mahasiswa_1898,Laki-Laki,8/1/1996 0:00,Surabaya,Teknik Informatika,2020
+NIM01899,Mahasiswa_1899,Perempuan,6/21/2000 0:00,Medan,Manajemen,2021
+NIM01900,Mahasiswa_1900,Perempuan,7/27/2000 0:00,Yogyakarta,Akuntansi,2021
+NIM01901,Mahasiswa_1901,Perempuan,3/5/1997 0:00,Medan,Manajemen,2021
+NIM01902,Mahasiswa_1902,Laki-Laki,9/14/2000 0:00,Medan,Manajemen,2020
+NIM01903,Mahasiswa_1903,Laki-Laki,11/27/2004 0:00,Yogyakarta,Manajemen,2020
+NIM01904,Mahasiswa_1904,Laki-Laki,4/30/2004 0:00,Medan,Manajemen,2018
+NIM01905,Mahasiswa_1905,Laki-Laki,10/25/1999 0:00,Surabaya,Akuntansi,2019
+NIM01906,Mahasiswa_1906,Perempuan,2/23/1996 0:00,Bandung,Teknik Informatika,2021
+NIM01907,Mahasiswa_1907,Laki-Laki,11/27/2003 0:00,Medan,Hukum,2022
+NIM01908,Mahasiswa_1908,Laki-Laki,9/29/2002 0:00,Surabaya,Teknik Informatika,2018
+NIM01909,Mahasiswa_1909,Perempuan,8/29/1997 0:00,Bandung,Teknik Informatika,2018
+NIM01910,Mahasiswa_1910,Laki-Laki,8/31/2002 0:00,Bandung,Hukum,2017
+NIM01911,Mahasiswa_1911,Perempuan,1/18/2003 0:00,Medan,Manajemen,2021
+NIM01912,Mahasiswa_1912,Perempuan,7/6/1997 0:00,Surabaya,Akuntansi,2023
+NIM01913,Mahasiswa_1913,Perempuan,12/12/1997 0:00,Medan,Akuntansi,2018
+NIM01914,Mahasiswa_1914,Perempuan,5/23/1996 0:00,Yogyakarta,Teknik Informatika,2017
+NIM01915,Mahasiswa_1915,Perempuan,9/19/2002 0:00,Bandung,Hukum,2022
+NIM01916,Mahasiswa_1916,Perempuan,12/29/2004 0:00,Medan,Kedokteran,2022
+NIM01917,Mahasiswa_1917,Perempuan,8/27/1995 0:00,Bandung,Manajemen,2023
+NIM01918,Mahasiswa_1918,Perempuan,10/31/2002 0:00,Surabaya,Teknik Informatika,2021
+NIM01919,Mahasiswa_1919,Laki-Laki,10/25/2001 0:00,Jakarta,Akuntansi,2020
+NIM01920,Mahasiswa_1920,Laki-Laki,3/17/2001 0:00,Medan,Hukum,2017
+NIM01921,Mahasiswa_1921,Laki-Laki,7/7/1997 0:00,Medan,Hukum,2020
+NIM01922,Mahasiswa_1922,Laki-Laki,11/29/1995 0:00,Bandung,Teknik Informatika,2022
+NIM01923,Mahasiswa_1923,Perempuan,9/3/1998 0:00,Surabaya,Kedokteran,2022
+NIM01924,Mahasiswa_1924,Laki-Laki,5/10/2003 0:00,Yogyakarta,Akuntansi,2019
+NIM01925,Mahasiswa_1925,Perempuan,11/11/1999 0:00,Surabaya,Teknik Informatika,2019
+NIM01926,Mahasiswa_1926,Laki-Laki,10/10/1995 0:00,Medan,Kedokteran,2023
+NIM01927,Mahasiswa_1927,Laki-Laki,3/20/1999 0:00,Yogyakarta,Hukum,2019
+NIM01928,Mahasiswa_1928,Laki-Laki,3/13/2002 0:00,Surabaya,Manajemen,2019
+NIM01929,Mahasiswa_1929,Perempuan,9/20/2002 0:00,Jakarta,Akuntansi,2023
+NIM01930,Mahasiswa_1930,Laki-Laki,7/10/1999 0:00,Bandung,Akuntansi,2018
+NIM01931,Mahasiswa_1931,Perempuan,3/4/2003 0:00,Surabaya,Kedokteran,2019
+NIM01932,Mahasiswa_1932,Perempuan,1/12/1995 0:00,Surabaya,Teknik Informatika,2018
+NIM01933,Mahasiswa_1933,Laki-Laki,5/21/1998 0:00,Jakarta,Hukum,2018
+NIM01934,Mahasiswa_1934,Laki-Laki,9/11/1997 0:00,Medan,Kedokteran,2021
+NIM01935,Mahasiswa_1935,Laki-Laki,2/12/1996 0:00,Bandung,Manajemen,2018
+NIM01936,Mahasiswa_1936,Perempuan,1/17/2002 0:00,Surabaya,Manajemen,2018
+NIM01937,Mahasiswa_1937,Laki-Laki,3/4/2001 0:00,Yogyakarta,Manajemen,2019
+NIM01938,Mahasiswa_1938,Perempuan,9/10/2003 0:00,Surabaya,Kedokteran,2018
+NIM01939,Mahasiswa_1939,Perempuan,10/18/1996 0:00,Bandung,Hukum,2020
+NIM01940,Mahasiswa_1940,Laki-Laki,1/8/1998 0:00,Surabaya,Akuntansi,2023
+NIM01941,Mahasiswa_1941,Laki-Laki,11/20/2000 0:00,Jakarta,Teknik Informatika,2019
+NIM01942,Mahasiswa_1942,Perempuan,3/31/1997 0:00,Surabaya,Akuntansi,2023
+NIM01943,Mahasiswa_1943,Perempuan,7/27/2002 0:00,Surabaya,Hukum,2017
+NIM01944,Mahasiswa_1944,Perempuan,10/19/1997 0:00,Yogyakarta,Akuntansi,2019
+NIM01945,Mahasiswa_1945,Laki-Laki,10/10/1996 0:00,Jakarta,Kedokteran,2018
+NIM01946,Mahasiswa_1946,Perempuan,4/28/1997 0:00,Jakarta,Manajemen,2020
+NIM01947,Mahasiswa_1947,Laki-Laki,12/14/2000 0:00,Surabaya,Hukum,2023
+NIM01948,Mahasiswa_1948,Perempuan,6/23/1996 0:00,Yogyakarta,Hukum,2019
+NIM01949,Mahasiswa_1949,Perempuan,3/17/2002 0:00,Surabaya,Akuntansi,2020
+NIM01950,Mahasiswa_1950,Laki-Laki,4/11/1995 0:00,Surabaya,Kedokteran,2023
+NIM01951,Mahasiswa_1951,Perempuan,5/31/2001 0:00,Bandung,Akuntansi,2017
+NIM01952,Mahasiswa_1952,Laki-Laki,9/26/1996 0:00,Bandung,Akuntansi,2022
+NIM01953,Mahasiswa_1953,Laki-Laki,3/11/2004 0:00,Yogyakarta,Hukum,2017
+NIM01954,Mahasiswa_1954,Perempuan,6/28/2000 0:00,Medan,Akuntansi,2022
+NIM01955,Mahasiswa_1955,Laki-Laki,5/3/1996 0:00,Bandung,Manajemen,2021
+NIM01956,Mahasiswa_1956,Laki-Laki,10/19/1996 0:00,Medan,Akuntansi,2022
+NIM01957,Mahasiswa_1957,Perempuan,10/11/2004 0:00,Jakarta,Manajemen,2021
+NIM01958,Mahasiswa_1958,Laki-Laki,7/14/2002 0:00,Bandung,Hukum,2019
+NIM01959,Mahasiswa_1959,Laki-Laki,8/15/1996 0:00,Bandung,Kedokteran,2021
+NIM01960,Mahasiswa_1960,Laki-Laki,10/2/2001 0:00,Yogyakarta,Manajemen,2020
+NIM01961,Mahasiswa_1961,Perempuan,4/16/1997 0:00,Medan,Kedokteran,2021
+NIM01962,Mahasiswa_1962,Laki-Laki,1/21/2002 0:00,Bandung,Kedokteran,2020
+NIM01963,Mahasiswa_1963,Perempuan,3/5/2001 0:00,Bandung,Manajemen,2023
+NIM01964,Mahasiswa_1964,Perempuan,6/14/2002 0:00,Yogyakarta,Hukum,2023
+NIM01965,Mahasiswa_1965,Laki-Laki,1/27/2001 0:00,Yogyakarta,Teknik Informatika,2022
+NIM01966,Mahasiswa_1966,Laki-Laki,11/6/2000 0:00,Medan,Kedokteran,2022
+NIM01967,Mahasiswa_1967,Laki-Laki,10/12/2001 0:00,Jakarta,Kedokteran,2022
+NIM01968,Mahasiswa_1968,Perempuan,5/28/1999 0:00,Jakarta,Hukum,2021
+NIM01969,Mahasiswa_1969,Laki-Laki,10/8/2001 0:00,Surabaya,Hukum,2022
+NIM01970,Mahasiswa_1970,Laki-Laki,11/22/1995 0:00,Bandung,Akuntansi,2021
+NIM01971,Mahasiswa_1971,Laki-Laki,11/15/1995 0:00,Medan,Hukum,2021
+NIM01972,Mahasiswa_1972,Laki-Laki,6/13/2003 0:00,Bandung,Kedokteran,2018
+NIM01973,Mahasiswa_1973,Laki-Laki,8/12/1999 0:00,Medan,Manajemen,2018
+NIM01974,Mahasiswa_1974,Perempuan,9/29/1999 0:00,Medan,Teknik Informatika,2021
+NIM01975,Mahasiswa_1975,Perempuan,5/26/1997 0:00,Medan,Akuntansi,2023
+NIM01976,Mahasiswa_1976,Laki-Laki,12/22/1999 0:00,Bandung,Manajemen,2020
+NIM01977,Mahasiswa_1977,Laki-Laki,1/30/1997 0:00,Yogyakarta,Teknik Informatika,2019
+NIM01978,Mahasiswa_1978,Laki-Laki,2/14/2003 0:00,Bandung,Teknik Informatika,2017
+NIM01979,Mahasiswa_1979,Laki-Laki,10/2/2003 0:00,Medan,Teknik Informatika,2018
+NIM01980,Mahasiswa_1980,Perempuan,2/3/2000 0:00,Surabaya,Manajemen,2021
+NIM01981,Mahasiswa_1981,Laki-Laki,5/21/1995 0:00,Jakarta,Akuntansi,2017
+NIM01982,Mahasiswa_1982,Perempuan,11/14/2001 0:00,Medan,Akuntansi,2018
+NIM01983,Mahasiswa_1983,Perempuan,8/9/2001 0:00,Surabaya,Teknik Informatika,2019
+NIM01984,Mahasiswa_1984,Laki-Laki,12/21/2004 0:00,Yogyakarta,Manajemen,2020
+NIM01985,Mahasiswa_1985,Perempuan,1/22/2004 0:00,Medan,Teknik Informatika,2021
+NIM01986,Mahasiswa_1986,Perempuan,6/29/1998 0:00,Surabaya,Hukum,2019
+NIM01987,Mahasiswa_1987,Perempuan,11/25/2002 0:00,Medan,Akuntansi,2023
+NIM01988,Mahasiswa_1988,Perempuan,8/18/2000 0:00,Bandung,Kedokteran,2018
+NIM01989,Mahasiswa_1989,Laki-Laki,2/7/1998 0:00,Surabaya,Teknik Informatika,2021
+NIM01990,Mahasiswa_1990,Laki-Laki,3/11/1998 0:00,Bandung,Hukum,2017
+NIM01991,Mahasiswa_1991,Perempuan,4/25/1996 0:00,Bandung,Akuntansi,2023
+NIM01992,Mahasiswa_1992,Laki-Laki,8/26/1996 0:00,Surabaya,Manajemen,2023
+NIM01993,Mahasiswa_1993,Laki-Laki,12/1/1998 0:00,Jakarta,Akuntansi,2022
+NIM01994,Mahasiswa_1994,Laki-Laki,5/28/1999 0:00,Surabaya,Manajemen,2020
+NIM01995,Mahasiswa_1995,Laki-Laki,1/9/2002 0:00,Jakarta,Manajemen,2023
+NIM01996,Mahasiswa_1996,Laki-Laki,10/14/2000 0:00,Medan,Teknik Informatika,2018
+NIM01997,Mahasiswa_1997,Perempuan,2/19/1998 0:00,Medan,Teknik Informatika,2020
+NIM01998,Mahasiswa_1998,Laki-Laki,12/4/2001 0:00,Surabaya,Akuntansi,2021
+NIM01999,Mahasiswa_1999,Laki-Laki,1/5/2002 0:00,Medan,Hukum,2022
+NIM02000,Mahasiswa_2000,Laki-Laki,12/8/1996 0:00,Yogyakarta,Akuntansi,2019
